@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 8v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 8v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="8v" facs="H0017682_8v.jpg" />
+            <fw type="folNum">14.</fw>
+            <div type="diaryEntry">
+                <p>kantigen Bruchstükken, hart<lb />sehr schwer zersprengbar, rauh<lb />kalt und schwer. Er hat eben<lb />den weißlich-grünen thonar-<lb />tigen Ueberzug, den die Ba-<lb />salte vom Dransberge und Wei<lb />ßener zeigen. Er ist unge-<lb />mein schimmernd, wegen der ihm<lb />eingesprengten Körner von ba-<lb />salt. Chrysolith. Große Massen<lb />von Chrys. od. Olivit, wie die<lb />Unkler und Rhöner Basalte<lb />enthalten, fand ich nirgends.<lb />Ueberhaupt sind die Chrys. sehr<lb />gleichmäßig eingesprengt und<lb />(wie z. Quarzkörner in<lb />einen Sandstein vertheilt.<lb />Die Strahlige Textur, wel-<lb />che die Antrimmer Basalte<lb />und zum Theil auch die<lb />haben und die<lb />mir Spuren einer ordentlichen<lb />anschießenden Chrystallisation</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 5v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 5v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="5v" facs="H0017682_5v.jpg" />
+            <div type="diaryEntry">
+                <p>Ferbers neue Beiträge zur<lb />Mineralgesch. I. p 455. Un-<lb />sere Unwissenheit geht so-<lb />gar so weit, daß uns Ja-<lb />kobsson noch vorlügen durfte<lb />Lakmus werde aus Croton<lb />tinctor, aus dem Tournesol<lb />von Grand Galarques, nicht<lb />aus Orseille (S. Demachy La-<lb />borant im Großen II p 273)<lb />gemacht. Technol. Wörterbuch<lb />II 544. Das crÿptogam. Stu<lb />dum ist nicht so unwichtig<lb />als man es gewöhnlich glaubt.<lb />Bei einer guten Staatswirth-<lb />schaft muß auch das Steinmooß<lb />mit zum Nationalreichthum bei-<lb />tragen. — Im Jahr 1300<lb />wurde der Farbstof des L. Roccel<lb />la in d. Levante dadurch<lb />entdekt, daß ein florentiner<lb />Kaufmann auf dem Felde<lb />sein Wasser abschlug und<lb />das Moos zu seinen Füßen</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 8r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 8r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="8r" facs="H0017682_8r.jpg" />
+            <div type="diaryEntry">
+                <p>Stoney – Middelton fand ich<lb />in großer Menge Arenaria<lb />saxatilis, diese selten Pflanze<lb />die in Deutschland nur bei<lb />Herzberg am Garze entdekt<lb />ist.<lb />Bowly ragg. Basalt<lb />Auf der Straße nach Dud-<lb />ley bei dem schönen Dorfe<lb />Hales oven liegt alles voll<lb />von Rowly ragg, den Kiwan<lb />und Cauallo als eine eigene<lb />Steinart aufführen. Rowly ragg<lb />ist ein bloßer Trivialnahme<lb />für Basalt, wie die Deutschen<lb />Namen Unkelstein und Stolpe<lb />nerstein. Ich fand diese engli-<lb />sche Abänderung des Basalts<lb />von schwarzlich grauer Farbe<lb />im Brühe nneben, von scharf-</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

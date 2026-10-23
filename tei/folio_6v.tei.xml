@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 6v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 6v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="6v" facs="H0017682_6v.jpg" />
+            <fw type="folNum">10.</fw>
+            <div type="diaryEntry">
+                <p>als die aus ostindischem Ma-<lb />terialien sei, ist ungegrün-<lb />det da auch bei der elendesten<lb />Bereitung ohne Anwendung von<lb />Salzen und anderen Bindemit-<lb />teln dieselbe oft so über<lb />aus prächtig ausfällt. Prof.<lb />Strom versichert in der Maa-<lb />daß der Heideblik od. Lieh-<lb />tartar von Norwegen nach<lb />England gehe, wo man ihn<lb />zu einer rothen und blauen<lb />Farbe auf Wolle und Kattun<lb />veredle. 1785 gingen allein 2<lb />Schifsladungen von diesem Lich-<lb />tartareus von Norwegen nach<lb />England.<lb />Die Schweden bereiten eine<lb />braune Farbe, die sie Bote-<lb />let nennen aus dem Lich<lb />Carlez. Fabricius Reise nach<lb />Norwegen p 66.</p>
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

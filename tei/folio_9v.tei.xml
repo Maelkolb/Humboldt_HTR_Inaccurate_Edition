@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 9v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 9v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="9v" facs="H0017682_9v.jpg" />
+            <fw type="folNum">16.</fw>
+            <div type="diaryEntry">
+                <p>Basalt schließen.<lb />Bei Halesowen viel Diam-<lb />Bäder in Derbyshire</p>
+                <p>D. Pearson’s observations and<lb />Matlockwater &amp; London 1778.</p>
+                <p>Mallock<lb />den ich in den hiesigen Blei<lb />gruben besonders am Masson-<lb />ham sahe, schien mit ein<lb />richter Mandelstein mit ein<lb />gekneten Kalkspat zu<lb />sein und ich kann Herrn Tuy-<lb />de St. Fond, der eben diese<lb />Gegend besuchte, nicht beipflich<lb />ten, wenn er diesen Soad-<lb />stone, troz Fieber, Trapp ne-<lb />nen will. Abh. von Trapp p 20.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

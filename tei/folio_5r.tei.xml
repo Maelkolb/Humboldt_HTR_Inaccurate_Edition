@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 5r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 5r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="5r" facs="H0017682_5r.jpg" />
+            <div type="diaryEntry">
+                <p>les teintures solides que nos<lb />végétaux indigènes communiquent<lb />aux laines p Paris 1786 und<lb />Hofman (de vario liehen. vou<lb />Elangae 1786 (— und verschei-<lb />ben noch immer Farbenstoffe<lb />aus dem Cano. Capverdischen<lb />und Griechischen Inseln od. aus<lb />den südlichen Frankreich, die<lb />unsere einheimischen Flechten<lb />uns darbieten könnten. Wenn<lb />kaufen lakmus von Holländer<lb />und Engländer und vergessen<lb />daß dieser ihm von L. saxatilis<lb />macht, das bei uns jede<lb />Baum, jeder Pfahl, jeder<lb />Stein trägt. S. von den Lil-<lb />musfabriken bei Leith in<lb />Schottland zu der 200 Me-<lb />des L. saxatilis beschäftigen</p>
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

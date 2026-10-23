@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 7r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 7r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="7r" facs="H0017682_7r.jpg" />
+            <div type="diaryEntry">
+                <p>11.</p>
+                <p>In Derbyshire heißt das<lb />lich. tartar. welch liverwort<lb />It is gathered for dyers and<lb />gives a purple colour. Pil-<lb />kington’s View of the pre-<lb />sent state of Derbyshire<lb />Vol. I p 478.</p>
+                <p>Poole’s hole.<lb />560 yards lang. Sie liegt<lb />im Südwesten von Buxton<lb />und dem Flüßchen Wye, gegen<lb />zu. Weil die Höle eng ist<lb />so bilden sich hier schönere Sta-<lb />laktiten, als die in Peak’s<lb />hole. Die größten sind der<lb />flitch of Bacon und der<lb />queen of Scots pillar den<lb />die unglükliche Maria während<lb />ihrer Gefangenschaft in Chats<lb />worth besucht haben soll.<lb />Ein kleiner Bach fließt aus</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

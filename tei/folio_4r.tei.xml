@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 4r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 4r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="4r" facs="H0017682_4r.jpg" />
+            <div type="diaryEntry">
+                <p>Erdschichten zu Tage sind,<lb />sieht man daß ein Pisolithen<lb />und Muschelkalk, von einer leichten<lb />Thonmasse bedekt, keine auf<lb />einem gräulichen, quarzreichen<lb />Sandsteine ruhe.</p>
+                <p>Gloucestershire<lb />Der ächte Sloc. Käse geht nach<lb />Bristol und von da nach Westin-<lb />dien. Der meiste Gloc. Käse<lb />den man in London sieht,<lb />kommt aus Wiltshire</p>
+                <p>Matlock<lb />An den Kalkwänden der Heights<lb />of Abraham und an dem lo-<lb />reis Walk an den Douvent dem<lb />old Bathe gegenüber (sah ich mit<lb />dem schönen Hypnum cista castren-<lb />sis) womit die ganze Bruk bei<lb />Göttingen bedekt ist (den Lich-<lb />capperatus den L. calcareus, und<lb />der Verrucaria pertusa Wild auch</p>
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

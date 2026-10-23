@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 6r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 6r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="6r" facs="H0017682_6r.jpg" />
+            <div type="diaryEntry">
+                <p>sich freuen sahe. Manni<lb />Comment. de Florentin. in-<lb />uentis c. 20. Wir leben in<lb />einen Zeitalter, wo wir nicht<lb />auf solche Chim. Prozesse zu<lb />horen brauchen. S. mein<lb />MSS. zu Maler technologica<lb />plantae tenctor. n. 468.<lb />Mohr sagt noch in seinem<lb />Forsog til en Islandsk Na-<lb />tushistorie p 230<lb />Heideblik od. Karte. Dies<lb />Moos ist seit den ältesten<lb />Zeiten in Norwegen, Schweden<lb />zum Farben gebraucht worden.<lb />der Indigo und andere ausländ.<lb />haben jezt den<lb />Gebrauch desselben fast ganz<lb />verdrängt. Der Vorwurf, daß<lb />die Farbe daraus nicht so<lb />hoch, glänzend und haltbar</p>
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

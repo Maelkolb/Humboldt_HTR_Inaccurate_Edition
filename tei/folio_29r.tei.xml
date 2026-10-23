@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 29r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 29r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="29r" facs="H0017682_29r.jpg" />
+            <fw type="folNum">B.</fw>
+            <div type="diaryEntry">
+                <p>U.</p>
+                <p>Röthel 4.</p>
+                <p>Scharfe 1. 4.<lb />Stoney Middleton 13.</p>
+                <p>Wolle 1.3.</p>
+                <p>Toadstone 16.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

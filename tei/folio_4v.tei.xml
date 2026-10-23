@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 4v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 4v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="4v" facs="H0017682_4v.jpg" />
+            <fw type="folNum">6.</fw>
+            <div type="diaryEntry">
+                <p>das Lich. tartareus, dem völlig<lb />ähnlich das ich in Teutschland<lb />in Nieder-<lb />Das L. tartareus wird häufig<lb />von Derbysch. gesamlet, nach<lb />Manchesler gebracht und dort<lb />in den Färbereien ver-<lb />kauft. Es giebt mit Wein<lb />präparirt (wie L. saxatilis<lb />L. calcar. und Verruc. perlusa<lb />eine schöne purpurrothe Far-<lb />be, bei der man die theuren<lb />Erde und Kräutererseille (L. Roc-<lb />cella und L. Parell.) entlehren<lb />kann.<lb />L. calcar. L. saxatil. L. tar-<lb />las. und Ven. pectusa wachsen<lb />fast im ganzen nördlichen<lb />Europa wild — aber man liegt<lb />die patriotischen Schriften</p>
+                <note hand="#author" place="right">
+                    <p>von Hannover sahe</p>
+                </note>
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

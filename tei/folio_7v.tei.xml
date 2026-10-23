@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 7v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 7v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="7v" facs="H0017682_7v.jpg" />
+            <fw type="folNum">12.</fw>
+            <div type="diaryEntry">
+                <p>der Höle heraus. Auf dem<lb />Wege von Buxton bis zur<lb />Höle fand ich häufig Saxi-<lb />fiaga granulata und S. tri-<lb />dactylites. An dem Eingange d.<lb />Höle sah ich Viola monta<lb />na, Alchemilla vulgaris und<lb />Polypodium vulgare.<lb />Bei Pooles hole sind viel<lb />Kalkbrennereien im Freien. Dem<lb />in England brennt man Kalk<lb />in dreien und Ziegel in<lb />kanischen Oefen, gerade in<lb />gekehrt, als in Deutschland.</p>
+                <p>Castleton.<lb />Bei der Flußspatimme am<lb />holen Wege nach Buxton zu,<lb />die Gentiana amarella, de-<lb />ren Gelt nie hier von um<lb />gewöhnlicher Schönheit schien.<lb />In Middleton dale (vor</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>
