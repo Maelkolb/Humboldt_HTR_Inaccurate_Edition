@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 54v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 54v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="54v" facs="H0018407_54v.jpg" />
+            <div type="diaryEntry">
+                <p>schneidet trat herein. Auch er war ein<lb />6.60.<lb />deutscher aus Bamberg. Kann man doch nie seinen Mist<lb />vergessen. 30 fen. Eine reiche Herbarisation an der<lb />Küste. Viel Fucs. Den Mittag zu. H. Tuchis den direk-<lb />tor der Seefahrerwarte. Er war sonst Kaufmann in Cairo<lb />kleiner mit der Revolution unzufriedener Mann, aber<lb />sehr gefällig. 31sten. Ich beobachtete mit großer Gewinnung.<lb />keit die Inclination der Magnetnadel. Dann zu Tui-<lb />lis. Er bildete mir durch falsche Rechnungen ein, mein Chron<lb />nometer habe 1′ 48″ variirt. Das ließ mich sehr unru-<lb />hig schlafen. (Abends um 30 in der Comödie. Unendliche<lb />Knoblauchstank) 1. Nov. Morgens nach Mordon Herbaris-<lb />an der Küste keine Fuci aber schöne Costus. Vier<lb />Tragliche Hize bei der Rükkehr. Mittags bei Sau-<lb />vage. Schmädlicher Aristokratismus der Consuls. Bon v. Li-<lb />lien aus Anklam, in Hall. Diensten, eist Gouver-<lb />neur in Bordo geschwäzig wie das Sternbild, 75 Jahr<lb />alt, aber nicht ohne Bücher Kenntniß. Mr de Saussure<lb />war schon un tout jeune homme de 50 ans u ich<lb />wollte er 1762 in Berlin gekannt haben. Er hat<lb />ein Mineralienkabinett. Busnak ein Schwager von Bag-<lb />geri ein türkischer Jude, dem man 400000 gestohlen<lb />Filsch, Schwed. Consul in Umfern, ein feines aber<lb />arrogantes Wesen. Er wußte mir nichts zu sagen,<lb />als daß ich die Wege im Orient weit schlechter<lb />als in Frankreich finden werde. 2. Nov. (12 Brum.) Morgens<lb />bei Tuklis auf d. Sternwarte. Dort ein Perriguier der jezt Prof. einer<lb />Serschule ist, dem Tius einige mathem. Unterricht gegeben u der<lb />(was wohl noch nie einem Perruquier gethan) ein Schif ohne zu<lb />Landen von Isle de France und Martinique geführt. Er versicherte<lb />sich mit einem höheren Sept. Die Länge bis auf 1″ zu bestim-<lb />men. Med. T. lief herum, um Eingrante zu retten. Die<lb />sollten von dem permanenten Kriegsgericht (drei norden hier<lb />tiglich) gerichtet werden. Das Volk nen̅t das eine Terne. Bei<lb />Tische ein weißer Sausse aus leppig der versicherten der Bergarth Fer-<lb />ber zu Freiberg sei einer der ersten Deutschen Dichter. Nachts<lb />wie seit und Nachten heftiges Gewitter, Dauer, Bliz und Sturm.<lb />3 Nov. (13 Br.) morgens eine weite und sehr reiche Herbarisatio auf<lb />den Hügeln hinter d. Stadt. Wir fanden viel Eichen, Pistacien p<lb />Die Garde champêtre wollte mich arretiren weil ich auf die<lb />getrokneten Pflanzen deutend) gewiß von dem Zeuge in frem-<lb />der Länder sende. Zum Glük hat ich meinen Paß bei<lb />mir. Bei Tische ein Bruder des General Marceau, von un</p>
+            </div>
+        </body>
+    </text>
+</TEI>

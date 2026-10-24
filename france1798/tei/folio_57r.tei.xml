@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 57r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 57r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="57r" facs="H0018407_57r.jpg" />
+            <div type="diaryEntry">
+                <p>unterlag im Fenster u sah auf den hellen Spiegel<lb />die anderen vermißten mich endlich. Ich hätte wei-<lb />nen können, indem ich so lebhaft an die gescheiter-<lb />ten Plane dachte! — Der botan. Garten bei Toulon<lb />ist gar schön, u gut gehalten. Zwischen den Ber-<lb />ten fließt Quellwasser! Cactus und Yucca im Freien.<lb />Der C. Robert Sohn des Gärtners schien in Montpellier<lb />studirt zu haben. Er hat alles, ziemlich richtig, benannt<lb />u geht jezt nach Paris sein Studium fortzusezen.<lb />Er sprach mit angenehmer Bescheidenheit von seinen Kennt-<lb />nissen. 12 Nov. (22 Br.) morgens mit Comet nach Hyères.<lb />die Stadt von schädlicher Bauart liegt an einem Hügel<lb />auf dessen Gipfel die Ruinen eines Schlosses. Gegen<lb />das Meer hin ein Berggeländer voll Orangengärten<lb />u Oelbäumen. Am Ufer nicht Felsen sondern<lb />grüne schön bewachsene Hügel. Aber die Ansicht des<lb />Meeres ist minder Schön als bei Marseille. Die In-<lb />seln liegen wie Därme, als einförmige kahle Berg-<lb />rükken forgeschrekt u lassen das offene Meer<lb />nur in einem Zwischenraume sehen. Garten des<lb />C. La fille der berühmteste. Die goldenen Aepfel hingen<lb />100 weise an den Zwergbäumen, die damit die Äste<lb />nicht brechen, gestüzt sind. Die Blätter der Orangen<lb />in den Treithäusern.<lb />tylif. in einem Garten 18 F. hoch. Tatters Name war hier<lb />in frischem Andenken. Beim Zuhausefahren gab uns ein<lb />alter Capit seinen kleinen kurzen dikken Sohn mit<lb />Unbegreiflich daß wir erst in Tolon selbst 1 nach 3 St.<lb />am Busen erlitten, daß der Sohn ein Mädchen aus<lb />war eine Maîtresse aus Rom vor, in der That nicht<lb />hüpsch genug, um sie so weit mitzuschleppen. Die<lb />stieg in Toulon an Thore aus. Wir glaubten sie wissen<lb />bescheid. Abends sehr spät kam der Cap. zu uns, um<lb />uns zu fragen, was wir mit seiner Frau (in der<lb />Angst des Suchens) vergaß er die Masquerade angefan-<lb />gen. Sie sei für ihn verschwunden. Abends Theater. ein<lb />abscheulicher langer Saal u welche Musik! In allen<lb />Zwischenakten republik. Gezänk. Wer still u fried-<lb />sam leben will, der verlasse das südliche Frank-<lb />reich. Alles erinnert hier an die Schrekkenszeit u 2.</p>
+                <p>doch schein Bu-</p>
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

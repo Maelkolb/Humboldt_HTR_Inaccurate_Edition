@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Alexander von Humboldt, Tagebuch der England-Reise 1790 (HTR)</title>
+                <title>Alexander von Humboldt, Reise. 1790. England - Tagebuch der England-Reise (HTR)</title>
             </titleStmt>
             <publicationStmt>
                 <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
@@ -12,7 +12,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Automated transcription of Alexander von Humboldt, Tagebuch der England-Reise 1790 (HTR) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+                <bibl>Automated transcription of Alexander von Humboldt, Reise. 1790. England - Tagebuch der England-Reise (HTR) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

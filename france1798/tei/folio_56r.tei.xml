@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 56r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 56r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="56r" facs="H0018407_56r.jpg" />
+            <div type="diaryEntry">
+                <p>bureau ist, mitgegeben. Der General war reiset-<lb />die Frau empfing uns sehr artig, schlug aber alles<lb />ab u ohne Buonafuss der uns zu dem Erzterer<lb />rissen, dem Präsidenten der Municipalität<lb />joux führte, hatten wir das bassin nicht gesehen.<lb />Abends essen wir mit 2 Offic. Die aus Genua kamen<lb />u 3 Seelauten von denen<lb />(die eine gleich einen Cap<lb />eine 35, eine 20 und eine 14<lb />auf dem Aquilon in der<lb />u im Neapel von den<lb />schaft der armen Seelente<lb />auf die Uedisciplin der Mitro<lb />Umstand daß man den Natur-<lb />machen das Glük der Einländer<lb />unter<lb />Alles geringen diesen und das Aequinoctium<lb />Sturm gebracht, damit die<lb />Diesmal<lb />fall zuzuschreiben, was allein der Kluft zwischen<lb />hart u dann dabei die abgewogene Bewunderung ei-<lb />nes so überlegenen und gewandten Feindes gab dem<lb />lebhaften hizigen Gespräche sonderbare Wendungen. Bei<lb />dem Namen Dupetit Thoyris schrien alle laut auf. Er<lb />hat sich allerdings das Blut stillen und auf das Verdek-<lb />tragen lassen um bis zu<lb />commandiren. Die beiden jungen<lb />de aus Rochefort, hatten interessante Bildungen. Der<lb />züngsten sprach nicht eine Xalle. Im 14ten Jahre der<lb />Schlacht bei Bega<lb />nicht<lb />nißte solche<lb />einwirken. Die<lb />B. konnte ich<lb />21 Br<lb />sein Schiksal ist<lb />wir besahen das Arsen<lb />nen Vergierungen,<lb />Modellkabinett, 5 Schritte lang u 3 breit.<lb />len und Conditararbeit, die versinkenen Linienischen</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

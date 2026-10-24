@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 59v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 59v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="59v" facs="H0018407_59v.jpg" />
+            <div type="diaryEntry">
+                <p>16.<lb />verläßt. Da er immer von dem spricht, was er unter an-<lb />deren Verhältnissen thun würde, so läßt sich versizen<lb />daß er nie mehr leisten wird, als was er bisher gethan<lb />die Instr. aufzustellen, zu puzen, den Mittag u<lb />Bedekk. zu beobachten. Mit Blanpain wird er nicht lange<lb />Freund bleiben, denn kaum kam er seinen Neid<lb />ihn zurükhalten. Mich incommodirt er durch ewige Besuche,<lb />Morgens am Bette und Besuchen, die mit Seufzen über den<lb />polit Zustand der Dinge zugebracht würden. Tausendmal<lb />mußte ich hören, man hoffe ihn weil er feineres Tuch als<lb />andere Trage und geehrt sei. Bei aller Elendigkeit, Neugierde<lb />und Perlesucht (er wollte mir allein Prax v. Instrumenten<lb />anschmieren) kann man ihm indeß doch guten Ton und ein<lb />gewisse Gewandtheit im Umgang mit Fremden nicht abzusprechen.<lb />Diese Leichtigkeit macht ihn auch nicht uninteressant in der Un-<lb />terhaltung über die Personen, mit denen er gelebt, wie<lb />mit dem G. v. Gotha der ihm einen Ring und eine knochenre-<lb />diese scheutte, auch oft für Thulis Geld zu Abend auf<lb />über Zach, der das Haar der Herzogin in der Schreibtafel trug<lb />u zeigte, über Lalande … Th. führte mir auch ein Professor<lb />der Marine Duhamel zu der ein angenehmes Aeußeres hatte<lb />der sich mit Drehseln und Physik beschäftigt u mein<lb />Sextbarometer copiren will. Th. rühmt sich übrigens merk-<lb />wiederiger Dinge als Drehseln zu können, sehr weit zu sehen,<lb />lage zu sprechen, geschikt in Phys. Versuchen zu sein, nie<lb />etwas zu zerbrechen, große Wärme in der Hasentasche zu<lb />haben, viel Knablauch essen zu können, ohne zu stinken …<lb />— T. gab uns eine sehr falsche Planweisung ein brennendes Steinkohlen-<lb />flöz bei Valdorni u Notre Dame des Anges zu sehen. Ei<lb />säzte es sei beides ganz nah bei Albauch. Wir glaubten ei-<lb />nen eben so angenehmen Spaziergang als nach den Gypsbrüchen<lb />zu machen, geritten aber in klippigten Fußsteigen ohne Spur von<lb />Damerde und Vegetation. Nach langem Herumirren weiß aus ein<lb />kleine Mauern eine Insel von Früchtern gesam̅enhielt. Der<lb />Gegenharte des einzeln liegende Haus-<lb />gutmüthige Mann versicherte uns Valdome sei nach 3 lieues von<lb />der und des anges entfernt u selbst der lezte Berg so weit<lb />daß wir unmöglich hingehen und nach Marseille vor Nachts<lb />zurükkehren konnten. Diese Nachricht war (da wir außer Lüfte<lb />nen wenige Pflanzen gesunden) eben nicht tröstlich. Die<lb />Gutmüthigkeit des Ladions, der uns zwang von seinen Feigen<lb />zu essen und seinen herben Wein aus einem Harne zu<lb />trinken, milderte dies alles. Ja die Syene wäre noch<lb />weit angenehmer für die Rückerinnerung geworden sein,<lb />wennen nicht der Vater u. der Knabe, so oft sie der Mund<lb />öfneten, das Zimmer mit wüthigem Knoblauchgestank er-</p>
+            </div>
+        </body>
+    </text>
+</TEI>

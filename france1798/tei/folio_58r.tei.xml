@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 58r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 58r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="58r" facs="H0018407_58r.jpg" />
+            <div type="diaryEntry">
+                <p>beruhigte. Doch war Busnaks Nachrichten daß Calgier<lb />in Frieden sei nicht ganz zu trauen. Er wollte mich 58<lb />war mit einem Ragusaner Schiffe in 8 Tagen nach Tis-<lb />nis schikken, ich sollte von da zu Lande über Constan-<lb />tine nach Alpen wandern, wo als dem Herrn Scholdebrand ange-<lb />kommen sein würde. Aber alle unsere bekannten wiederrathen<lb />uns, dem Inden zu trauen. Indeß gab sp. selbst den Plan<lb />auf seine hochschwangere Frau worin mit uns nach Alpen zu<lb />schikken. Sie sollten bei Mad. Meunier hier in Marseille<lb />Wochen liegen u er wolle die Fregatte erwarten. Nun war<lb />auf einmal alle schöne Hofnung dahin, sich am 1 Dec. er-<lb />läßt zu sehen. Wir standen an gleich nach Spanien ab-<lb />zugehen. Nach reifer Ueberlegung aber schien es besser zu<lb />worten bis Seydl. eine deutliche Auskunft über das Schik-<lb />sal der Fregatte erhalte. — Vom 29 Nov bis 7 Dec. (9–17 Fr.)<lb />Wir geriethen nun recht eigentlich in die Spielgesellschaft der<lb />Consuls. Wir wurden alle Abend bei Mad Meusnier, bald<lb />bei Felschen bald bei Fromenditi, bald bei Skold. eingeladen. Man<lb />spielte mit sündlicher Habsucht Pharo, Vendome … die alten Mei-<lb />ber von 70 Jahren, die Kinder von 7 Jahren alles spielte von 305.<lb />10 £ d’or auf einer Karte u von 6 Uhr Abends bis 4 U. Mar-<lb />gens. Jezt da die Leidenschaften dem Menschen ihre Tümelei nahmen,<lb />sahen wir erst in welcher pöbelhaften Gesellschaft wir waren<lb />die Mägde stekken den Kindern Geld zu, um für sie zu<lb />spielen. Die alten Weiber betragen wie die Räben. Man be-<lb />klagte, die welche verloren (Sig. verlor in 3 Tagen über 150 F d'or<lb />u weigerte sich wenn 60 £ d’or in der Bank waren 40 # zu<lb />halten. Sy. sprach von Betrug, von stehlen … Das alles reiz-<lb />te nicht. Man spielte immer weiter, man sprach von Men-<lb />schon die man bitten müsse, weil sie reich wären u<lb />das Geld nicht achteten. Der Wirth (man servirte eine Art Fuß<lb />bad, Cher genannt, worunter man nach kaltes Wasser gießt,<lb />u harte Eier) der Wirth hatte einen Beutel mit Gold zwischen<lb />dem Beinen u bat jedermann, der minder hoch spielte an-<lb />ihn einige d’ors zu leihen. Lache man, so wurde man<lb />alle Minuten erinnert, wie viel man geliehen. Der zahlhafteste von<lb />allein war Herr Fronardite, dessen langhalsige Frau uns bei Herrn Folsch das<lb />drennte Spiel vom foudre de Jupiter avec sa foudre foudroyante hatte<lb />spielen lassen. Er behauptete jede Münze die an die Erde viel ge-<lb />höre ihm, auch erzählte seine Erziehung habe seinem Vater mo-<lb />mäthlich nur 2 F gekostet. Die einzige in der That sehr liebens-<lb />würdige Fein ist Mad. Meunier. Etwä Spielgeist hat sie auch,<lb />aber man merkt ihr an daß sie in eine bessere Gesell-<lb />schaft gehört. Sie war lange in Guadeloupe. Sonderbar daß<lb />alle Menschen welche in diesen Inseln u bes. auf Isle-<lb />de France gebildet sind, sich durch Anmuth der Sitten aus-<lb />zeichnen. Der heiße Him̅elsstrich lehnt etwas die Urschöpflichkeit<lb />des franz. Nationalcharakters. Er giebt den Ideen Weile u</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

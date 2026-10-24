@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 71v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 71v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="71v" facs="H0018407_71v.jpg" />
+            <div type="diaryEntry">
+                <p>Cancer narval in Marseille 21 Zoll lang wo von 14 Z. bloß auf die Antennen.<lb />am 30 Brum. mit Thodalith β in Wallfisch Mer. Höhe 27. 37′ 25″ giebt 43° 17′ 23″<lb />Auer rother Hallok um Mond-</p>
+                <p>1 Frim mit Theodolith ☉<lb />XI 62° 2′ 26° 52′ 52″ giebt 43° 17′ 55″<lb />64° 10′<lb />53′ 50″<lb />65′ 43″ 54′ 15″<lb />67′ 35″ 55′ 40″<lb />69′ 17″ — 55° 45′<lb />71′ 50″ — 56′ 00″ giebt 18′ 17″<lb />73′ 45″ — 55′ 25″ — 18′ 8″<lb />77′ 10″ — 54′ 25″ — 18′ 15″<lb />sonst keine!<lb />78′ 36″ — 53′ 45″<lb />80 — 53 — — 17′ 52″<lb />Höhen bei Marseille: Notre Dame de la Garde geom. 85°<lb />Marseille Veire 217.<lb />St Cery (Continuat. de Mar. Veire<lb />vers l’Est 318. 338.<lb />t. barom<lb />88 ⅓.<lb />231.</p>
+                <p>mit 48 mal. Vergrößerung am östl.<lb />☉rand 2 Flekke</p>
+                <p>Gardelaban près d’Aubagne 350 365.<lb />St Pilon la Grotte de St Baume 501. 501.<lb />au dessus de<lb />St. Victoire près d’Aix. 498. 504.<lb />Pic de Bequines 572. 561.<lb />Dieser und Bau. de Bretagne wohl höchsten Berg in<lb />Provence vielleicht Montagne de Lure.<lb />noch höher u vielleicht noch höher.<lb />Mont Ventoux zw. Aix und Avignon<lb />aber lezterer (er hat allerdings 1030 toises und ist<lb />Kalk) gehört schon zum Contat.</p>
+                <p>Thulis u<lb />Piston.</p>
+                <p>Pflanzen hauchen Tag u Nacht Kohlensäure aus, zersezzen dieselbe aber gleich wieder selbst<lb />bei Tage. Sie sterben, wenn man ihnen bei Tage die Koffens. durch Kalkwasser<lb />entzieht. Sie leben noch in 0,75 atm. Luft u 0,25 Kochsäure ziemlich, lebhafter<lb />u üppiger, als in atm. Luft bei 0,12 Kohlensäure. Sie hauchen dann mehr<lb />bessern die atm. Luft nur darin, wenn ihr Kohlens. beigemischt ist.<lb />nicht aber wenn die atm. Luft rein ist. Resultirt aus Scaisch. Ein<lb />sa format. de l’ac. carbon. est elle essentielle à la Végétation? Journ.<lb />de Phys. an 6. S III. p. 191.<lb />le 8 Mai ou 19 Flor. 7. Le Chronom. de Berthoud retardait à midi sur le tems<lb />moyen de Madrid de 1′ 58″,4 d’après les Observations de Mr. Chaix qui ne<lb />laissèrent pas 0″,3 de doutes. Il retarde par jour en 24h. 4″,4.<lb />la pendule à à Madrid 85 osc. dans 1 minute.</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

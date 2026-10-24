@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 60v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 60v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="60v" facs="H0018407_60v.jpg" />
+            <div type="diaryEntry">
+                <p>18.<lb />Pest. Ich sah ein, daß es eben nicht das klägere sei<lb />aber genug, ich wollte nach Tunes. Ich erklärte am fein-<lb />hen morgen an B. mein Grund. Sei es, daß ich zu<lb />ersten Male etwas Furchtähnliches in ihm bemerkte,<lb />sei es daß sein kundischer Hang nach Montpellier wo<lb />sei älteste Bruder studirt) entgegenstrebt, er schien<lb />von meinen Gründen nicht überzeugt, wenigstens schien<lb />der Plan ihn sehr kalt zu lassen. Ich lief zu<lb />Busnak um zu fragen ob sein Schif noch da sei<lb />er war nicht auf und schlief mit seiner Maitresse, man<lb />sagte er im Comptoir, das Schiffe ein Ragusa-<lb />ner sei nach da, ein Freund von Busnak befrag-<lb />te es für Zeichnung des Decy. Es spielen also der Form<lb />nach sehr neutral. Ich lief sogleich zu dem Freunde<lb />und ein sehr freundlichen Mann, der mir sagte der<lb />Capit. Bianchi der Führer des Schiffes sei eben in seinem Contaire,<lb />einer seiner Verwandten, des Arabischen kundig, gehe mit nach<lb />Tunis, er habe viel merkwürdiges von mir gehört u werde alles thun<lb />um mir gefällig zu sein. Der Cap. Bianchi, der von Passagiren<lb />hörte u in dem die Hofnung zum Gewinn erwachte, trat sogleich<lb />herzu — ein 40jähriger kälter, aber gutmüthig scheinender Mann.<lb />so erklärte daß er in 2 mal 24 St. absegle u daß mit 50–70<lb />Pistern der Contract bald geschlossen sein würde. Der Termin, wel-<lb />chen er sezte, schien für uns, die wir nach des Parken, Pflanzen-<lb />Auslesen u alle Formalitäten der Poste war uns hatten sehr<lb />kurz. Doch hielt ich es nicht für unmöglich in 2 Tagen alles<lb />(selbst das lange Memoire über die Luftzerlegung des Winters 98) zu<lb />vollenden. Ich versprach dem Cap. Bianchi in 3 St. in der Bar-<lb />se (loga) bestim̅ten Bescheid zu sagen. Die Solen brannten wir<lb />Trankrech zu verlassen. Vor Freude trunken, ohne die Gefahr<lb />zu bedenken in die ich in einem so entfernten dem Kriegs-<lb />schauplaz nahen Lande gerathen konnte, kündigte ich D. um<lb />ser Glük an. Er schien für dieses Glük wenig empfang-<lb />lich, doch erheinte auch ihn der Gedanke, so schnell ab-<lb />zuziegen, die Möglichkeit die einförmige Lage des Marscil-<lb />ber Lebens zu verlassen. Wir liefen in den Hafen um<lb />die Speranza (das 2mastige Schiff des Rogusiners) zu beschen. Ich<lb />stand wie gewöhnlich alles wunderschön. Ein alter Matrose, der sehr<lb />reines italienisch sprach, bewillkom̅nete uns sehr höflich. D. fand<lb />alles sehr schwimisch, in der That war auch eine schwärze Säule in<lb />dem Zimmer welches man uns einräumen wollte. Von dem<lb />Hafen gegen wir zu Guys dem Comissaire des rel. extér. um<lb />zu fragen ob es möglich sei unsere Passe in 48 St. zu<lb />viseren. Zum Glük od. Unglük war Guys selbst in Atc.<lb />der junge Venice, der Nefle des Comendanten in Toulon,</p>
+            </div>
+        </body>
+    </text>
+</TEI>

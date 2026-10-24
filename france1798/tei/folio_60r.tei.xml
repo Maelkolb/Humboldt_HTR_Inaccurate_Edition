@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 60r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 60r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="60r" facs="H0018407_60r.jpg" />
+            <div type="diaryEntry">
+                <p>füllt hätten. Die Rükkehr war wie jede Rükkehr<lb />nach Marseille (da man 2 St. lang zwischen Gartenmauern<lb />gehen muß) sehr langweilig. Ein großes Geschrei spannte<lb />unsere Aufmerksamkeit. Ein vornehme Frau vom Lande ver-<lb />mit ihrem Eßsel gestürzt. Knecht u Mägde, die sie begleiteten<lb />schlagen unbarmherzig auf den Esel, der unempfindlich gegen<lb />den Schmerz von einer Distel fraß, die im Kather lag,<lb />heit als die Distel verzehrt war, gefiel es dem Esel auf-<lb />zu stehen und nun ging es in vollem Gallop weiter. Als<lb />wir in unser Wirtshaus kamen empfing uns Ir. mit bösen<lb />war ein Brief von dem Cap. des Batingat<lb />Nachricht<lb />marchand an S. angekom̅en. Dieser Brief meldete, daß der Sturm<lb />die Fregatte schon seit 1½ Monathe nördlich von Holland<lb />von ihm getrennt habe, daß er nichts von ihrem Schiksal<lb />wisse u daß er indem er schon 20 Tage warte, nach noch<lb />4 Tagen allein seinen Weg nach Alger antreten wolle.<lb />Zugleich hatte Busnak Brief von Alger welche meldeten<lb />daß die Post welche in Oran und Trenieshend gar nicht auf<lb />gehört, jezt schon in Alger selbst wäthe. Also vielleicht<lb />von dem Frühjahr keine Fregatte, jezt schon Post u über-<lb />all Nachrichten von heftigsten Verfolgungen im Orient, von ei-<lb />nem Mistrauen gegen alle Fremde … Diese Betrachtungen<lb />erregten die heftigsten Seelenbewegungen am 14ten und 15ten Früh-<lb />der Weg nach der Levante besonders der nach Egypten war<lb />versperrt, die schönsten u lezten Blüthenmonathen Jan-<lb />Febr. und März vielleicht noch harrend in Marseille zuge-<lb />bracht dann 5 Monathe lang der Pest wegen eingesperrt<lb />unsicher selbst über die polit. Wendung der Alguerier<lb />Angelegenheiten — dies alles brachte Entschlüsse zur Reife<lb />Aber Corsica, Spanien od. Tunis (dahin war allenfalls<lb />Gelgenheit) das war die Frage … Corsica schien, so reich<lb />gewiß auch die Pflanzenbrute dort u in Sardinien ge-<lb />wesen wären, zu klein zu isolirt, zu unmittelbar<lb />nach Frankreich zurükführend. Spanien leuchtete am Abend<lb />Fr.) B. u nur am meisten ein Mann kön̅e ein<lb />herrliches Frühjahr in Valencia, Cadix zubringen, dort od.<lb />von Lisbonen Gelegenheit nach Teneriffa, nach Cap de b. esper-<lb />nach Brasilien … finden, man sei im Aug. selbst Afri-<lb />la näher, man habe dann 6 Pestfreie Monathe vor sich.<lb />Die Nacht brachte ich fast schlaflos zum. Es war doch so<lb />schmerzhaft die schöne Hofnung Europa zu verlassen wie-<lb />der vereitelt zu sehen, ich glaubte nicht eher Ruhe<lb />das Gemüths zu genießen, als bis diese Hofnung erfüllt<lb />war; Gelegenheit nach Tumis sei wahrscheinlich nach da-<lb />der Krieg sei nicht erklärt, ich könne Sk. vorangehen,<lb />ihn über Constantine nachkomen, dort noch keiner</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

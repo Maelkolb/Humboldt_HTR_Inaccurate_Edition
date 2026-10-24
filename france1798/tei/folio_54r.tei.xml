@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 54r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 54r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="54r" facs="H0018407_54r.jpg" />
+            <div type="diaryEntry">
+                <p>5.<lb />tirte, bald darauf aber, da er nicht Wiederstand fand,<lb />aus seine vormalige aristokr. Größe bei dem<lb />Comte Galifet schilderte, wo er Koch, Stellmacher,<lb />Portraitmahler u Lokkiere gewesen war. Er sezte<lb />selbst hinzu, daß in der Provinz die Küste<lb />selten in der Vollkom̅enheit, als im Auslande<lb />ausgeübt würden, weil man sich fast mit zu<lb />vielen Zweigen abgeben müsse. Am 27sten Abends<lb />um 6 ½ Uhr trafen wir in Marseille ein. Der Idee<lb />daß Herr Sköldebrand vielleicht schon abgeweist sei,<lb />hatte uns unterbrechen auf dem Wege gepükt, wie<lb />wußten hundert Trost und Schrekkensgründe dafür u<lb />dagegen. Wir wollten noch denselben Abend in dem<lb />Hafen laufen, um nach Schweden Schiffen zu fra-<lb />gen. Alle unsere Besorgniße waren gehoben als<lb />wir ins Posthaus traten u als der Postmeister uns<lb />Skold. Wohnung selbst anzeigte. 28sten (Hôtel des<lb />ambassadeurs) brachte wir den Morgen nicht ohne<lb />Unruhe mit visiren der Pässe zu. Der Commissaire<lb />bald unsere Besorgnisse. Den Abend berechnete ich<lb />mit B. (zuerst) in Barometerstände. Der Preuß<lb />Consul Sauvages aus Prenzlau visirte mit großer Mühe<lb />meine Paß. Eine nicht preuß. Tournure, unbekannt mit<lb />allen Berliner Verhältnissen, aber voll von den<lb />Excellenzen die er aus dem Kalender auswendig gelernt.<lb />29sten. pakten wir die Instrumente aus, ein fürchterlicher An-<lb />blik, der Théodolithe in Stükken, eben so das eboulloir<lb />u fast alle Thermometer. Ich war einige Stunden lang be-<lb />schäftigt, zerbrochene Instrumente auszupakken. B. verlor<lb />mehr den Muth, als ich. Ein Spaziergang am Hafen<lb />ließ mich alles vergessen. Bei Tische fanden wir unten<lb />20 Personen 8–10 die Deutsch sprachen. Die Elsaßer streit-<lb />ten sich mit den Lothringern war die angenehmere Aus-<lb />Sprache habe u ein Teppiger Jude, der lange in<lb />der Spaniedauer Straße in Frankfurth an der<lb />Ader gewohnt haben wollte, wurde als Sachse<lb />zum Schiedsrichter aufgerufen. Ein Chalatan der</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

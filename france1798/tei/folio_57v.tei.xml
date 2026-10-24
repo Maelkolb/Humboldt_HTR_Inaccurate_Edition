@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 57v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 57v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="57v" facs="H0018407_57v.jpg" />
+            <div type="diaryEntry">
+                <p>12.<lb />Menschen sprechen nicht ¼ St. mit einander ohne daß nicht das<lb />Gespräch auf den Parthegeist der Revolution falle. Toulon<lb />übertrifft nach Marseille an Röheit u Brutalität in den<lb />bureaux. 13 Nov (23 Br.) zurük nach Marseille bei fürchter-<lb />lichen kalten Nordwest. Ein Kaufmann aus Paris ziem-<lb />lich gemein, sehr gutmüthig und schlicht. Er verstand etwas<lb />de la botaniste weil er alle Festtage im Jardin des<lb />plantes spazieren gehe u vom Nat. Institut belegte<lb />er daß es zu wenig eleven habe. Comet schufte wie<lb />gewöhnlich auf die Ingenieurs, rühmte das unendliche<lb />Brunnenhaus, das er für Bareges gezeichnet u erzählte von<lb />einer Reise durch die Landes de Bordeaux wo er „ganzen<lb />nomadische Horden wilder Franzosen, wilde Ochsen und viel-<lb />die Pferde die alle ohne Obdach leben, gesehen hatte.<lb />Ein wilder Franzose ist wirklich ein wundersame<lb />Sache. Auch sprach er viel von 500 F. hohen Sandhü-<lb />geln die alle Jahre 50 toisen weiter marschiren u<lb />in 200 Jahren die Stadt Bordeaux verwüsten werden.<lb />Der Kaufmann versicherte indeß (was imer merkwürdig<lb />zeug wäre) daß auf den Inseln beim Ausfluß<lb />der Rhone ußer Arles verwilderte Kühe geschossen<lb />werden, die im Freien leben. an rerum. 14 Nov. (24 Br.)<lb />im̅er vergeblich gehärt. Der Wind war günstig. Buici-<lb />miten anatomirt u gezeichnet, die Tabelle über<lb />Die Analyse der Luft in Salzburg vollendet … Bei Ti-<lb />terliche Zähne u voll wiederwärtiger Prätensionen.<lb />Sehr angenehm von sanften Ausdruk das Mädchen<lb />des Colonels. 15 Nov — 29sten (25 Br — 9 Fr.) immer mit Huren<lb />zugebracht. Welche hatte den Plan wenn die Fregatte am 1 Dec. nicht<lb />Finlande Schiff mit uns für 360 Piaster zu nehmen, um<lb />könne, ein<lb />sein Frau nicht länger zu esponiren. Indeß blikten wir unverwandt<lb />nach notre Dame des signaux. Einmal (ich war auf dem Observat. wurden<lb />(5 neutrale Schiffe u eine Fregatte signalisirt) Wir waren alle auf<lb />dem Binnen. Es war ein hochmäßiger Korsar. Indeß kam die Nach-<lb />recht der Dage haben der Republik den Krieg erklärt. S. meine<lb />te B. könne nun nicht mit. Ich würde leicht 30 000 für ihn<lb />zahlen müssen. Er könne als Sklave auch früher nie-<lb />dergemengelt werden. Diese Betrachtungen sezten uns 2 Tage lang<lb />eine jeztige Seelenmotion. Ich wünschte eine Nacht hindurch<lb />selbst auch von ihm zu trennen. Er konnte für Griechen-<lb />land mir sehr hinderlich sein! Man fragte jedermann um<lb />Rath, er sollte den Bedienten spielen … es endigte sich wie<lb />bei allen Seelenbewegungen, damit daß man sich von selbst</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

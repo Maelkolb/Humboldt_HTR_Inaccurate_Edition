@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 53r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 53r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="53r" facs="H0018407_53r.jpg" />
+            <div type="diaryEntry">
+                <p>Villeneuve. Den 21sten Mittags in Ancerre Abends in<lb />Lucie le bois. Von Auxerre aus bis Châlons begleitete uns<lb />ein junger Kaufmann aus Solingen, der alle Jakobis<lb />dem Namen nach konnte, u im̅er Tobak schmauch-<lb />te. 22sten Mittags in Saulieu Abends Arney le Duc.<lb />Ein Mensch mit Klumpfußen, der sich im̅er die Lenz-<lb />den zuste u von seinen Eroberungen sprach. Er konnte<lb />das ganze Nat. Institut, alle Pflanzen und Insekten<lb />der Welt … Er sprach von Gazellen u Rehen die er im<lb />Vivarais geschossen. Casan̅er sollten in den Occuren<lb />sehr gemeine Vögel sein. Als ihm der Brandwein<lb />brenner fragte was eine Gazelle für ein Thier sei,<lb />sagte er, er habe vier Hörner u gleiche den wilden<lb />Schweinen, das bisweilen auch gehärtet sei, vorzüg-<lb />lich in den Pyrenäen! 23 Mittags in Chalons ein<lb />deutscher Kellner, ehemals Kamerdiener u als solcher<lb />auf dem Richtplaze selbst erst pardonirt. Man hatte<lb />ihn dem rothen Mantel schon umgethan. Abends<lb />in Macon. Auf der Saône: eine Dame, deren Erobe-<lb />rung der Klumpfuß machte. Sie war im allen Dep.<lb />umhergereiset, kannte alle Armen u war erst 19–20<lb />Jahr alt; ein Weinhändler aus Dijon der in Deutschland<lb />gereist war, sehr verständig aber voll von der Gnade<lb />die ihm der Baron de Stauffenberg u die Prinze von<lb />Oettingen erwiesen; Gronier, Officier in der italien<lb />Armen, ein sehr sehr ausgezeichneter Mensch, den ich wohl<lb />mehr zu sehen wünschte. Klein, gedrungen, viel<lb />Geist u Ausdruk im Gesicht. Schlecht gekleidet lang<lb />er, als wir von Macon an frühen Morgen ab<lb />führen in der Capitä. Ich hielt ihn für einen Seiden-<lb />werker aus Lyon. Einer aus der Gesellschaft sagte<lb />es seien gewöhnlich kaum 10–12 voyageurs (er meinte<lb />vornehmere Menschen) in der Barke, daher brauche<lb />die Capute nicht so groß sein. G. fragte was<lb />die anderen Menschen waren, wenn er nur 12 voya<lb />gaurs zähle. Diese lezte Antwort machte mich auf<lb />merksam auf ihn. Man sprach von weiblicher Tu<lb />gend. Er vertheidigte mit wirklicher Bereitsamkeit<lb />die Möglichkeit männlicher Keuschheit. Was er sagte zeigte<lb />Tiefe der Empfindung, Geist, Besonnenheit aber auch un-</p>
+                <p>weite Reise<lb />Menschen</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

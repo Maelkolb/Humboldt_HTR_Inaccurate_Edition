@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 71r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 71r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="71r" facs="H0018407_71r.jpg" />
+            <div type="diaryEntry">
+                <p>Versuche u Beobachtungen vom 14ten Brum 7.<lb />4ten Nov. 1798) an bis nun</p>
+                <p>1. Marseille hôt. des Ambassadeurs mit Bord. Kreise am 14 Br.<lb />Mer. Höhe 31. 27. 00″</p>
+                <p>giebt 43° 17′ 45″<lb />Tuilis fand 43° 17′ 4″</p>
+                <p>alle nicht sehr sicher<lb />in Bestim. der Colim.<lb />u des Horizonts<lb />nemlich n 1–3.</p>
+                <p>2. am 15 Brum. wahre Zeit 12 h. — 62. 16<lb />giebt 43° 17′ 6″<lb />3. am 16 Br.<lb />w. Z. 69. 36. — 61. 33. 23<lb />giebt 43. 17. 9.</p>
+                <p>St Nicolas.<lb />28. 61. 37. 30.<lb />4. am 18ten Brum. Luft in der Straße 110. an dem Fort jenseit des Hafens am<lb />19. Brum. See wind ganz blau im Hafen Luft 102,5. H. 86. Th. 15,2.<lb />stärkerer Seewind ganz bezogen Luft 104. H 94. Th. 13. — 27. Br. Seeluft St. Nicolas. 104½<lb />28 stärkere Seeluft 102 ½.</p>
+                <p>71.2.<lb />59′ 55″<lb />wahre Mitt 62′ 25″<lb />er. ind. — 30.<lb />b giebt 43° 17′ 36″<lb />Bord. Cirkel. 55′ 35″ 59° 54′ 50″<lb />58′ 15″ — 56′ 10″<lb />61′ 40″ — 57′ 00″ a<lb />66′ 20″ — 56′ 25″<lb />29′ 28″ — 69′ 25″ — 54′ 50″<lb />wegen Bleidgl. b um 15″ zu groß<lb />wegen ☉ Punkt – 63″ –<lb />also 1′ 18″ abzuziehen<lb />a giebt 43° 17′ 58″.</p>
+                <p>5. am 19 Brum. erste genaue Beobachtung:<lb />Sextant: XI. 59′. 50″ 59° 55′ 20″<lb />63′ 50″ — 56′ 20″ b<lb />— 53° 20′</p>
+                <p>6. am 24 Brum. mit Bord. Cirkel<lb />wahre Zeit XII h. 27′ 45″ genau!<lb />55° 49′ 40″<lb />giebt 43° 17′ 35″<lb />am 25 Brum. mit Thiodolitte in der Culmin. 28° 21′ 20″ giebt 43° 17′ 27″</p>
+                <p>7. am 27 Brum. 43. 20 — 27. 41. 50<lb />44.50. — 46.<lb />46. 42. — 47. 45.<lb />48′ 20″ — 49′<lb />50<lb />50<lb />53′ 30″ — 50′ 30″<lb />58. 18. — 51. 5.<lb />62. 40. — 51. 25.<lb />66. 30. — 50. 30.<lb />Wolken.<lb />27. 51. 25. (— 30″ und wegen Fäden …) giebt<lb />43° 17′ 12″ 1. giebt 43° 13′<lb />2. — 10 36<lb />33. — 11. 2.<lb />4 — 3′ 0″<lb />13.30.<lb />also bis 6<lb />15′ 5″ — 13′ 41″<lb />57′ 15″ — 50′ 45″ sehr schlecht. 6″ —<lb />16′ 49″<lb />18′ 8″ — 18′ 16″<lb />18. 3.<lb />10 — 17. 56.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

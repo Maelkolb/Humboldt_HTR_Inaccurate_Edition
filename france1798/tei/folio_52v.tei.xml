@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 52v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 52v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="52v" facs="H0018407_52v.jpg" />
+            <div type="diaryEntry">
+                <p>2.<lb />reisen. Ich war mit Arbeiten bis in den lezten Au-<lb />genblikken überhäuft, aber meine Stimmung bliebe<lb />heiter. Ich trat nie eine Reise mit so gutem Mu-<lb />the an. Diese Stimmung verdanke ich großtentheils mei-<lb />nem Bruder u der Li. Fremde Stärke erhebt. Der Ab-<lb />schied war tiefempfunden. Als die Li. den Kleinen zu<lb />mir emporehab hätte ich fast die Haltung verloren. Aber<lb />es war nur auf einen Augenblik. Wir blieben al-<lb />le wie man in solchen Momenten des Lebens sein<lb />soll. Ein Unwesen mit vergessenen Baranstreich-<lb />ren stöhrte ein wenig. Aber wir kamen noch früher<lb />zur delig. als nöthig war. Thik u F. waren beide<lb />mit uns. Es lag mir schwer auf der Seele wie die<lb />Neigungen der Menschen sich ändern. Lezterer ließ<lb />mich kalt u der erste, den ich noch in Dresden<lb />haßte, war mir jezt sehr sehr lieb. Ich sah<lb />mir B. an mit dem ich eine so weite Reise<lb />unternehmen sollte. Welche Verheirathung. Die Dit<lb />fuhr fort. Meine Augen sahen Wilhelmen am<lb />längsten. Er sah sehr heiter aus u das that mir<lb />unendlich wohl. Die lezte Miene eines Menschen<lb />ist so wichtig für den Eindruck den er zurük-<lb />läßt. Wessen Leben, wie das<lb />ges Ankniipfen u Trennen ist, fühlte das<lb />so tief. Bis Lyon brachten wir 4 Nächte, von<lb />der wie eine (die erste) im Wagen zubrachten. Eben-<lb />de Gesellschaft. Boivin ein Brandweinhändler in<lb />Montpellier, wie es schien sehr reich, aber so<lb />als sinnlich. Er wußte mir ob er essen<lb />grizig, fasten sich<lb />od. sollte. Er hatte in Paris 30 Rupien<lb />redingotts gekauft, welche ihm seine Reise be-<lb />zahlt machen sollten. Er wollte eines Bruders Ad-<lb />diesse haben, weil er meinte durch ihn sich den<lb />debit des großen Sandozischen Hauses zu, verschaf-<lb />Mittags den 20ten in Melun. (Wir fuhren<lb />fen.</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

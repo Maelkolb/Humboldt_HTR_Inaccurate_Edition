@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 61r</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 61r by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="61r" facs="H0018407_61r.jpg" />
+            <div type="diaryEntry">
+                <p>ein seiner junger Mann, wieß uns zu dem Adjoint des<lb />C. Guys. Ich stellte dem Manne unseren Casus u die<lb />Eile vor, mit der wir expedirt sein wollten. Aber wie<lb />groß war unsere (wenigstens meine) Verwunderung, als der Ad-<lb />joint mit vieler Beordtsamkeit versicherte, daß wir einen<lb />sehr tollen Entschluß gefaßt hätten, daß er Bianchis Schiff<lb />genau kenne, daß es nicht allein keinesweges neutral sei,<lb />sondern daß in Turis selbst die Erbitterung so groß gegen<lb />alle Franken sei, daß er dahin unsere Pässe keinesweges<lb />zu viviren wägen. Er war selbst Consul in Tunes-<lb />wesen u jezt für Syrien bestimmt. Wenn man schenkt,<lb />wenn ohnedies die Lust allein die Vernunft zum Schweigen<lb />gebracht hat, bedarf es eines kleinen Umstandes nur, um<lb />die Vernunft in ihre Rechte eintreten zu lassen. Die Bereds<lb />samkeit des Mannes siegte, wir standen innerhalb 10 Min.<lb />von dem Plane nach Tunes zu reisen ab u um nicht<lb />aufs neue zu wanken, ließ ich sogleich die Pässe für<lb />Spanien visiren. Weise, vorsichtig machte der neue Entschluß<lb />wohl sein — aber krankend war er nicht minder. Märe auch allein<lb />gewesen, hätte B. Lust statt Abneigung gezeigt, ich hätte<lb />meinen Plan durchgesezt. Gewagt war er freilich, aber bleibt man<lb />nicht ewig unthätig, wenn man nie etwas wagt? Also<lb />um nach Spanien, vielleicht nach 6–8 Monathe auf europ. Boden-<lb />Ich lief gegen 3 Uhr auf die Insel, um dem Cap. Diazchi zu<lb />sagen, daß ich in 48 St. meine Geschäfte nicht vollenden könne.<lb />Zu meiner größten Krückung blieb die Speranza nach 5–6 Ta-<lb />ge im Hafen. Ich konnte nie nach der Sternart gehen, ohne<lb />daß nicht meine Augen unwillkührlich auf sie gerichtet wa-<lb />ren, ja den Absegeln nahe, legte sie sich allein<lb />mitten in den Hafen. Ich hatte sie so gern durch anderen<lb />Masten verdikt gesehen. Bei kalter Ueberzug glaubte ich<lb />so u nicht anders handeln zu müssen. Aber dem Pal-<lb />menlande so nahe u zurük in das Innere des Landes<lb />eingeängt … Mein künftiges Schiksal wird entschieden, ob ich<lb />das bessere gewählt, wenigstens wird meine eigene u fremde<lb />Schwäche des künftige Schiksal zu deuten wissen. Wir<lb />Bemerkten daß 12 St. nachdem Cap. Bianchi auslief sich<lb />ein fürchterlicher Sturm erhob, der fast 8 Tage lang wüthe-<lb />te. Zwischen Celle u Agale sammelte man die Trüm-<lb />meren vieler gescheiteter Schiffe. 15–24 Frim. (5–14 Dez.) Ein<lb />neuer Umstand u sonderbare Art, machte mir die folgenden Tage<lb />noch trüber. Dem Schmerze empfänglicher, schien mir alles gegen<lb />mich u meine Plane verschworen. Am 15ten auf der Barise<lb />sagte ich dem Kaufmann Ellenberg, auf den wir Feld in Paris<lb />einen Crédit von 40000 Regelben, (ein geschwiziger aber gut-<lb />müthiger hagerer junger Manne) daß ich ihn um Wechsel nach</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

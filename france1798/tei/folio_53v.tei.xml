@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 53v</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 53v by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="53v" facs="H0018407_53v.jpg" />
+            <div type="diaryEntry">
+                <p>4.<lb />bändige Heftigkeit die Leidenschaft. Der Krieg hatte ein<lb />Gemisch von Rauheit u Weichheit in ihm erzeugt,<lb />welches seinen Weg auf überaus interessant macht. Er war nie<lb />in Paris gewesen, konnte aber die polit. Lagen über-<lb />aus gut. Er sprach mit Entzükken von dem Buche über<lb />de passions, von Bernard de St Pierre, von Con-<lb />stant … Seine Phantasie war im̅er mit Bildern aus dem<lb />schönen Zeiten der Freiheit erfüllt. Er wollte in Son-<lb />ner nach Paris gehen, um dort Medicin und haupt-<lb />sächlich Chemie zu studiren. Wenn das Schiksal ihn<lb />begünstigt (er schien kaum 22 Jahr alt zu sein)<lb />so kann sein Name nicht unbekannt bleiben. Denn<lb />alles kündigte etwas außerordentliches in ihm an. Ich<lb />brachte einen angenehmen Mittag mit ihm in Beau-<lb />regard zu u wir trennten uns in Lyon am 24sten<lb />als waren wir lange mit einander gewesen. Beim Austei-<lb />gen im Palais royal fing Bouvins einen schreklichen<lb />Zank mit den Trägern an. Der Weinhändler aus Di-<lb />jore fühlte ganz das Unfeine dieses Benehmens. Unge-<lb />boten trug er meiner Kaffee selbst ans Land. Ich dank-<lb />te ihn für seine Gutmüthigkeit u er sagte zu<lb />meinem großen Erstaunen „für Menschen der für<lb />die Wissenschaften leben, thut man dergleichen gern.<lb />Er sagte es mit einer Art, welche diesen Worten ein-<lb />nen großen Werth gaben. Mad. la Tour verfehlte<lb />ich. Hotel Dieu. Am 25sten Morgens 2 Uhr fuhren<lb />wie von Lyon weg. Ein junger Neuschottelle Kaufl.<lb />man u ein alter Kerl mit einer wahren<lb />Spizbuben physiognomie begleiteten uns. Wir eßen<lb />Mittags in dem schweinischen Peage Abends in Va-<lb />lence. Hier vergaß aus der Conducteur u fuhr<lb />mit der leeren diligence weg. Wir mußten von<lb />12 bis 2 Uhr 1 Meile weit bis zur Paillasse<lb />nachlaufen. Zum Glük war es Mondschein, doch<lb />war der Chronometer in einem Lande im Ge-<lb />fahr wo man täglich mordet u raubt. 260<lb />afen wir Nachts in Avignon den 27 Mittags in<lb />Lambesc. Vor Aix gesellte sich ein Chaussewärter<lb />zu uns, der anfang sehr republikan. Formen aufsezt.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
