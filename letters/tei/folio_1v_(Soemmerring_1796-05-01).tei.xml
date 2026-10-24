@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 1v (Soemmerring 1796-05-01)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 1v (Soemmerring 1796-05-01) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1v (Soemmerring 1796-05-01)" facs="H0001182_1v.jpg" />
+            <div type="diaryEntry">
+                <p>p. del. für die Nerven der Bewegungsrukel ist. Von<lb />28 Herzen die ich in diesem Lagen behandelte an<lb />Kröten, Vögeln, Kaninchen schreibe ich<lb />Ihnen in folgendem Versuch ab:<lb />Forschen<lb />Am 30 April hatte ich ein Fischherz das so</p>
+                <p>macht war, daß es gar nicht mehr pulsirte, sich<lb />nur auf mechan. Reiz zusamenzog. Ich that es im<lb />kaltes Wasser) es verbleichte, der Rest des arten<lb />Blutes wurde abgewaschen u jezt da dieser lezte<lb />stimulus fehlte sah man kaum noch einen schwachen<lb />Zukkung, wenn das Harz von der Pincette berührt<lb />ward. Ich bestrich nun das unbewegte Herz mit<lb />frischem arter Blute u um — fuß es an<lb />von selbst schwach zu pulsiren. Ich öfnete die<lb />Brusthöle eines neuen Frisches u nahm von dessen<lb />damit u nun waren die Pulsationen stark u<lb />anhaltend! Sie dauerten 10 Minuten. Ich zählte die<lb />Pulsationen in 4 Min. Die ich hatte 28, die 25<lb />29 die 3 h 32 die 4 h 27 Schläge! Ich legte das<lb />pulsirende Herz wieder in kaltes Wasser u es pulsirte<lb />darin, weil der Stimul. des art. Blut abge-<lb />waschen ward, nur 6 mal in 1 Min. Ich warf es<lb />aus dem Wasser im concentr. alcohol u —<lb />— es pulsirte von der 1sten Sek. gleich. stärker<lb />u zwar in der 1sten Minute 18, in der 2sten 20.<lb />in der 3ten 23 mal. Auch folgendes ist merk-<lb />würdig! Wenn ein Berg im natürl. Zustande</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

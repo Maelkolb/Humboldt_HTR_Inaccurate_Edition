@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 1r (Willdenow 1799-04-20)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 1r (Willdenow 1799-04-20) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r (Willdenow 1799-04-20)" facs="H0001200_1r.jpg" />
+            <div type="diaryEntry">
+                <p>Autogr. I 169<lb />Aranjuez unfern Madrid den 20 April 99.<lb />Wenn ich, mein brüderlichst geliebter Freund, seit Marseille auch keine Zeile an Dich ge-<lb />schrieben habe, so bin ich deshalb, wie der Inhalt dieses Briefes zeigen wird, doch nicht<lb />minder thätig für dich u deine Freuden gewesen. Ich schlage so eben eine Küste von<lb />400 Pflanzen für dich zu, von denen ¼ gewiß noch unbeschrieben u aus Gegenden<lb />sind, die (wie St. Blasio in Californien, Chiloe u die Philippinen) kaum von<lb />einem Botanisten betreten worden sind. Wenn du diese Pflanzen durchgesezt, so wirst<lb />du dich überzeugen, daß kaum ein Tag vergangen ist, an dem nicht in Wildern<lb />Westen u am Meeresufer dem Andenken des Lebendigen gewesen ist. Ueberall habe ich für die<lb />gesammlet u zwar nur für dich, da ich selbst erst jenseits des Oceans mein eigenes<lb />Herbarium anfangen will. Doch ehe ich die die Pflanzen nenne, welche sie dich, mein Lie-<lb />ber bestimt sind, muß ich doch über mich selbst u mein Schiksal orientiren. Die<lb />ses Schiksal ist nun in diesem Jahr wunderbar genug gewesen, doch wirst Du be-<lb />merken, daß ich wenigstens Hirtmäkkig in Verfolgung meiner Pläne gewesen bin u<lb />daß diese Hartnäkligkeit mich nun doch noch von Californien bis zum Patagonien-<lb />lande, vielleicht selbst um die Welt fährt. Bei einem so arbeitsamen u tumultu-<lb />parischen Leben als das meinige, bei der großen Menge von Dingen, die als Folge<lb />von Experimenten, astronom. Beobachtungen p stündlich aufzuzuzeichnen sind, bei der<lb />vielen Zeit, welche ich dem gesellschaftlichen Leben aufopfere, sehest du, mein Theu<lb />rer, selbst ein, daß ich keinen sehr lebhaften Briefwechsel führen kann. In der<lb />That habe ich eigentlich allen Briefwechsel völlig aufgegeben, denn da ich mit so<lb />eben hundert Menschen in Verbindung stehen, da mit jeder neuen Reise die alten<lb />Correspondenten den neuen Plaz machen mußten — so werden meine nachsichtigsten Freunde<lb />von selbst das widrige einer solchen Lage einsehen. Arbeit ist doch einmal der grund-<lb />seres Lebens u wo ist Arbeit möglich, wenn man täglich 6–0 hochlautende Briefe<lb />schreibt u doch im̅er in Rest bleibt. Ich führe also jezt keine andere Correspondenz als<lb />mit 4–5 meiner vertrautesten Freunde, u daß Du, mein Guter, unter dieser klei-<lb />ner Zahl begreissen läßt, brauche ich wohl nicht erst zu sagen. Wenn ich auch nur<lb />alle 2–3 Monathe schreibe, so suche ich doch immer einen Brief an den anderen anzu-<lb />knüpfen. Also zuerst von mir selbst: Seitdem ich in Salzburg meine zweite Reise<lb />nach Italien u die Zahl wichtiger Versuche welche ich in Neapel über die gasartigen<lb />Ausdünstungen der Vulkane zu machen gedacht, aufgab; hatte ich keine andere<lb />Zwek als den, mich in die heiße Zone zu begeben. Du weißt daß der alte u tol-<lb />le Lord Brissot ein Schiff in Livorno gekauft hatte, welches uns mit Kühe u Kel-<lb />ler, Mahler u Bildhauern den Weg herauf bis an die Catarakten führen sollte. Die<lb />se Reise nach Egypten war verabredet (November 97) ehe Bonaparte sich damit beschäftigte.<lb />Ich wollte in Paris noch einige Instrumente zusam̅enkaufen als die Franzosen mir mei<lb />einen tollen Lord bei Bologna wegfangen, u ihm in Mailand festsezen, damit er<lb />Lösegeld zahlt. In Paris wurde ich<lb />aufgenommen wie ich nie erwartet durfte u wie ich nur aus der Mittellosigkeit der<lb />deutschen erklären kann, die sich dort gezeigt hatten. Der alte Bougainville projectirt<lb />nur meine Reise um die Welt besonders nach dem Südpol. Er beredet mich<lb />folgen u gerade damals mit magnetischen Untersuchungen beschäftigt, auch<lb />nach dem Südpol mir mehr als Egypten ein, wohin (als ich<lb />in Frankreich ankam) Bonaparte mit seinen 10 000 Gelehrten, die sich nach vor Toulon<lb />wie die Gassenbeuben zankten, bereits abgesegelt war. Mit diesem weitaus feindenden Hefungen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

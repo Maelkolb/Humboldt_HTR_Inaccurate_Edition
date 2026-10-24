@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 10v (America III 1799/1800)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 10v (America III 1799/1800) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="10v (America III 1799/1800)" facs="H1242132_10v.jpg" />
+            <div type="diaryEntry">
+                <p>fürchterliche Plagen des Amerikanischen Lebens u welche dem Physiker sein<lb />schönste Freuden rauben sind 1) daß man ihre Witschauer ewig seiner Freiheit<lb />beraubt ist 2) daß wen̅ der Naturalisten in einem Dorfe ankom̅t, alle Krämer<lb />Weiße u also vorherere Herren zusam̅enlaufen, um dem Fremden zu<lb />instruiren, zu erzählen daß Cumaná einen Knaben 7 Tage im Munde trage,<lb />daß man den Tremblader Tobak im Mund berühren kann. Stundenlang<lb />damit das Fragespiel im ProvinzialNamen, conosca v. una resina<lb />der Geistliche thun vornehmer, reden vom Padre Almeida, Feijo, von dem<lb />was los peripaticos u los filosofos modernos sagen, den sie glauben<lb />daß ganz Europa einen physikal Glauben hat, sie fragen über Seele der<lb />thien, ob man Insekter habe zu blattern werden, aus einem Haar eine<lb />Schläge entspringen sehen … ob es sta recidir. daß die Erde um<lb />die ☉ kaufe … Und da der Werth u seine Freude dies Fragespiel<lb />betreiben muß man im̅er freundlich anhören u antworten. Bleibt<lb />man 2–3 Tage so fragt man, se hai buenas piedras, se v. ha dis-<lb />cubierto algo de bueno, wozu das Pflanzenthalmen niege u sie begrei-<lb />fen nicht, daß man schlechterdings etwas wissen müsse, um sich erklären<lb />zu lassen que tal el aire der Schimblase … Wie viel Zeit u Humor<lb />geht dadurch verloren. Wie gegurtscht legt man sich oft zu<lb />Bitte. Wollte doch der Cap General in Caraccas selbst ich sollte ihm bei<lb />Tische sagen, was wir neues entdekt hatten, süßte wir in Amerika sind?<lb />3) Das ewige Vorspiegeln der Gefahren, die man überstehen wird.<lb />Folge einer Menschenmenge die<lb />d. wir Reise um die Welt gesprochen. Den Conquistadoren-<lb />Lande bis Omequas p. 125. Der Tyranne durch Amazonenfluth bis Marguerita, Martin de Proveda<lb />u über 5 l. reist. Wie entfernt diese von ihren Aehnern<lb />scheid kon von Chachapoyas in Peru über Andes und Llanos nach S. Fé-</p>
+                <p>Vento di Catia<lb />Vitruv.</p>
+                <p>in<lb />salubr.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

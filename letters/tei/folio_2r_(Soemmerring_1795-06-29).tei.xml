@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 2r (Soemmerring 1795-06-29)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 2r (Soemmerring 1795-06-29) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="2r (Soemmerring 1795-06-29)" facs="H0002657_2r.jpg" />
+            <div type="diaryEntry">
+                <p>ren es liegt, daß Ihnen die Versuche mit den Me-<lb />talkalche nicht glühten wollen, da sie doch<lb />Klaproth und andere glükken und mit dem freilich viel<lb />deutlicheren der oxygen. Kochsalzsaure in so nahe<lb />Verbindung stehen. Lesen Sie Uslars Fragm. neu-<lb />einer Pflanzenkunde, Sie werden mir Ideen und Ver-<lb />suche darin sehr erweitert finden. Der Ufer ist<lb />ein sonderbar Geist von Scharfsinn und Unwissenheit.<lb />Auch Pfaffts Versuch, daß Früchte in Dephlag. Kochsalz-<lb />Gas getötet, reizbare werden p 126 und 292 sagt mei<lb />ne Versuche über das Kommen ins geheizte Licht. Mein<lb />Buch wird im Herbst erscheinen, da ich in we-<lb />nigen Tagen nach der Schweiz abgehe. Bis zum<lb />14) Jul treffe ich Ihre Brief nach hier, nach<lb />mals schikken Sie sie (dalls Sie mir schreiben<lb />wollen) an Wilhelm der jezt in Berlin ist.<lb />an Legat. Rath sehr nach Berlin. Wel-</p>
+                <p>haben treibt fast nichts als<lb />meint) seiert und préparirt er</p>
+                <p>sehr geschikt. Er treibt es<lb />um zu sehen, was man daraus<lb />für Psychologie nicht ler-<lb />nen könne. Das hatte er<lb />kurzen in Ihm treflichen Abschnitt<lb />übers Horn in 5) Bade, den ich</p>
+                <p>nachher studiren, gehabt. Könnte ich Sie doch sprechen<lb />ich habe so viel gesammelt, so viel zu fragen. Ich kann<lb />ein Nav. aus d. Schweiz zurük. Ich sehe Sie wohl dann<lb />Vergessen Sie nicht Ihren alten Alexander, der jezt<lb />weit solider ist, als sonst. Sie würden ge-<lb />wiß zufrieden mit mir sein<lb />Empfehlen Sie ich Ihr bis</p>
+                <p>Humboldt</p>
+                <p>Goldkronach d 29 Jun 95</p>
+                <p>liebenswürdige<lb />Gattin.</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 3r (Polier 1829-09-14)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 3r (Polier 1829-09-14) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="3r (Polier 1829-09-14)" facs="H0019136_3r.jpg" />
+            <div type="diaryEntry">
+                <p>Miask le 2h 5′ 47″<lb />14 Sept.<lb />1819</p>
+                <p>Je saisis la première occasion que se présente<lb />mon cher Comte, pour Vous offrir ce petit<lb />signe de vie, pour Vous témoigner ma vive<lb />reconnoissance de Votre aimable souvenir<lb />et pour Vous féliciter, en mon nom et<lb />au nom de mes deux ames (le troi<lb />sième n’est pas dans le secret.) de Vos<lb />brillantes découvertes à Adolphski. Jugez de<lb />me joye, je ne dis pas de ma surprise, lorsque<lb />le bar Mr Schmidt a ouvert la boîte du<lb />Secret: c’était chez moi depuis deux ans, une<lb />sorte de certitude que de trouver les terrains<lb />curifères et platinifères de l’Ural et de Matto<lb />presse semblable dans tous les rapports de<lb />coexistence des fossiles. Je le désire en partant<lb />l’Imperatrice et quoique je n’aye<lb />contribué en rien au succès, je trouve pour<lb />tout un plaisir de penser que la découverte<lb />coincide avec l’époque de mon voyage<lb />qu’elle appartient à celui qui m’honore<lb />et qui par son talent<lb />de son caractère et la<lb />que le sort lui a accordé. J’espère que la proprié<lb />du nouveau produit ne suffisire aucune<lb />difficulté: dans l’Oblaste d’Omsk le Gouverne-<lb />ment à accord récemment à Mrs Popow de<lb />Tausk et Semipalatinsk la propriété de nouvelles<lb />minés d’argent, qui (Vous le savez) d’après la loi</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

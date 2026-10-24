@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 129v (Caripe 1799)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 129v (Caripe 1799) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="129v (Caripe 1799)" facs="H0019154_129v.jpg" />
+            <div type="diaryEntry">
+                <p>6.<lb />auf ½ am Abend auf ¾ Brod hinunter. Zum<lb />Unglük zwang ein Plazregen uns 1 Tag länger zu<lb />bleiben, ein peinlicher Tag. Der Weg nach Cariaco<lb />geht über der nördliche das Thal begrenzende niedrige<lb />Bergkette, eine ungeheure Savannah, Grasflur mit blühen-<lb />den agaven (20 F. hohe Stengel) geschmükt. Auf der Anhöhe<lb />wo die Guardia de S. Augustín steht sichtbar ein abge-<lb />flossener See, gegen Süden durchgebrochen. Der Boden wol-<lb />lig sölig u die anstehenden Felswände bilden das alte<lb />seigere Ufer, ganz wie am Lunger See u Kaiserstuhl<lb />in d. Schweiz. Bar. um 12h dort 299 Lin. also aber d. Me-<lb />re: 507 t. sonderbar genug daß der See den Boden der<lb />Cueva gleich (im niveau) ist. Welch ein schöner unbenuzter<lb />Löden. Von der Guardia an bergab zuerst im Pur-<lb />gatorio) die Einwohner sind hier sehr wenig um ihre<lb />fürchterlichen Wege zu beschreiben) ein Hügel mit 65° Ab-<lb />sturz Letten, verwitterter Schieferthon, dort auch Sandstein<lb />die Maulthiere rutschen hier wie die Fahrer von<lb />Chamonix auf dem Eise herab. Man hat den Sierro<lb />de Guácharo im̅er zur linken, sehr mahlerisch wegen<lb />seiner steilen Feldwand. Nun Wald u zwar ein prachtig<lb />ger acht südamerikanischer, himelanstrebende Laubbäume<lb />verschlungen mit Pothos, Dracontium, Heliconien, viele<lb />Palmen, baumartige Ferrenkräuter, zahllose Crypto-<lb />ganisten. Ein Botanist vergißt fast daß er den<lb />schreklichen Berg de Santa Maria herabsteigt — steil<lb />l.<lb />oft auf 70° eine Art Treppe, von Wurzeln u Stei-<lb />nen gebildet mit bis 4 F. hohen Stufen. Die Maul<lb />thiere springen beladen mit unbegreiflicher Geschik-<lb />lichkeit wie die Gemse mit genäherten Vorder<lb />u Hinterbeinen von Stein zu Stein, fehlen sie<lb />den Stein, so stürzen sie bis an den Gurt in<lb />den Schlamm, der den Zwischenraum zwischen den<lb />Steinen ausfüllt. Wir blatteten zu Fuß herab, hiesi-<lb />ge Einwohner reiten hinab herrendum dictu. Diesel<lb />be mula könnte gewiß auch den par de assucar<lb />des Pic de Teyde erklim̅en! Ohne die vielen u<lb />bis 2 F. dikken Wurzeln, welche die südameri<lb />kan. Bäume 5–8 F. über der Erde zu derselben<lb />Im Kalkstein von S. Maria habe ich u<lb />sonst noch nirgends in der Provinz Amonsfor-<lb />ner doch selten beobachtet. Dort auch brauner<lb />Eisenstein im Kalkstein eingesprengt.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

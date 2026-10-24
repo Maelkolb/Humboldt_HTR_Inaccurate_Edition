@@ -18,6 +18,19 @@ body.show-lines .ln.ln--extra{background:rgba(230,81,0,.18)}
 .ln.is-hot{background:color-mix(in srgb, var(--ln) 30%, transparent)}
 .ln.is-flash{outline:2px solid var(--ln);outline-offset:1px}
 
+.doc-canvas-wrap:has(.lp-page){overflow-x:auto}
+.doc-canvas.lp-page{width:calc(100% * var(--doc-zoom, 1))}
+.lp-zoom{display:flex;justify-content:flex-end;align-items:center;gap:.4rem;margin:-.6rem 0 .6rem;position:sticky;left:0}
+.lp-zoom-readout{font-family:var(--f-mono);font-size:.7rem;color:var(--text-mute);min-width:3.2em;text-align:center}
+.lp-line{position:absolute;height:1em;white-space:nowrap;line-height:1;font-family:'EB Garamond',Georgia,serif;font-weight:400;color:var(--ink)}
+.lp-line .region-content.has-gt .rc{transform:scaleX(var(--sx,1));transform-origin:0 50%}
+.page[data-source-mode="gemini"] .lp-line .region-content.has-gt .rc--gemini,
+.page[data-source-mode="gt"] .lp-line .region-content.has-gt .rc--gt,
+.page[data-source-mode="diff"] .lp-line .region-content.has-gt .rc--diff{display:inline-block}
+.lp-region--entry_heading .lp-line{color:#1a237e}
+.lp-region--marginal_note .lp-line{color:#3d2a55}
+.lp-region--page_number .lp-line{color:var(--text-mute)}
+
 .region-overlay.hide-type-table .ov-box[data-region-type="table"],
 .region-overlay.hide-type-not_found .ov-box[data-region-type="not_found"]{display:none}
 

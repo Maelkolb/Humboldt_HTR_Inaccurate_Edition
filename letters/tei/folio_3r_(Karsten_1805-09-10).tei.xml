@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 3r (Karsten 1805-09-10)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 3r (Karsten 1805-09-10) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="3r (Karsten 1805-09-10)" facs="H0020386_3r.jpg" />
+            <div type="diaryEntry">
+                <p>Eigenthum nicht nomadisch, nein Blät um so freier<lb />Hat der König<lb />nach dem Inneren Asien wenden kann.<lb />so liebwell und gütig wie übersandten Kleinigkeiten gelobt.<lb />so kenne ich Sie edler Mann zu gut um nicht zu<lb />wissen, wie sehr Sie mein Verdienst herausgestrichen haben<lb />werden. Für die Wissenschaften ist es immer schön und<lb />ehrenvoll, wenn Fürsten solche öffentliche Beweise Ihres<lb />Interesses für die Erweiterung menschl. Kenntnisse geben.<lb />Aber noch 2 Worte über die Küsten hier. Ich<lb />habe mit Buch prächtige Sachen für Sie von Vesuv,<lb />Ischia, Neapel, Rom gesammelt. Thomson hat mir<lb />viel geschenkt, was ich für Sie auch bestim̅e. Dazu<lb />die antiken Steine. Das Gewicht der 3 Kisten<lb />ist 1600 Pfund u 100 lb Landtransport kosten von<lb />Rome bis Leipzig 20–25 Piaster. Der Wassertransport<lb />ist natürlich wohlfeiler, wie viel erfahren Sie dort<lb />leichter, obgleich Asseurung hier 25 p. C ist und für<lb />Algierer nicht hilft. Ich wage nichts zu entscheiden.<lb />Ich weiß daß ich geduldig 1000 Piaster bezahlt<lb />habe, um mein Pflanzen und Steine von der Süd-<lb />ser nach dem Nordmeer zu lande zu schaffen. Aber<lb />Sie hängen von Kassen ab. Schreiben Sie<lb />bald an mein Bruder was er thun soll ob<lb />Land od. Wasser.</p>
+                <p>Ich umarme Sie herzlich, bild mehr. Buch<lb />grüßt.</p>
+                <p>Alexander Humboldt</p>
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

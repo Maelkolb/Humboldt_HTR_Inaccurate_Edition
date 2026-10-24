@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 2v (Soemmerring 1796-04-09)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 2v (Soemmerring 1796-04-09) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="2v (Soemmerring 1796-04-09)" facs="H0002727_2v.jpg" />
+            <div type="diaryEntry">
+                <p>führen aus den Arterien oxygenirt wieder zu<lb />Sollte dieser kleine Blutumlauf nicht sehr wahrschein<lb />lich sein … Ich arbeiten viel mit Microscopien<lb />über die Oberhaut. Leuwenhoek hat ganz un<lb />recht. Man sieht keine Poren. Im Fontana<lb />tab 8. F 12 ist die Haut allein richtig abgebildet.<lb />Aber man muß nach die organ. Gefäße entdek-<lb />ken, durch welche die Haut respirirt.<lb />kennen Sie das prächtige Buch medical<lb />extracts on the nature of health Lond. 95<lb />2 Theile eine Anwendung der neuen Chemie auf<lb />Physiologie. Es ist nicht von Duncan. Ich</p>
+                <p>benuze es sehr!<lb />meinen Rath Euphorbien Saamen aus<lb />einem alten Herb. zum Keimen ge-<lb />bracht.<lb />Ich umarmen Sie herzlich. Schreiben<lb />Sie mir nach Bayreuth, wo ich<lb />den 15ten sein werde u von wo<lb />aus Sie MSS. erhalten.</p>
+                <p>Humboldt<lb />Berlin, 19 April<lb />Ich empfehle Ihnen einen lieben<lb />Freund D. Grapengiessen der Sie in<lb />2 Monathen besuchen wird. Ich reperi<lb />mentirt mit ihm. Ich bin jezt sehr<lb />fleißig u Sie müssen mit mir<lb />zufrieden sein.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

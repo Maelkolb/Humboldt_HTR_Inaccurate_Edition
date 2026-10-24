@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 56v (Austria 1797/98)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 56v (Austria 1797/98) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="56v (Austria 1797/98)" facs="H0019734_56v.jpg" />
+            <div type="diaryEntry">
+                <p>N. 9 — 11.</p>
+                <p>Observatoria in Italien: Bologna. Pisa (Perelli. Slop) Milano. Padua. Florenz (P.<lb />Ximenez au College de Jesuiten) Parma (P. Belgrado) Brescia (P. Cavalli) Venise (P. Pari-<lb />gai) Turin (P. Beccaria) Rom (P. Audiffredi au Couvent de Minerve. P. Jacquier à<lb />la Trinité de Mont. P. Asclepi au Collège Romain.) Neapel (Casella)</p>
+                <p>10) In Wien Mechan. Künn macht vielleicht beste Wagen in Europa.<lb />Vollständigen Apparat zu hydrostat. Versuchen mit Fortinschem Fuß, ange-<lb />bend von 3 Loth bis 0,01 Gran mit Kasten etwa 2 ½ F. lag, 1½ F. breit u<lb />8 Zoll hoch (ohne Glaskasten) zu 150 fl. 3 Monath vorher zu bestellen.<lb />Fortinische Mauer, wie Jacquin, will er für 250–300 P. nachmachen. Sie wiegt<lb />2 ℔ u giebt 10000 davon an.</p>
+                <p>Breite von Wien 48° 12′ 36″<lb />Grubers Briefe aus Krain an Born 1781 enthalten Ideen über<lb />Schichtung.</p>
+                <p>11) Wohnungen in Wien. Hofrath Franz Alstegasse n 130. Landriani See-<lb />berstadt n 855. Lerchenfeld neue Markt n. 1116. 4tes Stok. Mechanikus<lb />Hannatsch an der Wien beim Kegel zum Kärntnerthor hinaus. Mich. Ham-<lb />berger am Plazel im Spilliermacherhaus zum Burgthor hinaus. Planck<lb />in der Krentnerstraße im Lagerstischen Hause. Riberi untere Bekkerstraße wei-</p>
+                <p>ße Rose. Arnstein Herrengasse. Cubitschek.<lb />mein Smiff box Sextant kostet 71#<lb />Horizont v. Troughton 28*<lb />Horizont v. Carrochez 72°</p>
+                <p>Bird Quart de Cercle 1500″<lb />le grand Cercle de Pistor<lb />nemlich 90 P. H baar<lb />à 7 r. assecur. Frist accise.</p>
+                <p>Cercle de Borda sans lunettes 360<lb />Déclinaison (ohne Schugg) 70°<lb />Etuy de Mathem 60*<lb />Mètre en Cuivre 54<lb />Chaîne de 10 mètres 10<lb />niveau à bulle d’air 25<lb />Inclinaison 400<lb />— klein … 96</p>
+                <p>Eudiom. de Fontana (Dumotiez)<lb />Instrum. pour la Temp. de l’eau<lb />le Sextant de Ramsden 360.<lb />Lunette de Dollond 144.<lb />Chronomètre de Seyffert 672* = 28 Car.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

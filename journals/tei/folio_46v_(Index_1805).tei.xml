@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 46v (Index 1805)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 46v (Index 1805) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="46v (Index 1805)" facs="H0020388_46v.jpg" />
+            <div type="diaryEntry">
+                <note hand="#author" place="left">
+                    <p>Tigre I 68. 71. V. 389. 393. XI 34 n 17.</p>
+                </note>
+                <p>Teneriffe II 124. Schreibtafel. Erskant.<lb />mon Voy de la Corunna à Cumaná. Courant<lb />Buenos ayres IV 243<lb />vent XIII 28. n 8.<lb />(Pic. Chahorra. Teapa. A.)</p>
+                <p>Calme An 30.<lb />Mon Discours préliminaire déjà fait A.<lb />Isla de Lobos B.<lb />Instrumens mitgenom̅en B.<lb />Documens d’Urquijo C.<lb />Arbres XII p. 61. Dikke</p>
+                <note hand="#author" place="left">
+                    <p>Tortues I 71. 105.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>Température v. Chaleur Eau de mer Intérieur du Glo-<lb />be. Météorologie.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>Truxillo 27 II. 57.</p>
+                </note>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

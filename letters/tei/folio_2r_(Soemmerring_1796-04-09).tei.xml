@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 2r (Soemmerring 1796-04-09)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 2r (Soemmerring 1796-04-09) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="2r (Soemmerring 1796-04-09)" facs="H0002727_2r.jpg" />
+            <div type="diaryEntry">
+                <p>ist. Electr. wird besser durch Lichtflamme als<lb />a<lb />auch Metalle geleitet.<lb />a sein ein conduction u c ein Licht, so ströht<lb />alle Electr. durch c nach d, gar keine aber nach b<lb />heraus. Das Galvan. fluidum wird aber durch Flamme<lb />gar nicht geleitet. c sei eine nervenArmatur von Zunf-<lb />u die Leitung der silbernen Drähte a und b sei<lb />durch Flamme unterbrochen. Es giebt nie, bis a d b<lb />nerui<lb />sich selbst berühren. Das ist wichtig.<lb />Wilhelm, mein Beste, hat allerdings die Cardiaci des<lb />Fuchses gesehen und den Puls des Herzens verändert<lb />ohne das Herz zu berühren. Er berührte bloß den<lb />Meer. Nemlich er schob Stam̅al unter den Nerv u berührte<lb />mit Silber Nero u Stammel. Das Silber tref das Harz gar<lb />nicht.<lb />Ihre Einwendungen sind mir unendlich wichtig, so wie<lb />alles was von Ihnen kommt. Prächtig ist Ihr Buch<lb />übers Seelenorgan. Auch habe ich nie erfahren, daß<lb />irgend eine Schrift so allgemeine Sensation<lb />machte, als diese. Ich habe nicht Zeit Ihnen heute<lb />mehr als den allgem Ausdruk meiner Empfindungen<lb />zu geben. Ich las jezt auch erst Ihr Buch über<lb />die vasa absorbentia. Welch ein Schaz von Entdek-<lb />kungen u Ideen. Sie sind was Ventius der<lb />Vorzeit war!<lb />Ich habe eine Lieblingsidee, die ich Ihnen mit<lb />3 Worten vorlege. Sie kennen Abernitt’s sehr<lb />richtige Versuche über respiration der Haut.<lb />Die Haut saugt oxygen ein und siebt azote u<lb />Kohlensäure aus, wie die Lunge. Ich glaube es giebt<lb />außer der Lunge noch andere Punkte, wo das<lb />renöse Blut arterieus wird. Ich glaube die Lymphä-<lb />tischen Gefäße nehmen Blut aus den Venen od. Arte-<lb />rien auf, bringen es in kleine Luftbehälter unter<lb />der Haut, die man noch entdekken wird u</p>
+                <p>sa</p>
+            </div>
+        </body>
+    </text>
+</TEI>

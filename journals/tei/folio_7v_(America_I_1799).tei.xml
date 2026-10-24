@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 7v (America I 1799)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 7v (America I 1799) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="7v (America I 1799)" facs="H0016412_7v.jpg" />
+            <div type="diaryEntry">
+                <p>Nachts hörte ich vergeblich auf die südlichen Sterne, diesel-<lb />ben, die unter dem Horizont von Alexandrien sichtbar<lb />sind. Lichte Wolken, gestaltet wie im Norden u je<lb />den Augenblik von Form wechselnd entzogen mir die<lb />Sterne. Ich konnte nur den Mond einmal beobachten<lb />mit dem Troughtonschen Sextanten</p>
+                <p>12.</p>
+                <p>40° 23′ — 9h 31′<lb />giebt lat. 31° 6′ 45″ ein Wunder von Genugkeit<lb />de Meerhorizont ziemlich bezogen war.</p>
+                <p>Den 15 Jun. Morgens zur Längenbestimung ☉<lb />55° 33′ — 10 h 7′ 47″ giebt long. 1 h 7′ 36″</p>
+                <p>57′ 20″ 8′ 52″<lb />41.<lb />40′ 10″ 27′ — 7′ 33″</p>
+                <note hand="#author" place="left">
+                    <p>Mg 16°</p>
+                </note>
+                <p>long. 16° 54′ also geringer als gestern u doch waren wir<lb />gegen Westen gesteuert, so groß Wirkung des Meeresstrohms<lb />gegen Osten. Pilote hatte um Mittag 17° 20. lat. 30° 31′ 12″<lb />Ich u sehr genau<lb />lat. 30° 35′ 55″. Der error ind. geprüft noch im̅er 7″<lb />groß, also seit 5–6 Monathen nicht geändert. Luft<lb />ganz Wolkenlos Zenith Cyan. 16. am Meerhorizont 11°<lb />Seewasser 34°. ☉höhen Nachmittags:<lb />63° 24′ 5″ — 2 h 33′ 37″<lb />62. 51. 0. 36 7.<lb />. 25.<lb />34′ 40″<lb />33. 20. 37. 20.<lb />20 0 38 25.</p>
+                <note hand="#author" place="left">
+                    <p>es ist der Strohm</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>der von Florida<lb />nach Guinea sezt!<lb />Pownalls Karte in<lb />of the Westindies<lb />auch Bougainv. I p 10<lb />nicht aber Labill.</p>
+                </note>
+                <p>Sonne ging unter<lb />41. 15.<lb />Der Pilote relevirte den ☉durchm. beim Untergang. Ich bat ihn<lb />die Ränder zu nehmen. Der eine gab 41° der andere 43°.<lb />Magnetische Kraft: Dieselbe 12 Zoll lange Nadel welche hier<lb />zental à la Coulomb an einem Haar aufgehängen in<lb />Madrid in 1′ genau 8 oscill. machte, gab hier sehr<lb />regelmäßig 7,4. Luft sehr rein bis 11 Uhr ab-<lb />wechselnd viel Wolken u sehr dikke. Sonderbar wie schnell<lb />Himmel von der diksten Wolkenhülle in das rein<lb />ste blau überging. Der Wind trieb die Wolken nicht<lb />hinweg, nein sie lösten sich sichtbar auf. Von 12 h<lb />an, Himmel ganz blau u unendlich schön. Mit<lb />bleßen Augen u ohne Anstrengung sah jeder den<lb />Doppelstern Mizar u Alcor. Und das Licht welches die<lb />fast volle Mondscheibe ausgoß! Die Höhe trägt viel</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

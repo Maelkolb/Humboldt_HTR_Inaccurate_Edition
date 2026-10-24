@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 45v (America I 1799)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 45v (America I 1799) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="45v (America I 1799)" facs="H0016412_45v.jpg" />
+            <div type="diaryEntry">
+                <p>87.</p>
+                <p>Température la Suite se trouve p. 118.<lb />L’eau de mer dans le port de Cumaná ⅛ lieuex de la Côte surface (17 Brum.<lb />à 8h air matin 19°) — 20°,3 R. en 12 toises de profondeur 20°,3 en 30 toises<lb />19°,5 à 35 toises 19°,1 à 40 toises 19°,1. L’air extérieur n’a aucune influence<lb />sur la tempér. de l’eau de mer. Nous avons vu par la Sonde qu’à 35 t de<lb />profondeur le Courant allait vers la terre au Sud et à la surface (comme le<lb />barque le prouve) en s’éloignant de terre au Nord.<lb />Manzanares et Río Catcalirva près de Cumaná (Août Sept) 20°,2.<lb />L’eau se forme à 2–3 h à midi par l’électricité. Au moment même d’une pluye qui<lb />tombe com̅e un torrent, le Th est à 19 le plus 18,7 et l’Hygr. de Deluc à 35°<lb />Dans les rues de Cumaná à 1–2 h par reflet et au ☉ monte à 5 pies de hauteur le Th. à 29°,5.<lb />Mesurer la force du ☉ dans différentes hauteurs sur l’horizon. Les angles pris avec<lb />le Sextant. Deux Therm. égaux un à l’ombre, l’autre au Soleil suspendus<lb />dans l’air à 22 pi. de hauteur. Comme il faut 10′ jusqu’à ce que<lb />le Therm. venue à son maximum j’ai mesuré la haut. de l’astre en ex-<lb />posant et en étant le Therm. du Soleil. On pourra réduire la Tempéra-<lb />ture à un terme moyen. On a choisis des jours tout bleu. Le Thermom.<lb />et Hygrom. sont réduit à ceux de l’Observatoire. Le tems est vrai t.<lb />de Cumaná. La Haut du ☉ pas corrigé par le diam. et réfraction, mais elle est<lb />simple. Voyant que le Therm. exposé au ☉ ne monta quelquefois pas d’un degré, on l’y a laissé<lb />exposé pendant 40–50 Force du Soleil. de la quelquefois le grand changement de la hauteur<lb />de l’astre pendant une observation.</p>
+                <p>Jours. Heure Haut. Haut Therm. Therm. Force Hygr.<lb />1800. Neure du ☉ du ☉<lb />au com. à la fin.<lb />manc.<lb />Deluc.<lb />11 Sept. 19. 10° 3′ 16° 32′. 19,2. 18. 1,2. 42.<lb />Saussure 19 ¾. 26° 15. 30. 17. 22. 20,3. 1,7. 41,5.<lb />20 ½ 38° 2′ 40′ 47″ 22,2. 30.2. 2. 41.<lb />21. ½. 52′ 26″ 58′ 15″ 23′ 22″ 1′ 36″<lb />voy. IV, p 247. 22 ½ 67. 56. 73. 5. 24,2. 23. 1,2. 31,5.<lb />23 ¾ 83° 6′ 84° 2′ 25′ 22,9. 20′ 30″<lb />3 ½. 37° 51′ 40° 35. 25,7. 23,6. 2,1.<lb />14 Sept. 19 h 13. 26. 19. 32. 19,3. 18. 1,3. 47.<lb />21. 15. 41. 45. 55. 20. 22.5. 21.2 1.3. 40.<lb />Therm. 22.48. 71. 43 74. 27. 24,7 21,7. 3.0 35,4<lb />24h 0′ 88° 20′ 82′ 50″ 26′ 5″ 23′ 7″ 2.8 30.<lb />10 Sept. 20 h 26. 50. 30. 31. 21,2. 17.5. 3.7. 43.<lb />21 ¾. 49. 34. 56. 29. 22,7. 20,8 1.9 41.<lb />ses degrés<lb />23 ¾. 78. 20. 80. 25. 25,3. 22. 3.3. 34.<lb />18. Sept. 18 ¾. 10. 30. 12. 18. 19.5. 18.4 1,1. 43.<lb />19 h 10′ 19. 40. 20. 40. 21. 19.2. 1,8. 41,7.<lb />19. 45. 25. 50. 29. 41. 22.3. 20.3. 2. 41.<lb />20 ½. 35. 27. 37. 20. 23. 21.3. 1.7. 40.<lb />20 h 50′ 43° 50′ 46° 20′ 23.5. 21.3. 2,2. 38,2.<lb />21. 35 53. 50. 55 21. 24,2. 21.7. 2,5 36.<lb />23′ 10″ 69° 20′ — 73° 50′ — 25′ 3″ 23′ 5″<lb />24h 0′ 70″<lb />12<lb />27.2 — 23.8. — 3.4 29. 22<lb />2.5. 29. 23.<lb />3. 45. 30. 42′ 30″ — 26.2. 24.3. 1.9. 32. 17.</p>
+                <p>Cyno<lb />mètre.<lb />11°,3 calme<lb />14. calme<lb />id faible<lb />17,7 id. forte.<lb />18. id. faible.<lb />différences<lb />Kirwan<lb />10<lb />0′ 77″ 80,5<lb />aut.<lb />brize faible<lb />id. plus forte.<lb />8 p 412</p>
+                <p>13,7. calme bleu<lb />17. id. très transparent<lb />18. id.<lb />23. id.<lb />14.5 tout bleu l’air très refroidi<lb />la nuit (calme)<lb />18,5 bleu calme.<lb />19.5 id.</p>
+                <p>15. calme bleu. Quant le<lb />16,3 id. belles vent s’élève<lb />et qu’il est<lb />17. id. observ. fort le Cyan. bais<lb />17.8 id. va se, l’azur du Ciel<lb />17′ id. tions devient plus pâle!<lb />18. id très calme</p>
+                <p>22. id<lb />id.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 57v (Austria 1797/98)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 57v (Austria 1797/98) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="57v (Austria 1797/98)" facs="H0019734_57v.jpg" />
+            <div type="diaryEntry">
+                <p>N. 15.<lb />15) Mit vieler Sorgfalt angestellter Versuch. Am 22sten Aug um 12 ¼ Uhr<lb />bar. 27 Z. 8 ⅞ Lin. Therm. 18 ¼° R. schöpfte ich Luft aus meinem Zimmer<lb />unfern den offenen Fenster. Ich fällt 2 antraconaten. (A hielt<lb />187 Theile u 3 Th. correction B. 239,5 Theile u 2,5 correction) nur eine<lb />oben verschlossene Röhre von 2 Lin Durchmesser, welche 40,8 Theil Luft erhielt<lb />Uhr 4 Uhr am 23 Aug bei bar 27 Z. 9 ⅛ Lin u Therm 18 ½° R fand<lb />ich daß A — 0,008 Kohlensäure<lb />H. 36. Deluc.<lb />B. — 0,004.</p>
+                <p>die Jahre C — 0,007 — Mittelzahl 0,006 Kohlensäure<lb />Vorbeissung wegen Druck der Atmosphäre nach Girtanner p 432 kann nicht berechnet wer-<lb />den da nie Wassersäule in der Röhre vor der Absorption fehlt. Ohrgefühl Betrug<lb />sie 1 Zoll 11 ⅕ Lin. d. in Dezim. Theilen. 1,96868 Zoll. Barometerhöhe bei<lb />Einschreiber = 27,73951. Zoll. Wasserhöhe<lb />Demnach 40,8 x 25,77 = 37,55 Theile wurde Luft in<lb />28<lb />(bei 28 Zoll Höhe eingenommen</p>
+                <p>Verbesserungen wegen Bar u Therm. nach<lb />Girtanners Chemin p 452 für C<lb />Vor der Absorption 40,8 Theile bei 27 p. 8 7/8 Lin. auf Dezimaltheilen<lb />8–8 = 27,6818. Demnach<lb />40,8 x 27,6 / 28 = 40,22. Theile bei 28 Z Bar. Höhe.<lb />= 8</p>
+                <p>Der 480 Theil davon ist 0,083. multiplizirt mit 73° Jahr — 54° R = 19° F.<lb />giebt 1,577. Demnach 38,65 Theile.<lb />Nach der Absorption: 27 Z. 9 ¼ Lin giebt in Dezimalthälen 27,76040 — der Wassersäule<lb />à 2 ¾. ⅛ Lin. Wasser = 0,14823 Quksilber = 8–8 ⅛ = 27,61. Übrige Luft 40,5<lb />40,5 x 27,61.</p>
+                <p>Der 488. Theil davon = 0,083. multipl. mit 74° F — 54° = 20 = 1,660 Theile<lb />demnach 38,27 Theile<lb />Vor d. Absorpt. bei 283. bar. u 10° R = 38,65 Theile<lb />Nach … … … … … … = 38,27<lb />0,38</p>
+                <p>Von 38,65 gingen also 0,38 Th. verloren, demnach enthielt die<lb />Luft in C genau Kohlensäure<lb />0,0098</p>
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

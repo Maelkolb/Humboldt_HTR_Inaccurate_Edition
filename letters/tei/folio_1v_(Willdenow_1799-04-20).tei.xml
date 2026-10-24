@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 1v (Willdenow 1799-04-20)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 1v (Willdenow 1799-04-20) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1v (Willdenow 1799-04-20)" facs="H0001200_1v.jpg" />
+            <div type="diaryEntry">
+                <p>war ich<lb />(beschäftigt, als auf einmal das Directorium den heroischen Entschluß faßt, nicht<lb />den 75 jährigen Bougainville sondern den Cap. Baudin eine Reise um die<lb />Welt machen zu lassen. Ich höre von diesem arrête nicht eher, als auch schon<lb />das Gouvernement mich einladen läßt, mich auf dem Volcan, einer der 3 Corvetten,<lb />einzu schiffen. Alle National. Sammlungen wurden mir geöfnet, um von Instrumenten<lb />zu sammeln, was ich wollte. Bei der Wahl der Naturalisten, bei allem was<lb />die Ausrichtung betraf wurde ich um Rath befragt. Viele meine Freunde waren<lb />unzufrieden damit, mich dem Gefahren einer 5jährigen Seereise ausgesezt zu sehen,<lb />aber mein Entschluß stand eisern fest u ich würde mich selbst verachtet haben, wenn<lb />ich eine solche Gelegenheit nüzlich zu sein, versäumt hätte. Die Schiffe waren<lb />begeistert. Bougainville wollte mir seinen 14jährigen Sohn anvertrauen, damit er<lb />sich freich an die Gefahren des Seelebens gewöhnten. Die Wahl unserer Gefährten<lb />war vortreflich, lauter junge, krumtißvolle, kräftige Menschen. Wie scharf jeder<lb />den anderen ins Auge fügte, wenn er ihn zum ersten Male sah. Vorher fremd<lb />u dann so viele Jahre lang einander so nahe. Das 1ste Jahr sollten wir im Paraguay<lb />u in Patagonienlande, das 2te in Peru, Chili, Mexiko u Californien, das 3te<lb />im Südmeer, das 4te in Madagascar u das 5te in Guinea zubringen<lb />Mein Bruder u mein Schwiegerin wollten mich bis in den Havre begleiten. Wir waren<lb />alle mit der Idee so vertraut, daß diese Abreise uns ein Fest schien. Welch ein<lb />unmenbarer Schmerz, als in 14 Tagen alle alle diese Hölungen scheiterten. Elende<lb />300000 livres u der nahe gefürchtete Ausbruch des Krieges waren die Ursachen. Mein<lb />persönlicher Einfluß bei Francois de Neufchateau, der mir sehr wohl will, alle Zeich-<lb />zudern waren umsonst. In Paris, das von dieser Reise voll gewesen war, glaubte man<lb />Das directorium sezte durch ein 2tes arrête die Abreise bis<lb />zum künftigen Jahre (?) aus. Eine solche Lage, ein solcher Schmarz läßt sich nur<lb />fühlen. Aber Männer müssen handeln, u sich nicht dem Schmerz überlassen. Ich<lb />fastete um den Entschluß der ägyptischen Armeen auf dem Landwegen mit der Cava-<lb />vane die von Tripolis durch die Wüste Selimar nach Cairo geht zu folgen<lb />Ich gesellte einen der jungen Leutre der mit zur Reise in die Welt bestim̅t war,<lb />Bonpland, einen sehr guten Botanisten, den besten Schüler von Jussieu u<lb />Desfontaines nur zu. Er hat auf der Flotte gedient, ist sehr stämmig, muthig,<lb />gutmüthig, u in der anatomia comparata geschieht. Wir eilten nach Marseille u<lb />von dort aus mit dem Schwedischen Consul Sköldbrand auf einer Fregatte, welche<lb />Geschenke führt, abzugehen. Ich wollte den Winter in Alger u dem Atlas<lb />zubringen, wo in der Provinz Constantine (laut Desfontaines) noch ein 400 neue<lb />species zu finden sind, von da wollte ich über Saffetula, Tunis, Tripoli<lb />mich der Caravana, welche nach Mecka geht, zu Buonaparte stoßen. 2 Monathe<lb />lang harrten wir vergeblich Unsere Kaffee mußten geparkt bleiben u wir be-<lb />fen täglich ans Ufer. Die Fregatte Paramas, welche uns führen sollte, ging<lb />unter. Alle Mannschaft erfaßt. Einige meiner Freunde, welche mich schon einge-<lb />schift glaubten, hat diese Nachricht sehr erschreckt. Ich miethe, durch das lange<lb />Havren nicht abgeschenkt, einen Ragusaner der uns directe nach Tunis führen<lb />sollte. Die Municipalität zu Marseille aber, wahrscheinlich schon unterrichtet<lb />von den Stürmen welche bald in der Barbarei gegen alle Franzosen aus-<lb />brechen sollte, verweigerte die Pässe. Bald darauf kam die Nachricht an, daß<lb />der Dey von Alger die Caravane nach Mekka nicht abgehen lassen wolle, da-<lb />mit sie nicht durch das von Christen verunreinigte Egypten gehen — um vor allem<lb />Hofnung nach Cairo zur Armee zu stoßen dahin. Zur See war alle</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

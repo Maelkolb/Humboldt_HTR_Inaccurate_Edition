@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 3v (America III 1799/1800)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 3v (America III 1799/1800) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="3v (America III 1799/1800)" facs="H1242132_3v.jpg" />
+            <div type="diaryEntry">
+                <p>eines mußte mich zu schneller Entscheidung zwingen,<lb />ob ich abreise od. den Ausgang der Geldnegocien<lb />tionen abwarte, eine Entscheidung die ich wie alles<lb />was von eigener Willkühr u sogenannter Wahl<lb />des besseren abhängt fürchtete. — Dieser Geldmangel<lb />u diese Ungewißheit hielt mich nun bis zum 18ten<lb />November in Cumaná zurük, sie zwang mich die<lb />☉ finsterniß dort zu beobachten, so verschäfte mir<lb />Gelegenheit Augenzeuge eines heftigen Erdbebens zu<lb />sein und in einer Gesellschaft nach Caraccas<lb />zu reisen, die für meine dortige gute Auf-<lb />nahme u angenehme Existenz wichtig wurde. So<lb />wundersam sind Ursache und Wirkung in<lb />einem Menschenleben verwebt. Der Gouverneur D.<lb />Vierter Emparan bot mir auf die edelmüthig-<lb />ste Weise wiederholt aus eigenen Mitteln die<lb />Summe von 1000 P. an. Ich solle sie ihm<lb />wo u wenn ich wolle wiederzahlen. Troz<lb />seines störrischen u ungewandten Wesens<lb />wußte er diesen Dienst auf eine Art zu<lb />erweisen, daß es minder schwierig ward, ihn<lb />anzunehmen. In der Hofnung meine Havaner<lb />Wechsel in Caraccas zu negociiren ein-<lb />pfing ich die 1000 Piaster. Ein bloßer Schuld-<lb />schein beleidigte schon den Geber. Ich lern-<lb />te nun wahre Spanische Größe kennen!<lb />Mit einem Schiffe aus Cadiz, das wir ein<lb />laufen sahen, als wir eben in dem ame-<lb />rikanischen Boote des Mr. Davis von Phila-<lb />Delphine im Hafen mit dem Thermometer son-<lb />dirten, kam der neue Teniente del Re für<lb />Caraccas, D. Emanuel Caxigal, Brigadier nebst<lb />den Brüdern u Söhnen des Marquis del Toro<lb />u Graf Tovaro an. Caxigal, Neffe des<lb />Marquis gleiches Namens, ist aus einer Fami-</p>
+                <p>6.</p>
+                <note hand="#author" place="left">
+                    <p>Mexiko<lb />Münze nim̅t dort jähr-<lb />lich 25 Mill Silber u 3 Mill<lb />Gold.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>In Amerika<lb />zahlt Spanien monat-<lb />lich zur See 1 artillero<lb />7 ½ einen marinero<lb />5 ½ ein grumete 3 Piaster<lb />in kön. Marine aber<lb />oft 4–7 Monathe ohne<lb />Sold wegen Mangel in<lb />Cassen. Ein gemeiner<lb />Soldat hat in Lima<lb />monatlich 18–20 Piaster.<lb />Der Admiral Massaredo<lb />hat in Spanien monat-<lb />lich 1200 Piaster Sold<lb />in Amerika hätte er 2400<lb />Piaster.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>Fregatte S. Elmo,</p>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

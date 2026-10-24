@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 19r (Siberia 1829)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 19r (Siberia 1829) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="19r (Siberia 1829)" facs="H0005449_19r.jpg" />
+            <div type="diaryEntry">
+                <p>Catharinb. 13 Juin 7½h m<lb />33<lb />376.7 19,2 C<lb />3486 — 11″<lb />Werchoturinski 376,3 377,1 17°,2 C.<lb />43.1.<lb />1° R.<lb />70,3 70,2 beau<lb />4 Juin Neviansk 378,3 un peu couv.<lb />10h — 17°,5 R<lb />20h 7′ 22″,3<lb />am 4ten Theil<lb />16,5 R</p>
+                <p>glim. Thonsch<lb />☉ Grenz hor 10,4. erst in<lb />gegen Süden bloß Granit der Arm im<lb />fallsch giebt! Eine Stollen bloß in<lb />Sehr einer in Granit 3 Schiffe<lb />plat.<lb />4 sol jezt</p>
+                <p>Gang<lb />für lezte 5 r. der Pfl<lb />Suchoi Wilui 24 W. G.</p>
+                <p>Schmalinsk: St 1,5. 180 Or<lb />auf Kalk. 2 F<lb />22–14 Zoll Quellen? Markt 9,5 R<lb />65 Sag x 65 Sag = 12 Pud ☉<lb />Neiva in Fluß selbst 2 Sol noch 4, ist</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

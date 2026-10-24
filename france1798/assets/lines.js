@@ -50,6 +50,25 @@
     });
   });
 
+  var zooms = [1, 1.3, 1.6, 2, 2.5], zoom = 0;
+  function setZoom(step){
+    zoom = Math.max(0, Math.min(zooms.length - 1, zoom + step));
+    document.body.style.setProperty('--doc-zoom', zooms[zoom]);
+    document.querySelectorAll('.lp-zoom-readout').forEach(function(r){ r.textContent = Math.round(zooms[zoom] * 100) + '%'; });
+  }
+  document.querySelectorAll('.lp-page').forEach(function(canvas){
+    var bar = document.createElement('div');
+    bar.className = 'lp-zoom';
+    bar.innerHTML = '<button type="button" class="facs-tool" data-step="-1" title="Smaller text">A&minus;</button>'
+      + '<span class="lp-zoom-readout">100%</span>'
+      + '<button type="button" class="facs-tool" data-step="1" title="Larger text">A+</button>';
+    bar.addEventListener('click', function(e){
+      var b = e.target.closest('[data-step]');
+      if(b) setZoom(parseInt(b.dataset.step, 10));
+    });
+    canvas.parentNode.insertBefore(bar, canvas);
+  });
+
   document.querySelectorAll('.journal-select').forEach(function(sel){
     sel.addEventListener('change', function(){ location.href = sel.value; });
   });

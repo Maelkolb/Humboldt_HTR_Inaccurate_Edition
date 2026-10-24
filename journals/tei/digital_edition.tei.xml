@@ -1,0 +1,692 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexander von Humboldt, Pages of eight other journals, 1797-1829, no model trained on them (HTR)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Alexander von Humboldt, Pages of eight other journals, 1797-1829, no model trained on them (HTR) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="55r (Austria 1797/98)" facs="H0019734_55r.jpg" />
+            <div type="diaryEntry">
+                <p>Büsch schäzt Tiefe des Brunns,<lb />= Einspiegel nach Umgangen des<lb />Seit 600 F. (Wasserbau Kunst p 169.)</p>
+                <p>N. 1.</p>
+                <p>1) am 14ten Jun 97. Höhenmessungen. Das Barometer stand seit 8 Ta-<lb />gen unveränderlich, ohnerachtet es täglich heftige Gewitterregen mit<lb />Wind gab. Ich wagte es daher mit einem bar. zu messen.<lb />Die Messung zeigt wie richtig es geschah, denn als ich vom<lb />Königstein nach der Neuen Schenke herabkam, stand das ba-<lb />eben so 27° 2 ⅑″ wie es 5 Stunden vorher stand. Auch in<lb />Dresden fand ich es am Abend um 10 Uhr wieder 27′ 24″<lb />wie es morgens um 6 Uhr stand.<lb />Dresden, Müllersches Haus 3 étage Willische Gasse — 27° 8 ¼. Th. 16°<lb />Neue Schenke am Königsstein 27′ 2″ 16″ bei 15 ½° R.<lb />Ausfall am Wege nach der Vertung 27′ 1″.<lb />Band des Brunnens in der Verstung 26′ 10° ¾<lb />Spiegel der Elbe unter der Festung 27′ 8″ Th. 14° R.<lb />Demnach (bis bessere Formel gefunden nach der méthode simple<lb />über meiner Wohnung zu Dresden<lb />berechnet,<lb />Neue Schenke 81,68 Toisen<lb />Ausfall — 95,82 —<lb />Brunnenrand 143,66 —<lb />Elbspiegel 3,27 toisen.<lb />Demnach ist der Königsstein über der darunter fließenden<lb />Elbe 140,39 toises = 842,34 Pariser Fuß.<lb />Meißen ist über d. Meere 238 Par. F. Der Königsstein liegt<lb />also ohngefähr so hoch als Freiberg, etwas höher als Bayreuth<lb />u etwas niedriger als Geneve. Da Prag 552 F. hoch<lb />ist so ist demnach von Prag bis Meißen 314 F. Elbgefälle d. i.<lb />13 F. Gefälle pro Meile (die Krümungen des Flüßes ungerechnet.) Dem<lb />noch ist es eine Länge daß der Brunnen auf d. Königsstein 900 Ellen<lb />tief sei, wie steht in das Dorfs beschr. von Dresden 1782. p 771.<lb />Gruber giebt Höhe über d. Meere 92 Wiener Klöfter.<lb />der Prager Sternwarte</p>
+            </div>
+            <pb n="55v (Austria 1797/98)" facs="H0019734_55v.jpg" />
+            <div type="diaryEntry">
+                <p>2 — 8.<lb />obs. 48′ 50″ 14″<lb />Paris Breite 48° 50′ 11″<lb />kohler gab Br. v. Dresden 1769 u<lb />ec. mil 48 51. 5.<lb />Mechan. Le Noir<lb />1778 – 51° 5′ dann 1780 nur 51° 2′ 54″<lb />Opticus-Carrochez.<lb />an. Niebuhr fand sie 51° 3′ 30″.<lb />Bureau des longitudes: La Grange,<lb />la Placa. la Lande Michain. detambre<lb />Demanna, Außer der KartenSamml. auf d. Nat. Bibl. verkauft d’Anvilleschen Karten<lb />Berthoud macht Chronom.<lb />Didymi taurinensis litteraturae copticae rudi<lb />mentum. Parmae 1783.<lb />Buches Barometer steht um 35 14/16 Lin. höher als mein Stokbarometer.</p>
+                <p>am 22 Jun. gef.<lb />wahrer Mer. 12 h 2′<lb />12 h. 19′ 40″ 64° 38′ giebt 48° 50′ 50″<lb />mein Weiß<lb />21′ 15″ 64° 35′ — 48° 51′ 37″<lb />24.<lb />am 25 Jun<lb />wahrer M. 12 h 3′<lb />12 h. 60′ 45″ 64° 49′ giebt 48° 51′ 36″</p>
+                <p>err. indic des Trought. Sept. ist an — 4°<lb />mein Thermometer v. Renard ist ganz = dem Lavois. dans les Caves de l’<lb />Observat. (Mein Haarhygrom. war 77° als das mit 8 Haaren v. Richer<lb />im Observ. 79° war.) Das Therm. v. Megnie pour la Souche ist = dem des Caves. Das von<lb />Klindworth im Del. Hygrom. aber um 2° höher, das von Megnié im Kasten 0,6 höher.</p>
+                <p>Berichtigung des Throdoleth 22 messidor.<lb />1. Excentricität der Fäden 45″ bis 50″ wenn libella unten werden Winkel um<lb />22″ bis 25″ zu klein</p>
+                <p>2. Fehler der libelle od. der unteren Scheibe 1′ welche (wenn Schraube dem<lb />Ocular gegenüber) zugerechnet wird<lb />u 3. Fehler des ☉ Punkts nach 15 Winkeln 1′ demnach müßen 30<lb />wenn Schraube d. Ocular gegenüber zugerechnet werden.<lb />4. Breite des Fadens ist 30″ also 15″ abzuziehen.<lb />wenn Sonnenrand an der unteren Grenze des Rades stößt<lb />demnach müßten 1′ 35″ zugerechnet werden.<lb />1. Excentricität des Erdreichs fast 1″ wenn libella unten wird W. um 30″ zu klein<lb />Berichtigung 14 Jul.<lb />2. Fehler der libelle od. unteren Scheibe 1′ welche (wenn Scheibe d. Ocular ge-<lb />3. Breite des Fadens 25″ also wenn Sonnenund an unteren<lb />genüber) zuzurechnen.<lb />12″ zuzurechnen. (0 Zunkt hat keinen Fehler. 15 W. gaben in Rückobservat.<lb />Unterschied von 1′ der aber von n 2 allein herrührt.)<lb />also wie gewöhnlich<lb />zuzurechnen 1′ 18″ od. wenn ☉ auf Mitte des Fadens<lb />gar 1′ 30″</p>
+                <note hand="#author" place="left">
+                    <p>am 23 brum.<lb />unten Winkel</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>3′ zu groß<lb />0 Punkt wenn Schrei-<lb />dem Oc. gegenüber<lb />also beim objectiv<lb />um 2′ 30″ zu<lb />also auf Mitte des Fa-<lb />dens alle L um 30″ zu<lb />groß.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>Die kleinsten Ab-<lb />bedeuten 10″ also<lb />wenn gegen ☉ ansteigt<lb />wird (zu klein.)</p>
+                </note>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="56r (Austria 1797/98)" facs="H0019734_56r.jpg" />
+            <div type="diaryEntry">
+                <p>N. 2 — 8°<lb />Magnetabweichung zu Dresden ist 1797 — 18° 30′ westl.<lb />Breite v. Dresden 51° 3′<lb />8) Insp. Röhler gab mir mittleren Barometerstand in Dresden an:<lb />1′ 8,2″ dennoch wäre dies den über dem Meere (Dies zu<lb />338,91 Lin. angenommen)<lb />86,848 toisen = 521,4 Fuß.</p>
+                <p>welches Verdacht gegen die obige aus Fabris Geographie gezogene<lb />Messung von Meißen erregt.<lb />3) Man rechnet sehr falsch, wenn man die Höhen über dem<lb />Meere auf 336 Lin. reducirt. Schuckburgh fand mittel-<lb />falsch. 28po 24li<lb />ren Barometerstand am Meere aus 132 Beobachtungen<lb />28 Zoll 2,91 Lin. Par. Maß. S. Rosenthals Beiträge zur<lb />Meteorol. Werkzeuge B. 2. p. 304.<lb />1.80.<lb />Prag — Prof. Gerstner. Canonicus David (Adjunct) u Astronom Strnad<lb />5) ein 16 zöll. ganzer Kreis mit hölzernem Fußgestell von le Noir in Paris kostet<lb />1500 Livres, ein 12 zoll. nur 1200 Livres. Ein 7 fuß. Herschel 700 r.<lb />6) am 8ten Jul den Schloßthurm zu Dresden bei veränderlicher Witterung gemes-<lb />sen. Barometerstand<lb />a) auf der obersten Galerie an d. Fallthiere 272. 6 9/16 Lin = 330,56 Lin.<lb />4) unteren Galerie um d. Thurm — 27 — 8 5/16 — = 332,31 —<lb />94.<lb />c) im Schloßhaufen — 27 — 8 15/16 — = 332,5<lb />d) Elbspiegel od. vielmehr obere Stufe unter<lb />den Bögen der Elbbrükke 27–9 5/16 — = 333,31 —<lb />c) Gräfl Hagersches Haus am Markte<lb />3tes Stabwerk 27–8 11/16 — 332,69 —<lb />Nach dieser Messung ist der Punkt a über d.<lb />35,98 toisen = 215,88 Par. Fuß.</p>
+                <p>7. Am 12. Jul muß mein Bruder die Frauenkirche u fand<lb />unten auf den Stufen der Kirche 334,5 Lin.<lb />b oben auf der Gallerie ― 331,87.<lb />— 334,5 —<lb />also ☉ unter ☾ — 34°,28 toisen.<lb />D. Schloßhof 334,31 Lin. Demnach Differenz von c u d = 0,19 Lin.<lb />welches mit S 8 wohl übereinstimmt. Der Stand a ist aber gewiß falsch.<lb />Am 12ten Abends fand ich im Möllerschen Hause 3 Stok (bei mir)<lb />unten in d. Willschen Straße — 334,42 —<lb />im Schloßhafen 334,70<lb />an der Frauenkirche 334,4<lb />Hagers Haus 3 Stok bei Wilhelm 334,10.<lb />334,70.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="56v (Austria 1797/98)" facs="H0019734_56v.jpg" />
+            <div type="diaryEntry">
+                <p>N. 9 — 11.</p>
+                <p>Observatoria in Italien: Bologna. Pisa (Perelli. Slop) Milano. Padua. Florenz (P.<lb />Ximenez au College de Jesuiten) Parma (P. Belgrado) Brescia (P. Cavalli) Venise (P. Pari-<lb />gai) Turin (P. Beccaria) Rom (P. Audiffredi au Couvent de Minerve. P. Jacquier à<lb />la Trinité de Mont. P. Asclepi au Collège Romain.) Neapel (Casella)</p>
+                <p>10) In Wien Mechan. Künn macht vielleicht beste Wagen in Europa.<lb />Vollständigen Apparat zu hydrostat. Versuchen mit Fortinschem Fuß, ange-<lb />bend von 3 Loth bis 0,01 Gran mit Kasten etwa 2 ½ F. lag, 1½ F. breit u<lb />8 Zoll hoch (ohne Glaskasten) zu 150 fl. 3 Monath vorher zu bestellen.<lb />Fortinische Mauer, wie Jacquin, will er für 250–300 P. nachmachen. Sie wiegt<lb />2 ℔ u giebt 10000 davon an.</p>
+                <p>Breite von Wien 48° 12′ 36″<lb />Grubers Briefe aus Krain an Born 1781 enthalten Ideen über<lb />Schichtung.</p>
+                <p>11) Wohnungen in Wien. Hofrath Franz Alstegasse n 130. Landriani See-<lb />berstadt n 855. Lerchenfeld neue Markt n. 1116. 4tes Stok. Mechanikus<lb />Hannatsch an der Wien beim Kegel zum Kärntnerthor hinaus. Mich. Ham-<lb />berger am Plazel im Spilliermacherhaus zum Burgthor hinaus. Planck<lb />in der Krentnerstraße im Lagerstischen Hause. Riberi untere Bekkerstraße wei-</p>
+                <p>ße Rose. Arnstein Herrengasse. Cubitschek.<lb />mein Smiff box Sextant kostet 71#<lb />Horizont v. Troughton 28*<lb />Horizont v. Carrochez 72°</p>
+                <p>Bird Quart de Cercle 1500″<lb />le grand Cercle de Pistor<lb />nemlich 90 P. H baar<lb />à 7 r. assecur. Frist accise.</p>
+                <p>Cercle de Borda sans lunettes 360<lb />Déclinaison (ohne Schugg) 70°<lb />Etuy de Mathem 60*<lb />Mètre en Cuivre 54<lb />Chaîne de 10 mètres 10<lb />niveau à bulle d’air 25<lb />Inclinaison 400<lb />— klein … 96</p>
+                <p>Eudiom. de Fontana (Dumotiez)<lb />Instrum. pour la Temp. de l’eau<lb />le Sextant de Ramsden 360.<lb />Lunette de Dollond 144.<lb />Chronomètre de Seyffert 672* = 28 Car.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="57r (Austria 1797/98)" facs="H0019734_57r.jpg" />
+            <div type="diaryEntry">
+                <head>zu im reflex eines Hauses.</head>
+                <p>am 19ten Aug. 97. zu Wien Nachmittags um 4 Uhr Therm. im Schatten<lb />28° R. so bald Windstoß kam 29° in die Sonne bei Windstoß) ohne<lb />Wind 30° R. gegen 5 Uhr fürchterlicher Sturm bei heiterem Himel.<lb />fene Gewitterwolken mit fernen Blizen u um 8 ½ Uhr nur 16° R. den 20ten<lb />Aug. Morgens um 6 Uhr (nach Regen u Gewitter) nur 14 ½° R.<lb />am 20sten Aug. Morgens von 10–12 ½ Uhr immer Hygrometer 42°,8 Deluc od. 79° Sauss.<lb />bei 18 ¾° R. um 2 Uhr. 41,4 Deluc u 77,4 Sauss. bei 18 ¾° R. um 3 Uhr 76 Sauss.<lb />40 ¾ Deluc. Therm. 19° R.<lb />Landriani hat gefunden daß höchste Wärme in Italien im Schatten<lb />30 ½° R. war. reflex einer weißen Wand wirke bis auf 150 Fuß Ent-<lb />fernung u in Wien sei bisweilen in einem Tage Unterschied der<lb />Temperatur 18–19°. Berliner blau in oxygen. Salzsäure frisch aufge-<lb />leset, färbe sie gelb u diese Solution schlägt bloß Eisen u<lb />kein anderes Metall, selbst Kabelt u Braunstein nicht minder. Mit der<lb />zeit wird oxyg. Salz. zur gemeinen u dann wird sie blau.<lb />in 20 Aug. Luft meines Zimmers geprüft. Antraconete A. hielt bis Zeichnen<lb />Theile verschwanden 11/18 Theile. Correction wegen Druck Betrug 3 Theile also<lb />Kahlenauer. Anthrac. B. hält 184 Theile. blieben 177. correction 1,5 also<lb />042<lb />0,03 Kohlesäure. — aber um 3 Uhr bei 19° R eingesezt u nach 18 St. bei<lb />17 ¾ R. ausgenommen. Wohl nicht genau gemessen!<lb />am 21sten Abends bei 18° ½ R. A mit Zeichen wieder geprüft u correction genau<lb />3 Theile gefunden. Ein Zeichen daß der Verschluß luftdicht ist: wenn man 4 Theile<lb />Wassersäule nicht gesunken. Die Luft hat ihre durch den Druk empfange-<lb />ne Elasticität erhalten. Wäre Ventil nicht luftdicht, sondern durchbohrt<lb />so würde allerdings der Wasserspiegel aufs neue sinken.<lb />die Correction in A betrug in 20 Versuchen, das Ventil vorsichtig mit Finger<lb />(ohne Schraube) gehalten immer 3 bis 3 ½ Theile im Durchschnitt auf-<lb />ter 3. Da nun das Volumen 187 Theile so irrt man aufs höchste durch<lb />Anhängen des Wassers man 0,0023. d. i. noch nur den 4ten Theil von<lb />100.<lb />Fontana hat behauptet daß atmosphär. Kohlensäure nicht frei vorhanden wäre.<lb />Ich sagte am 21sten Abends Theile in jeder Röhre mit Kalkwasser ein<lb />Nach 12 St. waren 0,017. absorbiert. Es ging nämlich 0,5 von 29 vor<lb />laren. Bei 18 ½° R. eingesetzt u ausgenom̅en Bar. war gefallen. Röhre war<lb />2 Lin. Dikke. Daher mindere Berührung u wohl observation. An der Beobach<lb />tung des Thons. Längt Ursach auch nicht, denn nach Versuch stieg Wasser bei 16¾°<lb />erst von 32 ¼ bis 32 ¾. also machte 1 ¼° Unterschied erst im antracometer ein<lb />Steigen von 0,008. u um 1¾° R. irrt man nicht!</p>
+                <p />
+                <p />
+            </div>
+            <pb n="57v (Austria 1797/98)" facs="H0019734_57v.jpg" />
+            <div type="diaryEntry">
+                <p>N. 15.<lb />15) Mit vieler Sorgfalt angestellter Versuch. Am 22sten Aug um 12 ¼ Uhr<lb />bar. 27 Z. 8 ⅞ Lin. Therm. 18 ¼° R. schöpfte ich Luft aus meinem Zimmer<lb />unfern den offenen Fenster. Ich fällt 2 antraconaten. (A hielt<lb />187 Theile u 3 Th. correction B. 239,5 Theile u 2,5 correction) nur eine<lb />oben verschlossene Röhre von 2 Lin Durchmesser, welche 40,8 Theil Luft erhielt<lb />Uhr 4 Uhr am 23 Aug bei bar 27 Z. 9 ⅛ Lin u Therm 18 ½° R fand<lb />ich daß A — 0,008 Kohlensäure<lb />H. 36. Deluc.<lb />B. — 0,004.</p>
+                <p>die Jahre C — 0,007 — Mittelzahl 0,006 Kohlensäure<lb />Vorbeissung wegen Druck der Atmosphäre nach Girtanner p 432 kann nicht berechnet wer-<lb />den da nie Wassersäule in der Röhre vor der Absorption fehlt. Ohrgefühl Betrug<lb />sie 1 Zoll 11 ⅕ Lin. d. in Dezim. Theilen. 1,96868 Zoll. Barometerhöhe bei<lb />Einschreiber = 27,73951. Zoll. Wasserhöhe<lb />Demnach 40,8 x 25,77 = 37,55 Theile wurde Luft in<lb />28<lb />(bei 28 Zoll Höhe eingenommen</p>
+                <p>Verbesserungen wegen Bar u Therm. nach<lb />Girtanners Chemin p 452 für C<lb />Vor der Absorption 40,8 Theile bei 27 p. 8 7/8 Lin. auf Dezimaltheilen<lb />8–8 = 27,6818. Demnach<lb />40,8 x 27,6 / 28 = 40,22. Theile bei 28 Z Bar. Höhe.<lb />= 8</p>
+                <p>Der 480 Theil davon ist 0,083. multiplizirt mit 73° Jahr — 54° R = 19° F.<lb />giebt 1,577. Demnach 38,65 Theile.<lb />Nach der Absorption: 27 Z. 9 ¼ Lin giebt in Dezimalthälen 27,76040 — der Wassersäule<lb />à 2 ¾. ⅛ Lin. Wasser = 0,14823 Quksilber = 8–8 ⅛ = 27,61. Übrige Luft 40,5<lb />40,5 x 27,61.</p>
+                <p>Der 488. Theil davon = 0,083. multipl. mit 74° F — 54° = 20 = 1,660 Theile<lb />demnach 38,27 Theile<lb />Vor d. Absorpt. bei 283. bar. u 10° R = 38,65 Theile<lb />Nach … … … … … … = 38,27<lb />0,38</p>
+                <p>Von 38,65 gingen also 0,38 Th. verloren, demnach enthielt die<lb />Luft in C genau Kohlensäure<lb />0,0098</p>
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="7v (America I 1799)" facs="H0016412_7v.jpg" />
+            <div type="diaryEntry">
+                <p>Nachts hörte ich vergeblich auf die südlichen Sterne, diesel-<lb />ben, die unter dem Horizont von Alexandrien sichtbar<lb />sind. Lichte Wolken, gestaltet wie im Norden u je<lb />den Augenblik von Form wechselnd entzogen mir die<lb />Sterne. Ich konnte nur den Mond einmal beobachten<lb />mit dem Troughtonschen Sextanten</p>
+                <p>12.</p>
+                <p>40° 23′ — 9h 31′<lb />giebt lat. 31° 6′ 45″ ein Wunder von Genugkeit<lb />de Meerhorizont ziemlich bezogen war.</p>
+                <p>Den 15 Jun. Morgens zur Längenbestimung ☉<lb />55° 33′ — 10 h 7′ 47″ giebt long. 1 h 7′ 36″</p>
+                <p>57′ 20″ 8′ 52″<lb />41.<lb />40′ 10″ 27′ — 7′ 33″</p>
+                <note hand="#author" place="left">
+                    <p>Mg 16°</p>
+                </note>
+                <p>long. 16° 54′ also geringer als gestern u doch waren wir<lb />gegen Westen gesteuert, so groß Wirkung des Meeresstrohms<lb />gegen Osten. Pilote hatte um Mittag 17° 20. lat. 30° 31′ 12″<lb />Ich u sehr genau<lb />lat. 30° 35′ 55″. Der error ind. geprüft noch im̅er 7″<lb />groß, also seit 5–6 Monathen nicht geändert. Luft<lb />ganz Wolkenlos Zenith Cyan. 16. am Meerhorizont 11°<lb />Seewasser 34°. ☉höhen Nachmittags:<lb />63° 24′ 5″ — 2 h 33′ 37″<lb />62. 51. 0. 36 7.<lb />. 25.<lb />34′ 40″<lb />33. 20. 37. 20.<lb />20 0 38 25.</p>
+                <note hand="#author" place="left">
+                    <p>es ist der Strohm</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>der von Florida<lb />nach Guinea sezt!<lb />Pownalls Karte in<lb />of the Westindies<lb />auch Bougainv. I p 10<lb />nicht aber Labill.</p>
+                </note>
+                <p>Sonne ging unter<lb />41. 15.<lb />Der Pilote relevirte den ☉durchm. beim Untergang. Ich bat ihn<lb />die Ränder zu nehmen. Der eine gab 41° der andere 43°.<lb />Magnetische Kraft: Dieselbe 12 Zoll lange Nadel welche hier<lb />zental à la Coulomb an einem Haar aufgehängen in<lb />Madrid in 1′ genau 8 oscill. machte, gab hier sehr<lb />regelmäßig 7,4. Luft sehr rein bis 11 Uhr ab-<lb />wechselnd viel Wolken u sehr dikke. Sonderbar wie schnell<lb />Himmel von der diksten Wolkenhülle in das rein<lb />ste blau überging. Der Wind trieb die Wolken nicht<lb />hinweg, nein sie lösten sich sichtbar auf. Von 12 h<lb />an, Himmel ganz blau u unendlich schön. Mit<lb />bleßen Augen u ohne Anstrengung sah jeder den<lb />Doppelstern Mizar u Alcor. Und das Licht welches die<lb />fast volle Mondscheibe ausgoß! Die Höhe trägt viel</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="16v (America I 1799)" facs="H0016412_16v.jpg" />
+            <div type="diaryEntry">
+                <p>Schiff aus Mogador in Santa Cruz anlangte<lb />sahen unsere Matrosen den irlandischen<lb />Feldkaplan sogleich wieder an Bord rudern, um<lb />auch da Nachrichten einzusammeln. Könnte er wie<lb />Beckmann in der Tasche schreiben, so wäre<lb />er zum Statistiker. Eine thätigere Neu<lb />gierde sah ich nie. Nachdem er en la Camera schon<lb />das Blut vieler tausend Franzosen genossen, machte<lb />er sich noch an den Chirurgus, den Contramaestro …<lb />keine historische Quelle war ihm unsäuber. Um<lb />mich zu zerstreuen, stellte ich die entscheidende<lb />Beobachtung über meinen Berthouschen Chronome-<lb />ter an. Am 19 Jun. od. 1 Messidor. Morgens Sonnen-<lb />höhen mit dem Ramsdenschen</p>
+                <p>34.</p>
+                <note hand="#author" place="left">
+                    <p>geboren.</p>
+                </note>
+                <p>nommen:<lb />36° 15′ 0″ — 8h 45′ 58″<lb />23′ 3″ — 46′ 34″<lb />giebt mit großer Genauigkeit berechnet folgende Ab-<lb />33.<lb />stande in Zeit vom Pariser Meridian<lb />1 h. 14′ 14″<lb />12″</p>
+                <p>Mittelzahl 1h 14′ 10″ für Ort des Schifs. Nun lag der<lb />Pizarro (ich habe die Schazungen mehrere erfahrene<lb />Personen mit einander verglichen) zwischen 190 u 230<lb />toisen östlich vom mole von St. Croix also<lb />(die bei 28° Breite 1° genau 52.9 milles à 95° t<lb />hat u 3600″ = 50255 t) also giebt der Ber-<lb />Thonsche Chronometer dem moll von St.<lb />long. 1h 14′ 25″ od. 18° 36′ 15″<lb />Borda fand 1h 14′ 24″ eine gewiß bewundernswürdige<lb />Uebereinstimung. Zu bemerken ist hierbei daß in diesem</p>
+                <note hand="#author" place="left">
+                    <p>d’après Quenot<lb />Voy. au Pondichery<lb />Zach Oct. 1805<lb />p 328<lb />S. Croix mola<lb />lat 28° 29′ 46″<lb />long. 18° 33′ 36″<lb />par deux Chro<lb />nomètres.<lb />Reise deutsch</p>
+                </note>
+                <p>4′ 13″ ret. 5 Juin<lb />24′ 8″ long Made<lb />29′ 23 ret. sur<lb />Paris</p>
+                <p>Calcul:<lb />36. 25 40.<lb />66. 32.<lb />59° 56′ = 3h 59′ 44″<lb />28. 28. 30 ½ angl. hor. 29. 5.<lb />131. 27. 1.<lb />12. 0. 51.<lb />65 43. 30<lb />29° 17′ 50″ 8′ 45′ 58″<lb />9. 15. 21.<lb />15′ 21″. 1 h 14′ 14″ long.<lb />a. die Länge von Madrid zu 24′ 8″ u b. der gleichförmige<lb />Gang des Chron zu 4″.4 wie auf dem festen Lande vorausge-<lb />sezt ist. Eigentlich lehrt der Chron. da er Madrider Zeit<lb />hält daß der Unterschied von St. Croix u Madrid<lb />in Zeit 50′ 17″ ist. Sollte demnach Herr Chaix finden,</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="26v (America I 1799)" facs="H0016412_26v.jpg" />
+            <div type="diaryEntry">
+                <p>54</p>
+                <p>verschieden. Ich glaube vielmehr der Nordostwind<lb />dern die Sommerwärme der nördlichen u<lb />temperirten Zone erregt, ist Ursach dieser Re-<lb />genzeit. Dieser Wind erkalte die Luft so<lb />daß Thermometer ja ewig 18–19° steht u da<lb />diese Luft ungeheuer viel Wasser wegen Licht<lb />u Wärme aufgelöst enthält, so präci-<lb />pitirt dieser Wind das Wasser aus der Luft.<lb />Auch treibt er kalte Dunstschichten, nördliche<lb />Wolken in die heiße Zone. Diese lassen<lb />ihr eigenes Wasser fahren u erregen, we-<lb />gen ihrer Kälte u da in ihnen der Per-<lb />in der südlichen Luft durch die sie zie-<lb />hen. Daher erschöpfen sich diese Wolken nicht,<lb />sie kamen sich sogar vergrößern)<lb />daher hört es meist auf zu regnen wenn<lb />ist ganz nur dann, wenn in den<lb />die Wolken<lb />troknen Monathen weniger Nordostwind<lb />herrscht quod nescio. Aber auch Licht ist Ur-<lb />sach warum Luft in heißen Zone so<lb />viel Wasser auflöst und so vollkom̅en auf-<lb />last. Nachts ist Hygr. 60–63° Deluc wenn bei<lb />Tage 50–55° Nachts läßt in der heißen<lb />Zone die Luft so sichtlich Wasser fallen,<lb />daß alle Kleider benezt sind. Temperatur (S.<lb />Tabelle) ist aber dieselbe Nachts u tages. Warum<lb />laßt also Luft Wasser fahren. Sollte nicht Licht<lb />diese Auflösung befördern? Schon die Alten (Pi-<lb />eines reden von Verdünstung durch Mondlicht<lb />bei Carthago. Auf Bergen wo Licht stärker ist,<lb />ist Luft trokner fürs Hygr. das heißt lezt<lb />Wasser minder fahren. Aber am meisten spricht<lb />dafür der Umstand den bei uns alle Ak-<lb />persleute u hier alle Seeleute wissen, daß<lb />der aufgehende Mond die Wolken verscheucht<lb />auflöst, daß der Mond im Zunehmen die-</p>
+                <note hand="#author" place="left">
+                    <p>glaube ich,</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>allerdings, in troknen<lb />Monathen brize<lb />Ost u bisweilen<lb />Südwinde</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>meine mühsamen<lb />Beobachtungen über<lb />Mondlicht in Cuma-<lb />na 1800 haben<lb />indeß gelehrt, daß<lb />wenn Mond Ver-<lb />dünstung befördert<lb />es in uns unbe-<lb />merkbarer Menge<lb />ist.</p>
+                </note>
+                <p />
+                <p />
+            </div>
+            <pb n="35v (America I 1799)" facs="H0016412_35v.jpg" />
+            <div type="diaryEntry">
+                <p>72.<lb />Cumaná Statistik<lb />Die beiden Provinzen Neu Andalusien u Barcellona enthalten laut<lb />Novierte, der wahrhaft statist. Untersuchungen angestellt bei Gelegenheit des<lb />Streits über Aufhebung des Tobaksregals, 90000 Einw. In den indischen<lb />pueblos wird alle 3–4 Jahr in den von Span. bewohnten seltener gezählt<lb />Jene Zahl gründet sich auf Untersuchungen der Capuc. die allein jene<lb />Land kennen. Cumaná die Stadt, die Vorstadt der Guaiqueríes, die Charas<lb />u alle Häuser ¾ St. um die Stadt enthalten zusam̅en 15 000 Einw.<lb />Barcellona 6 000 Einw. Die beiden Provinzen bedürfen jährlich für 1 Mill<lb />Piaster europ. Bedürfnisse, wovon die Span. Register kaum die<lb />Hälfte ausweisen, also schon damals (1794) über ½ Mill. Contrebande.<lb />Maulthiere für die Westind. Zukkermühlen ist ein wichtiger Ausfuhr-<lb />artikel. — Schon die ersten Entdekker fanden am Eingange des Golf von Cariaco,<lb />an der punta de arenas eine indische Saline. Diese u die Perlenfischerei gab dieser<lb />Küste einen Ruf in Europa. Die<lb />dort Salz zu laden. Diese legten daher 1623 daselbst ein Kastell<lb />Kanonen zur Beschizung der Saline an. 1726 brach bei einem Stur<lb />ne das Meer ins Land ein, zerstöhrte die Salm̅e u bildete eine mächtige 2 Mei-<lb />mit 300 p. br<lb />lou lange Lagune, ein um so seltsameres Phänomen, als Stürme hier sehr sel<lb />ten sind. Nun ward das Kastell unnüz u da 1762 man fürchtete daß einmal<lb />der Feind sich desselben u dadurch des Einganges des Hafens bemächtigen konn-<lb />te, so kann von Madrid aus der Befehl das Kastell abzutragen, welches auch<lb />h. Viele Stein des Kastells wurden nach der Guayra geschikt D. Ma-<lb />nen Plan entworfen, wie die Lagune ausgetrokken u die Saline wiederher-<lb />zustellen sei u obgleich die geforderte Summe (20000 Piaster u Holz) in Ca-<lb />raccas nicht ganz zugestanden wurde, so hat das Unternehmen doch schon ziem-<lb />(Soben p 197.<lb />lich geglükt. Man hat Faschinen an den Eingang der Lagune versenkt, ge-<lb />gen die das Meer selbst. Benzoni p. 34.<lb />Der Tabak darf nur in der Gegend von Cumanácoja mit kön. Vorschüssen ge-<lb />baut werden sonst nirgends. Das Tobaksergal in Noua And. u N. Barcellona<lb />trägt reinen Ueberschuß 38000 Piaster in Prov. Caraccas 250000 P. aber<lb />büßt so viel, daß der König nur 20 p. C. zahlt. 80 p. C.<lb />S. II p 10 a<lb />verzehrt die Administration. Die brutten Einkünfte in N. And u N. Barcellone<lb />sind 190000 P. in Caraccas wohl 1250000 P.<lb />Die Stadt besteht aus eigentlicher Stadt am rechten Ufer des Manzanario, eine Art Vorstadt südöstl.<lb />auf Hügel S. Francesco, eine andere gewöhnlich genannt los Serritos wo Kirche de Nuestra Señora<lb />del Socorro nördlich an der Hügelkette die vom Castel S. Antonio längst der Plaga cieca<lb />gegen Osten läuft, der Vorpost de los Guaiqueris (wahrer Ortsgrapher) am linken Ufer des Mar-<lb />zamano mit Kirche de Nuestra Señora de alta Gracia. Nacidos in Cumaná 1798<lb />57. por los del pueblo de Guaiguines 209. (indian. Fruchtbarkeit aber Kinder starben nicht an Kin-<lb />de Bautismo de la Parroquia al Cargo de los Cura<lb />der Krankheit dem Pokken, kennt man hier nicht! sondern weil sie Schweinevieh fressen, in<lb />Holzkultur ohne Aufsicht leben) por los de Nere Sra del Socorro 19 Summa 522. Man glaubt daß an<lb />50 fehlen also Geburten an 600.<lb />Der Gouvern. Emparan hat verschieden Projekte eingereicht, Hof solle Vorschuß thun um<lb />Manzanario oberhalb ersten Ypure mit Damm zu fangen, anzustammen u<lb />dem Wasser so Gefälle zu geben, um nach Gefallen das schöne Thal dem nur Was<lb />sor fehlt, zu wäschern. Indes hat Privatleiß schon manches unternom̅en. Man hat<lb />Wasserroder mit Pumpe, Wendflügel, Kastenkünste, Schöpfroder durch mulas bewegt,<lb />neue Maschine erfunden, die kaum<lb />100 L. kostet, u ganz unter Wasser geht, in 4 St. einen Teich 3 F tief 14 F breit 28 lang füllt<lb />der Comandante de Artilleria<lb />thut 8 Hübe in 1 Minute, Hübe 4 F hoch u Pumpen 5 Zoll Durchmesser<lb />S. über diese neue Maschine p.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="45v (America I 1799)" facs="H0016412_45v.jpg" />
+            <div type="diaryEntry">
+                <p>87.</p>
+                <p>Température la Suite se trouve p. 118.<lb />L’eau de mer dans le port de Cumaná ⅛ lieuex de la Côte surface (17 Brum.<lb />à 8h air matin 19°) — 20°,3 R. en 12 toises de profondeur 20°,3 en 30 toises<lb />19°,5 à 35 toises 19°,1 à 40 toises 19°,1. L’air extérieur n’a aucune influence<lb />sur la tempér. de l’eau de mer. Nous avons vu par la Sonde qu’à 35 t de<lb />profondeur le Courant allait vers la terre au Sud et à la surface (comme le<lb />barque le prouve) en s’éloignant de terre au Nord.<lb />Manzanares et Río Catcalirva près de Cumaná (Août Sept) 20°,2.<lb />L’eau se forme à 2–3 h à midi par l’électricité. Au moment même d’une pluye qui<lb />tombe com̅e un torrent, le Th est à 19 le plus 18,7 et l’Hygr. de Deluc à 35°<lb />Dans les rues de Cumaná à 1–2 h par reflet et au ☉ monte à 5 pies de hauteur le Th. à 29°,5.<lb />Mesurer la force du ☉ dans différentes hauteurs sur l’horizon. Les angles pris avec<lb />le Sextant. Deux Therm. égaux un à l’ombre, l’autre au Soleil suspendus<lb />dans l’air à 22 pi. de hauteur. Comme il faut 10′ jusqu’à ce que<lb />le Therm. venue à son maximum j’ai mesuré la haut. de l’astre en ex-<lb />posant et en étant le Therm. du Soleil. On pourra réduire la Tempéra-<lb />ture à un terme moyen. On a choisis des jours tout bleu. Le Thermom.<lb />et Hygrom. sont réduit à ceux de l’Observatoire. Le tems est vrai t.<lb />de Cumaná. La Haut du ☉ pas corrigé par le diam. et réfraction, mais elle est<lb />simple. Voyant que le Therm. exposé au ☉ ne monta quelquefois pas d’un degré, on l’y a laissé<lb />exposé pendant 40–50 Force du Soleil. de la quelquefois le grand changement de la hauteur<lb />de l’astre pendant une observation.</p>
+                <p>Jours. Heure Haut. Haut Therm. Therm. Force Hygr.<lb />1800. Neure du ☉ du ☉<lb />au com. à la fin.<lb />manc.<lb />Deluc.<lb />11 Sept. 19. 10° 3′ 16° 32′. 19,2. 18. 1,2. 42.<lb />Saussure 19 ¾. 26° 15. 30. 17. 22. 20,3. 1,7. 41,5.<lb />20 ½ 38° 2′ 40′ 47″ 22,2. 30.2. 2. 41.<lb />21. ½. 52′ 26″ 58′ 15″ 23′ 22″ 1′ 36″<lb />voy. IV, p 247. 22 ½ 67. 56. 73. 5. 24,2. 23. 1,2. 31,5.<lb />23 ¾ 83° 6′ 84° 2′ 25′ 22,9. 20′ 30″<lb />3 ½. 37° 51′ 40° 35. 25,7. 23,6. 2,1.<lb />14 Sept. 19 h 13. 26. 19. 32. 19,3. 18. 1,3. 47.<lb />21. 15. 41. 45. 55. 20. 22.5. 21.2 1.3. 40.<lb />Therm. 22.48. 71. 43 74. 27. 24,7 21,7. 3.0 35,4<lb />24h 0′ 88° 20′ 82′ 50″ 26′ 5″ 23′ 7″ 2.8 30.<lb />10 Sept. 20 h 26. 50. 30. 31. 21,2. 17.5. 3.7. 43.<lb />21 ¾. 49. 34. 56. 29. 22,7. 20,8 1.9 41.<lb />ses degrés<lb />23 ¾. 78. 20. 80. 25. 25,3. 22. 3.3. 34.<lb />18. Sept. 18 ¾. 10. 30. 12. 18. 19.5. 18.4 1,1. 43.<lb />19 h 10′ 19. 40. 20. 40. 21. 19.2. 1,8. 41,7.<lb />19. 45. 25. 50. 29. 41. 22.3. 20.3. 2. 41.<lb />20 ½. 35. 27. 37. 20. 23. 21.3. 1.7. 40.<lb />20 h 50′ 43° 50′ 46° 20′ 23.5. 21.3. 2,2. 38,2.<lb />21. 35 53. 50. 55 21. 24,2. 21.7. 2,5 36.<lb />23′ 10″ 69° 20′ — 73° 50′ — 25′ 3″ 23′ 5″<lb />24h 0′ 70″<lb />12<lb />27.2 — 23.8. — 3.4 29. 22<lb />2.5. 29. 23.<lb />3. 45. 30. 42′ 30″ — 26.2. 24.3. 1.9. 32. 17.</p>
+                <p>Cyno<lb />mètre.<lb />11°,3 calme<lb />14. calme<lb />id faible<lb />17,7 id. forte.<lb />18. id. faible.<lb />différences<lb />Kirwan<lb />10<lb />0′ 77″ 80,5<lb />aut.<lb />brize faible<lb />id. plus forte.<lb />8 p 412</p>
+                <p>13,7. calme bleu<lb />17. id. très transparent<lb />18. id.<lb />23. id.<lb />14.5 tout bleu l’air très refroidi<lb />la nuit (calme)<lb />18,5 bleu calme.<lb />19.5 id.</p>
+                <p>15. calme bleu. Quant le<lb />16,3 id. belles vent s’élève<lb />et qu’il est<lb />17. id. observ. fort le Cyan. bais<lb />17.8 id. va se, l’azur du Ciel<lb />17′ id. tions devient plus pâle!<lb />18. id très calme</p>
+                <p>22. id<lb />id.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="55v (America I 1799)" facs="H0016412_55v.jpg" />
+            <div type="diaryEntry">
+                <p>115.</p>
+                <p>la<lb />Justiz.<lb />aus der größten, wo nicht das größte Uebel des span. Ameri-<lb />kas. Es ist weltkundig daß niemand seines Besizes sicher<lb />ist, wenn ein reicherer Geld u Zeit anwenden will<lb />das Gut zu entziehen kann er nicht unmittel-<lb />bar den Zwek erlangen, so erregt er wenig.<lb />stens einen kostspieligen Prozeß, der den ärmeren Ge-<lb />gner an den Bettelstab bringt. Hauptunglük ist Menge<lb />der Adwokaten u die Creolen von allen anderen<lb />Aemtern ausgeschlossen ist, so sterbt Eitelkeit aller Fa-<lb />milien darnach, in den Söhnen Advocaten, Doctores<lb />zu sehen. Daher Praesenssucht, Feilheit, Untreue, u<lb />Sittenverderbniß. Das Gouvern. hat in Caraccas wo Ur-<lb />bel fast am größten verordnet, daß kein neuer<lb />Adwokat aufgenomen werden soll, bis (alter aussterbt<lb />Man hatte ex rivis ausschneiden müssen. Und was<lb />ist Zahl der Adwakaten, in Betracht der Winkel<lb />juristen welche im Gezum empapelan. Audien-<lb />zien u alles alles feil. Criminaljustiz fürchte-<lb />lich, weil ex officio nichts dabei zu gewinnen, da<lb />her alle Gefangnisse voll Menschen die genar-<lb />von 11 Jahr nachher gehängt! Andere<lb />die Festungslau auf<lb />12–14 J. im Kerker od. treiben Straßenbau<lb />haben abgebüßt bis die eigentliche<lb />Strafe erst angeht. Dazu Nachlässigkeit, in Carac-<lb />cas saß ein Mensch im Kerker, der durch Seiten<lb />unschuldig erklärt ward, aber 1 Jahr lang ward Kon-<lb />tung nicht publicirt. Meisten Mörder entspringen,<lb />daher jezt Reisen so unsicher. Ehe audienzia noch<lb />Caracas kam, weniger Raube u Mörder fac-<lb />tisch, weil Tenientes u Governador Art sum-<lb />marischen Prozeß führten u schnelle rasche Justiz<lb />trieben. Allerdings machte Sache zu willkühr-<lb />lich zugehen, dagegen ist ein langsame, feile<lb />Audienzen angelangt u nun ist Justizpfle-<lb />ge fast ganz suspendirt. Größte Grausamkeit<lb />der Willkührlichkeit der Justiz hat sich in An-<lb />lentiasgeschichte in Caraccas gezeigt. Man</p>
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="119v (Caripe 1799)" facs="H0019154_119v.jpg" />
+            <div type="diaryEntry">
+                <p>16.<lb />bei Mondheller Nacht unter einem Ceiba ruhig seine nach<lb />nicht tote Beute verzehrend. Der Tiger erwartete (wie gewöhnlich)<lb />die Menschen u troz seiner Gegenwehr erlegten ihm die Skla-<lb />wen mit ihren langen Messern (stiellosen Seesen die<lb />dazu dienen sich am Walde einen Weg zu bahnen<lb />ein Instrument daß selbst die reicheren Menschen hier<lb />alle führen u dann Hirschfängerähnlich in einer Scheide<lb />Wir hatten einige Tagefrüher in dem Walde bei der<lb />Rincónada Pflanzen gesucht u bei dieser Gelegenheit den<lb />Bermúdez besucht, um die Oekonomie eines<lb />sehr verständigen Landwirths zu sehen, der viel Tobak, Kassa-<lb />ne, Platanus, u Baumwollen (besonders die feinere Baumartige<lb />oniglandulosa) baut. Dieser Landwirth erzählte daß alljährlich<lb />besonders nach der Regenzeit aus 2 Hölen die in der<lb />Felskluft des Río Juagua liegen, Nachts Flammen<lb />aufsteigen, welche das ganze Gebirge erleuchten u sich<lb />über das Gebirge also über 600 F. hoch erheben. Man hört<lb />zur gleicher Zeit ein dumpfes Gefäß. Bei dem lezten<lb />großen Erdbeben war diese leuchtende Erscheinung besonders<lb />sehr auffallend gewesen. Viele andere Bewohner dieses Thals<lb />bestätigten seine Aussage u versicherten daß Getöse u<lb />Flamme oft viele Nächte hinter einander bemerkt wäre.<lb />Ohnerachtet der Weg in diese Kluft sehr steil ist,<lb />so beschlossen wir doch das Gestein daselbst näher zu<lb />untersuchen, um so mehr weil das Landvolk viel von<lb />einer Goldmine sprach, die die Existenz von Schwefelkies<lb />wahrscheinlich machte, der vokker Bermúdez behielt mit seinen<lb />Sklaven einen Weg durch das Gebüsch bis an den ersten Wasser<lb />fall, wo vorher ein niedurchdringliches Gewebe von Behuco<lb />lag u wir traten am 10ten unsere Kraniane dahin an.<lb />Man bewafnete sich mit langen Messern gegen die Tiger,<lb />dem Anfall unnöthig fürchtete, als man ihm stinkende<lb />Uarath gleich bei (um so mehr) Eintritt in die Felskluft<lb />fand. Besonders nahm man eine Menge kleiner Hunde mit<lb />in der Speculation daß der Tiger sich mit diesem beschäftigt<lb />um dem Menschen Zeit zur Gegenwehr zu lassen. Dazu<lb />scheien die Indianer um so fürchterlicher je näher wir dem<lb />Hölen kamen, dem Geschrei hält den Tiger ab. Alle die<lb />sie Vorsicht schien vergeblich. Denn wir fanden nichts als</p>
+                <p>In Margaritha soll eine von Natur Non<lb />Eingelbe Baumwolle gebaut werden. Goss. ru-<lb />fum? Scop.</p>
+            </div>
+            <pb n="129v (Caripe 1799)" facs="H0019154_129v.jpg" />
+            <div type="diaryEntry">
+                <p>6.<lb />auf ½ am Abend auf ¾ Brod hinunter. Zum<lb />Unglük zwang ein Plazregen uns 1 Tag länger zu<lb />bleiben, ein peinlicher Tag. Der Weg nach Cariaco<lb />geht über der nördliche das Thal begrenzende niedrige<lb />Bergkette, eine ungeheure Savannah, Grasflur mit blühen-<lb />den agaven (20 F. hohe Stengel) geschmükt. Auf der Anhöhe<lb />wo die Guardia de S. Augustín steht sichtbar ein abge-<lb />flossener See, gegen Süden durchgebrochen. Der Boden wol-<lb />lig sölig u die anstehenden Felswände bilden das alte<lb />seigere Ufer, ganz wie am Lunger See u Kaiserstuhl<lb />in d. Schweiz. Bar. um 12h dort 299 Lin. also aber d. Me-<lb />re: 507 t. sonderbar genug daß der See den Boden der<lb />Cueva gleich (im niveau) ist. Welch ein schöner unbenuzter<lb />Löden. Von der Guardia an bergab zuerst im Pur-<lb />gatorio) die Einwohner sind hier sehr wenig um ihre<lb />fürchterlichen Wege zu beschreiben) ein Hügel mit 65° Ab-<lb />sturz Letten, verwitterter Schieferthon, dort auch Sandstein<lb />die Maulthiere rutschen hier wie die Fahrer von<lb />Chamonix auf dem Eise herab. Man hat den Sierro<lb />de Guácharo im̅er zur linken, sehr mahlerisch wegen<lb />seiner steilen Feldwand. Nun Wald u zwar ein prachtig<lb />ger acht südamerikanischer, himelanstrebende Laubbäume<lb />verschlungen mit Pothos, Dracontium, Heliconien, viele<lb />Palmen, baumartige Ferrenkräuter, zahllose Crypto-<lb />ganisten. Ein Botanist vergißt fast daß er den<lb />schreklichen Berg de Santa Maria herabsteigt — steil<lb />l.<lb />oft auf 70° eine Art Treppe, von Wurzeln u Stei-<lb />nen gebildet mit bis 4 F. hohen Stufen. Die Maul<lb />thiere springen beladen mit unbegreiflicher Geschik-<lb />lichkeit wie die Gemse mit genäherten Vorder<lb />u Hinterbeinen von Stein zu Stein, fehlen sie<lb />den Stein, so stürzen sie bis an den Gurt in<lb />den Schlamm, der den Zwischenraum zwischen den<lb />Steinen ausfüllt. Wir blatteten zu Fuß herab, hiesi-<lb />ge Einwohner reiten hinab herrendum dictu. Diesel<lb />be mula könnte gewiß auch den par de assucar<lb />des Pic de Teyde erklim̅en! Ohne die vielen u<lb />bis 2 F. dikken Wurzeln, welche die südameri<lb />kan. Bäume 5–8 F. über der Erde zu derselben<lb />Im Kalkstein von S. Maria habe ich u<lb />sonst noch nirgends in der Provinz Amonsfor-<lb />ner doch selten beobachtet. Dort auch brauner<lb />Eisenstein im Kalkstein eingesprengt.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="3v (America III 1799/1800)" facs="H1242132_3v.jpg" />
+            <div type="diaryEntry">
+                <p>eines mußte mich zu schneller Entscheidung zwingen,<lb />ob ich abreise od. den Ausgang der Geldnegocien<lb />tionen abwarte, eine Entscheidung die ich wie alles<lb />was von eigener Willkühr u sogenannter Wahl<lb />des besseren abhängt fürchtete. — Dieser Geldmangel<lb />u diese Ungewißheit hielt mich nun bis zum 18ten<lb />November in Cumaná zurük, sie zwang mich die<lb />☉ finsterniß dort zu beobachten, so verschäfte mir<lb />Gelegenheit Augenzeuge eines heftigen Erdbebens zu<lb />sein und in einer Gesellschaft nach Caraccas<lb />zu reisen, die für meine dortige gute Auf-<lb />nahme u angenehme Existenz wichtig wurde. So<lb />wundersam sind Ursache und Wirkung in<lb />einem Menschenleben verwebt. Der Gouverneur D.<lb />Vierter Emparan bot mir auf die edelmüthig-<lb />ste Weise wiederholt aus eigenen Mitteln die<lb />Summe von 1000 P. an. Ich solle sie ihm<lb />wo u wenn ich wolle wiederzahlen. Troz<lb />seines störrischen u ungewandten Wesens<lb />wußte er diesen Dienst auf eine Art zu<lb />erweisen, daß es minder schwierig ward, ihn<lb />anzunehmen. In der Hofnung meine Havaner<lb />Wechsel in Caraccas zu negociiren ein-<lb />pfing ich die 1000 Piaster. Ein bloßer Schuld-<lb />schein beleidigte schon den Geber. Ich lern-<lb />te nun wahre Spanische Größe kennen!<lb />Mit einem Schiffe aus Cadiz, das wir ein<lb />laufen sahen, als wir eben in dem ame-<lb />rikanischen Boote des Mr. Davis von Phila-<lb />Delphine im Hafen mit dem Thermometer son-<lb />dirten, kam der neue Teniente del Re für<lb />Caraccas, D. Emanuel Caxigal, Brigadier nebst<lb />den Brüdern u Söhnen des Marquis del Toro<lb />u Graf Tovaro an. Caxigal, Neffe des<lb />Marquis gleiches Namens, ist aus einer Fami-</p>
+                <p>6.</p>
+                <note hand="#author" place="left">
+                    <p>Mexiko<lb />Münze nim̅t dort jähr-<lb />lich 25 Mill Silber u 3 Mill<lb />Gold.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>In Amerika<lb />zahlt Spanien monat-<lb />lich zur See 1 artillero<lb />7 ½ einen marinero<lb />5 ½ ein grumete 3 Piaster<lb />in kön. Marine aber<lb />oft 4–7 Monathe ohne<lb />Sold wegen Mangel in<lb />Cassen. Ein gemeiner<lb />Soldat hat in Lima<lb />monatlich 18–20 Piaster.<lb />Der Admiral Massaredo<lb />hat in Spanien monat-<lb />lich 1200 Piaster Sold<lb />in Amerika hätte er 2400<lb />Piaster.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>Fregatte S. Elmo,</p>
+                </note>
+            </div>
+            <pb n="7r (America III 1799/1800)" facs="H1242132_7r.jpg" />
+            <div type="diaryEntry">
+                <p>Ist es wirklich Basalt od. habe ich mich griert u steht das Fossil v.<lb />Borracha in geognost. Verwandtheit damit. Alberding. Es ist Kieselschiefer<lb />aus. Wir suchten sie vergebens durch Fernrohr aus<lb />Furcht vor den engl. Korsaren landeten wir am<lb />rechten Ufer des Río Neveri am Morro von<lb />Barcellona, einer etwa F. hohe Gebirgskopf<lb />auf dem man seit dem Ausbruch des Krie-<lb />ges mit Frankreich ein Fort angelegt. Der Kalk-<lb />stein dieser Küste ist ein dünngeschichteter Kalk-<lb />schiefer der regelmäßig St 5 gegen Nord einschießt<lb />u mit schwarzem Hornstein?<lb />abwechselt. Das Couronnement der Gebirgskuppe ist sehr<lb />massiv gebaut, aber das Ganze scheint unvollendet.<lb />An dem Wege der aus dem Fort führt<lb />vermißt man Befestigung. Der Feind kann un-<lb />gehindert zwischen dem Nevern u Morro landen, sich<lb />auf die hinteren wohl um 600 F. erhabeneren Hügel<lb />sezen u den Morro beschießen. Auch sollte der Pul-<lb />käuer nicht im vorderen Theil des Gebäudes ange-<lb />legt sein, wo sie den Feuer am meisten ausge-<lb />sezt ist. Wir blieben ein 4–5 Stunden in dem<lb />fort in ziemlich schlechter Gesellschaft schmüziger Land-<lb />mäßig. Wir boten unserem Freund D. Ramon Corre-<lb />der nun Comendant von Barcellona ist, sich der<lb />Hize wegen nicht nach dem Morro zu bemühen<lb />u gingen um Mittag unter Segel. Der Golf wel-<lb />ihre die Küste am Ausfluß des Crocodillreiche<lb />Neveri bildet, die Boracha zur rechten u das hohe<lb />Vorgebirge Unare zur linken gewährt vom Morro<lb />aus, eine gar anmuthigen Aussicht. Anblik. Wir<lb />doublierten das hohe Cabo Unare u segelten mit<lb />3 brazas Teufe zwischen den beiden ebenfalls un-<lb />bewohnten Inseln Píritu durch. Größere Fahrzeuge<lb />gehen im Kanal zwischen der südlichen Insel<lb />u der Terra firma od. weit nördlich im offe-<lb />nen Meere durch. Die beiden Inseln sind überaus<lb />flach. Sie ragen kaum 8 Zoll über dem Meere<lb />spiegel hervor u da<lb />sie ohnedies gegen Norden eine Felskuppe haben<lb />an der das Meer brandet, so sind diese Inseln<lb />unverfahrenen Piloten bei Nacht od. in neblichen<lb />Witterung sehr gefährlich. An der Nordkuppe sind</p>
+                <note hand="#author" place="right">
+                    <p>Jezt 1800 verkauft,<lb />man 1 vanega nach Abzug aller<lb />Die Provinz Caraccas) als<lb />so ohne Maracaybo …)<lb />producirt jezt 1799 jähr-<lb />lich an 180000 vanegas<lb />wo von ein 20 000<lb />in der Provinz, ein<lb />15 000 außerhalb Spanien<lb />u ein 145 000 in<lb />Spanien consumirt wer-<lb />den. Jezt kostet 1 vane-<lb />gu hier 12 P in Spa-<lb />nien 70 Piaster. 1781<lb />gar 120 Piaster. In<lb />Friedenszeit kostet<lb />flete, Transport bis<lb />Spanien nur 3 Piaster<lb />jezt über 11 P. das<lb />übrige risco u Zoll<lb />in Spanien. Seit<lb />der Theurung 1781 hat<lb />Cacao von Guaja-<lb />quil der im Ruf<lb />stand historische Uebel<lb />zu erregen, Abgang<lb />gefunden. Man unschte<lb />ca ihn seitdem zu ¼<lb />mit Cacao von Carac-<lb />cas, jezt trinkt man<lb />ihn schon rein. Kön-<lb />S. Fe produirt Co-<lb />von vortreflicher Art.<lb />Andere versichern das<lb />maximum der Produktion<lb />jezt u Ausfuhr in Frie-<lb />denszeit (denn wohl Caffee-<lb />nicht aber Cacao-Kultur<lb />habe zugenom̅en) sei<lb />Produktion 140 000 van.<lb />wo von Ausfuhr 110000<lb />u Consumption im<lb />Lande 30 000. Die Provinz<lb />Cumaná produzire an<lb />30 000 vanegas.<lb />Die Küste hat kei-<lb />ne andere Vertheidigung<lb />als Castel S. Antonio<lb />ter v. Cumaná, Morro v. Bar-<lb />cellona, La Guayra mit<lb />und wie p 134 Kanonen, Por-<lb />tocavello, Mara-<lb />caibo u Carthagena</p>
+                </note>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="9r (America III 1799/1800)" facs="H1242132_9r.jpg" />
+            <div type="diaryEntry">
+                <note hand="#author" place="right">
+                    <p>15.<lb />Mineralogie<lb />Das uranfängliche Gebir<lb />ge um S. Felipe<lb />in der Prov. Caraccas<lb />hat Kupfererz (Aroa)<lb />u Goldwäschen um<lb />Río de Santa Cruz<lb />Man findet Goldstükke<lb />Körner zu 4–5 Piaster<lb />u einzelne Indianer<lb />haben in 1 Jahr an<lb />100 Piaster Gewinn von<lb />der Wäsche gehabt. Die<lb />ses Gold erregt wie<lb />überall (Guadarama<lb />Fichtelgebirge, Reifen<lb />gebirge …) Die Begier<lb />und die ursprüngliche<lb />Lagerstätte zu finden<lb />da hier wie in Euro<lb />pa die Natur leider!<lb />auch viel Schwefelkies<lb />hervorgebracht hat, so<lb />schürft man überall<lb />wo man etwas gelbes<lb />blizen sieht. So hat<lb />man von großer bei<lb />dem Städtchen Bar-<lb />quecimento in der<lb />Savanna de la Miel<lb />geschürft. Die Stükke<lb />die man nie zur Un-<lb />tersuchung gebracht sei<lb />gen daß dort der Glim̅er<lb />od. Thonschiefer in<lb />Alaunschiefer übergeht<lb />u daß dieser Lager von<lb />derbem u xlisirtem<lb />Schwefelkies Quarz<lb />u einem weißen<lb />milden, nicht mit<lb />Säuren aufbrausenden<lb />blättrigen in schmalen<lb />Fossil von Perlen mit<lb />terglanz (weiß blei<lb />zu erz. ) vorkommen. In</p>
+                </note>
+                <p>höhere Capo finden, als das Cabo Quadera od. Codera,<lb />so tritt doch kein anderes Cap in solcher Mächtig-<lb />keit u Gebirgsstärke gleich weit in das<lb />Meer hervor. Diese Gebirgsstärke giebt ihm<lb />einen überaus großen u ernsten Charakter. Es ist<lb />der Kern eines großen Gebirgsstoks der seit Jahr-<lb />tausenden den Wellen trägt, (während bei<lb />der Bildung des Mexikan. Meerbusens?) an 3 Seiten<lb />gegen Norden, Ost u West die Gesteinschichten.<lb />senkrecht abfielen. Das Cabo Codera selbst ist<lb />ein Theil der uranfänglichen Gebirgskette welche<lb />(vielleicht am Cab Unare?) den Continent ver-<lb />läßt u sich an der Pta Araja bei Maniqua-<lb />rez u der Laguna de Campoma noch einmal aus<lb />dem Meeresgrunde erhebt. Das Cabo Codera<lb />besteht aus dikkflosrigem Gneis, der Knoten<lb />von röthlich weißem Feldspath enthält. Die Ge-<lb />steinschichten streichen an ihm wie an der weiter<lb />westl. gelegenen Montana de Avila St 4 u<lb />fallen wie es scheint fast ganz seiger. Gegen<lb />Norden senkt sich das Cabo Codera in Form<lb />eines großen Kugelsegments ins Meer, auch<lb />treten dort zwei flachere Spizen, als Verland,<lb />die Punta del Tutumo u noch weiter nord-<lb />lich die Pta S. Francesco (beide zum C. Co-<lb />dera gehörig) vor. Der Wellenschlag den dieses<lb />Cab auf 2 leguas weit im Meer erregt ist<lb />ungeheuer groß, u an der ganzen Südamer.<lb />rikan. Küste ist kein Cap schwieriger zu<lb />doubliren als dieses. Die Einsamkeit welche das Meer<lb />zwischen el Hyguerote u dem Cabo Codera bildet ist<lb />dicht mit Wald umgeben. Das Meer wirft dort einen<lb />glimerreichen Sand aus, in dem wir in la<lb />Guayra MagnetEisensand gemengt ist, ein Zeichen daß<lb />das Gebirge hier wie im Thal von Caraccas mit klein<lb />Lagern von Magnet Eisenstein durchzogen ist. Hygne-<lb />rotte (so nennt man ein Paar Häuser am Strande)<lb />ist wie die ganze Küste von Coro bis Barcellona und<lb />S. Fé hin ein ungesunder Aufenthalt, parace<lb />calenturioso. Der Strand ist so feucht, daß das flach-</p>
+                <p />
+            </div>
+            <pb n="10r (America III 1799/1800)" facs="H1242132_10r.jpg" />
+            <div type="diaryEntry">
+                <p>Caraccas.<lb />Die beiden solidesten Gebäude des Quartel (die Caserne) u<lb />die Casa de S. Lazaro, beide ungeheuer kostbar u verschwen-<lb />derisch aufgeführt. Lezteres leider! mit Geld des Hospitals de S. Laza-<lb />ro in dem troz der großen Einkünfte die bestolenen Kranke<lb />in Schuz unkommen. Als Haus fertig war, fand man daß<lb />es zum Hospital nicht tange, weil Wind daher streiche u<lb />Miasmen über die Stadt führe!! Man verwandelte Haus<lb />nun in Lusthaus u es diente nicht dem Garten zu Xave-<lb />dra’s Bällen. Jezt will man es gar verkaufen u der<lb />König hat dem Käufer ein Langenfreies Margusat ver-<lb />Heißen. Sonderbar daß in dem enteln Lande sich niemand erbittet man<lb />findet. Das Mittel ist übrigens alt. Im Chile hat man<lb />König 4 titu-<lb />los, eines für<lb />auf die Weise neue Dörfer angelegt, der König um<lb />mit sich u 3 zu<lb />das Geld zur Anlage zu erhalten, versprach 6–8 Titel<lb />verkaufen. So<lb />günstigen Bedingungen So entstanden mit dem Titeln des<lb />gues aber abgeschla-<lb />Conte de Quinta Aligre, Conde de la Conquista, Mar-<lb />gen, derer Te-<lb />niente Colonel,<lb />de Casa Real 1748 der Dorfer Colemu, Quilue<lb />D. Antonio de la<lb />Curico in den Provinzen Itat u Maule in Cha<lb />Torre Mirande<lb />So weiß Staat Amerikan. Eitelkeit zu benuzen.<lb />der den Atracto<lb />na anlegte.</p>
+                <p>Erdbeben<lb />Palaceos Memoire<lb />— Vincent</p>
+                <p>MSS. Vol. I vorn.<lb />Lors de l’éruption du Volcan d’<lb />Vincent 30 Avril 1812 le cratère<lb />de la Guadeloupe a vomi des flammes!</p>
+                <p>La Blond descendit<lb />cratere<lb />dans le<lb />Il dit que<lb />n’avait que<lb />20 pies de<lb />et 40 de diamètre<lb />I p 186.</p>
+                <p>St.<lb />celui de Monserrate a été agité<lb />comme les sources chaudes de la<lb />Martinique, et Dominique Leblond Ep 188<lb />Le 12 Déc 1812 grand trembl. de<lb />terre à Kingstown à la Jamaique</p>
+                <p>Montagne Pelée de la Martinique 695 t.<lb />grenit<lb />chaude Le Blond I 87<lb />Soufrière de St Lucie le Blond I p 150</p>
+                <p>Iles en général I p 417<lb />Ilots Grenadins dus au coraux<lb />420. Richard. Cortes lettre<lb />à moi.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="10v (America III 1799/1800)" facs="H1242132_10v.jpg" />
+            <div type="diaryEntry">
+                <p>fürchterliche Plagen des Amerikanischen Lebens u welche dem Physiker sein<lb />schönste Freuden rauben sind 1) daß man ihre Witschauer ewig seiner Freiheit<lb />beraubt ist 2) daß wen̅ der Naturalisten in einem Dorfe ankom̅t, alle Krämer<lb />Weiße u also vorherere Herren zusam̅enlaufen, um dem Fremden zu<lb />instruiren, zu erzählen daß Cumaná einen Knaben 7 Tage im Munde trage,<lb />daß man den Tremblader Tobak im Mund berühren kann. Stundenlang<lb />damit das Fragespiel im ProvinzialNamen, conosca v. una resina<lb />der Geistliche thun vornehmer, reden vom Padre Almeida, Feijo, von dem<lb />was los peripaticos u los filosofos modernos sagen, den sie glauben<lb />daß ganz Europa einen physikal Glauben hat, sie fragen über Seele der<lb />thien, ob man Insekter habe zu blattern werden, aus einem Haar eine<lb />Schläge entspringen sehen … ob es sta recidir. daß die Erde um<lb />die ☉ kaufe … Und da der Werth u seine Freude dies Fragespiel<lb />betreiben muß man im̅er freundlich anhören u antworten. Bleibt<lb />man 2–3 Tage so fragt man, se hai buenas piedras, se v. ha dis-<lb />cubierto algo de bueno, wozu das Pflanzenthalmen niege u sie begrei-<lb />fen nicht, daß man schlechterdings etwas wissen müsse, um sich erklären<lb />zu lassen que tal el aire der Schimblase … Wie viel Zeit u Humor<lb />geht dadurch verloren. Wie gegurtscht legt man sich oft zu<lb />Bitte. Wollte doch der Cap General in Caraccas selbst ich sollte ihm bei<lb />Tische sagen, was wir neues entdekt hatten, süßte wir in Amerika sind?<lb />3) Das ewige Vorspiegeln der Gefahren, die man überstehen wird.<lb />Folge einer Menschenmenge die<lb />d. wir Reise um die Welt gesprochen. Den Conquistadoren-<lb />Lande bis Omequas p. 125. Der Tyranne durch Amazonenfluth bis Marguerita, Martin de Proveda<lb />u über 5 l. reist. Wie entfernt diese von ihren Aehnern<lb />scheid kon von Chachapoyas in Peru über Andes und Llanos nach S. Fé-</p>
+                <p>Vento di Catia<lb />Vitruv.</p>
+                <p>in<lb />salubr.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="13v (America III 1799/1800)" facs="H1242132_13v.jpg" />
+            <div type="diaryEntry">
+                <p>einer über 7 Lr. mächtigen Kalktuff-Formation in der<lb />Gneisstükke eingebakken sind gefüllt. Auf dieser hier und<lb />da Letten zu Ziegeln vortreflich u nahe am Fluß<lb />schwarze Fruchterde. Tuythal sehr tief (Bar. 7h Abends 315,4 Lin<lb />u daher sehr warm. Wir blieben 2 Tage in der Zukker<lb />plantation des D. Joseph de Manterola, die ehemals<lb />war als Sekretär der Gesandtschaft in Petersburg gewesen,<lb />wollte als Nav. Minister vor, um? Intendent zu werden<lb />nach Spanien abreisen. Der alte Carbonel der ihn hofte<lb />befahl ihn in la Guayra zu arretiren. Er bat in Madrid<lb />um Urlaub u ehe Antwort kam war Xav. gestürzt. So<lb />schwer ist es in der Entfernung das Glük des Augenblikks zu<lb />benuzen. M. reich durch seine Frau, habsichtig, gut-<lb />artig zeug, gezig … Luft im Thug schön blau, heiter<lb />bei Tage sehr heiß u ungeheuer trokken<lb />Hygr. Del. Therm.</p>
+                <note hand="#author" place="left">
+                    <p>24.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>Küste. Hafen<lb />Süd Amerika reich<lb />an guten Hafen, die<lb />in Mexiko fehlen. Sehr<lb />gute Hölen zwischen<lb />Guayra u Portoca-<lb />vello: los arrecifes,<lb />Puerto la Cruz, Chó-<lb />rony, la Sienega<lb />de Ocumare, Turia-<lb />mo, Patanabo, aber<lb />alle ungesund dann<lb />Portocavello und Bur-<lb />burata. Der Hafen<lb />von Coro heiß<lb />Puerto de la vela.</p>
+                </note>
+                <p>9 Febr. von<lb />11h — 5h 40–41<lb />12h Nachts 42° 19′ 14″<lb />10 Febr.<lb />von 9h — 7h Ab. 39. — 41° 18.<lb />11h Ab. 43° 18.</p>
+                <p>heitere Mondhelle Nächte u in diesem unbekannte Wohlgerüche.<lb />Indes Luftchen ehrte neue herbei. Herrliches Bad (Ab. 7h Wasser<lb />15° R. Luft 18°) unter Pisang. Kieselgrund. Dort viele und war<lb />trefliche Astronam. Beobacht. gemacht. Jupit. Trabanten beobachtet<lb />Inclin. u Declin S. unter p. 179 u 180. Magnet Inclin. u Kraft<lb />sehr gering! Haus sehr groß auf der Höhe, umher auf eigen<lb />Raum eine Art Dorf, behuchten der Sklaven über 120 mit<lb />Kindern, meist wohlgenährt. Den verheirathetsten giebt man<lb />Land, das sie Sonnabend und Sontag u andere Tage (da sie<lb />nicht im̅er arbeiten) kultiviren. Man ernährt sie dann nicht-<lb />Sie halten sich Schweine, etwas Federvieh, das sie verkaufen und<lb />der Herr weiß ihr Schiksal (nach Herrenart in allen Welt-<lb />theilen gar reizend zu schildern. Dabei hört man sie täglich<lb />perro, perra schupfen, vor dem Herrn (wenn sie mit ihm<lb />reden auf beide Knie fallen u andere Schändlichkeiten<lb />mehr. Doch straft man (aus Furcht?) minder als man glaubt<lb />Wir sahen 3 Sklaven die geflohen waren einbringen. Man<lb />schlug keinen. Vor dem Hause, das ein 40 varas hoch</p>
+                <note hand="#author" place="left">
+                    <p>Wir bemerkten<lb />einige Tage nachher daß<lb />der Wohlgeruch von<lb />Pancrat. carib. kam.<lb />Wegen der ungeheuren<lb />Verflüchtigung (Flüssig-<lb />werdung) des arome in<lb />der Tropenwärme, ge-<lb />hen schwache Gerüche hier<lb />ganz verloren, wie man<lb />an schwachen Gerüchen<lb />z. B. Orangenblüthe<lb />bemerkt, welche in nördl.<lb />Europa stärker als in<lb />den Tropen riechen.<lb />Aber — da die Luft<lb />hier dennoch ewig mit<lb />dem stärksten Aromen<lb />gefüllt ist, so kann<lb />man schließen, wie<lb />groß die Masse und Ener-<lb />gie dieses aroma?<lb />sein muß, um in<lb />der Wärme, bei der<lb />Sinnen noch so be-<lb />merkbar zu sein.</p>
+                </note>
+                <note hand="#author" place="right">
+                    <p>voyez 31</p>
+                </note>
+                <p />
+                <p />
+            </div>
+            <pb n="136v (Cuba 1804)" facs="H0002922_136v.jpg" />
+            <pb n="146v (Cuba 1804)" facs="H0002922_146v.jpg" />
+            <div type="diaryEntry">
+                <p>n 37. Le fond de la baye de la Havane au Sud (f) toute<lb />la partie occidentale e, et la Septentrionale b et a un soit<lb />situe la Castille de la Punta et (a) les Collines du Morro<lb />et de la Cabaña sont la formation du Jura (p 1. n 5)<lb />Mais à l’occ. en = cd tout est Serpentine. Ces Collines de<lb />María Milena, Regla, Guanavacoa voit est à l’ouest<lb />Près de Mania Milena paroit au jour de la Sycuite<lb />sur elle de la Serpentine, puis encore une fois de la Syenite<lb />et prises de la Serpentine: Les Syenites a et e<lb />sont identiques, mais vrayes Syenites avec beaucoup de hornblen-<lb />de un peu décomposition, tres peu de quarz et du feld<lb />spaths rarement cristallisés. Peutêtre sous ce alterne la Syenite<lb />de nouveau avec sa Serpentine. Voilà donc à l’Isle de<lb />Cuba repete le phenomene de Valenciana d’allumer<lb />la Syenite avec de Serpentine. V. Résultats p 72.<lb />La Couche b qui est dans la Syenite à 3 t. de large<lb />La Syenite parait incl. au Nordouest. La Serpentine forme<lb />de Colline de 30–40 t. de haut. Elle est confisiment<lb />Stratifie près de Regla et la Loma del Yndio h. 4<lb />avec 50° au Mer. près Guanavacoa St. 6–7. avec 50°<lb />an Nord. Serpentin klüftig — außerhalb bläulich weiß mit<lb />schönen Braunstein“ den̅driten, (oliven oft lauchgrün,<lb />schön umschlächt, mit etwas Asbest durchtränert, etwas<lb />polarisirend. Ueberall mit Schillerspath ganz dem von<lb />keinen Schil-<lb />berspath gesehen. Erst nahe bei Guanavacoa fängt Col-<lb />Härze ähnlich.<lb />cedon an. Gänge<lb />Quarz u getropftem Kalkedon. Kalkedon so schön als<lb />Island, Stükke von 14–15 Zoll. Bloß Salzidian nirgends<lb />Mulbersches Glas wie ich hoffe (Zateubers) In Serpentinstein<lb />Gänge mit etwas Kupferlis man sagt silberhaltig. Deshalb viel<lb />Quellen etwas hyalogen, Salphurax auch in Serpentinstein<lb />Petroleum, Scharfe Quellen und deshalb östl. in Guanavacoa<lb />hüpsche Thäler mit Cocos Palmen, mit Palma fol. digitatis<lb />Welche im Winde rauscht, Euphorbia Calceolus (Jacquin) Jucca,<lb />Porterian, Ricinus, Cassia, Indigofera, Bonistria, Convolvulus<lb />Liegenia, … Auf Hügel zwischen Guaravacoa und Xigüla herrliche<lb />Aussicht auf Festung Stadt und Meerhorizont hinter Stadt<lb />hervorragend, umher kultivirtes Feld, Palma Reil. Aber<lb />und war 1 Uhr Mittags Th. in Sonne 95° R. ich seit 7 h<lb />p Fuß erndtet und kein Baum im Wege gepflanzt!</p>
+                <p>18<lb />Serpentine<lb />d.<lb />F 2.<lb />Syenite<lb />Serpentine<lb />Syenite à</p>
+                <p>Serpentinstein oft<lb />schlich und fett.<lb />Pechstein ähnlich sieht<lb />aber wahre Serpentin.<lb />stem, vortreflich zum<lb />Schleifen u weniger<lb />Klüftig als die von<lb />Zöplitz</p>
+                <p>Schöne Bäder aber<lb />ohne alle Cultur<lb />Alt und bloß reines<lb />Wasser</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="7v (Italy 1805)" facs="H0019155_7v.jpg" />
+            <div type="diaryEntry">
+                <p>peln, doch nie so daß in Längen fallend ohne zu<lb />und Pyrami-<lb />messen. Wohl aber Obelisken auffallend ungleichseitig<lb />den<lb />Alten in diesen Dagen weniger genau als man glaubt<lb />Aelteste griechische<lb />Zoega p 401.<lb />Tempel z. b. des Apoll<lb />9 Thüren (oben enger Pal. de l’Incas au Callo p<lb />p Delfos v. Holz<lb />Pausan lib 10 c. 5.<lb />Egypter waren ein kleines Tempelfragment in Muse-<lb />v. Horners Zeiten lauter<lb />Borgian. in Veletri so auch Römer Tempel der Veft<lb />hölzerne Säulen<lb />in Tivoli — Europ. schiefe Dächer wie unsere auf<lb />Paolo Pesto p 72<lb />Trajans Säule<lb />Grabhügel bei<lb />10 Mitla. Pyr. Cholula. Mex. prächtigere Begräbnisse<lb />Oker Cayambe, da<lb />als Wohnhäuser. So dachten auch Egypter, weil<lb />Memphitischen<lb />Leben so kurz dauer Diod. Sic. lib 1. c. 51. Vol.<lb />Feldern d. Pe-<lb />zwischen Indus und Ganges nur niedrige Grabhügel<lb />Zoega p 337. so auch alte Germanen durch Scandinavier<lb />in Danemark tumulos bis 1000 F. Umfang und 140 F. Höhe<lb />loa Voy.<lb />in Erde. Bartholini Ant. dan. l. 1. C. 8. p 112. So<lb />T I. l. 6. c. 11.<lb />ein großer tumulus bei Jellingen in Juthland von<lb />Königin Thyra Daneboda. So<lb />Herod. l. 4. c 71. Diodor. l. 2. c 34.<lb />monument de tumulus der Sept. Königin Zarina<lb />welches 2 Generationen vor dem Cyrus lebte, eine 3 seit<lb />Pyramide, welche wie Zoega glaubt mit Steinen<lb />Ctesias bei<lb />überdekt war. Chineser machen Erdpyramiden 12 F. hoch<lb />und nicht hoher Dubalde Descr. de la Chine t 2. p 126. Diod. b. 2. c. 7<lb />so ich Thibetaner Asiat. res. t. 2. p 314. Die<lb />Tempel nicht<lb />u welche (den 50ten Lydien des Grabmal-<lb />des Alyattes des Vaters des Croesus eine Erdbeben-<lb />336.<lb />deren Bassament allein aus großen Steinen<lb />So waren auch<lb />Her. I c 93.<lb />Mexic. Arm<lb />war, 6 Stadien + 200 F. lang und 1300 Fuß breit<lb />midisch<lb />11. Cholula Busch. So nennt Strabo lib. 16. p 111. die<lb />loch.<lb />Grabpyramide des Königs Erzethras auf der Insel Thyerint<lb />im rothen Meer ganz mit wilden Palmen bewachsen.<lb />In Benga<lb />len klei-<lb />Grabhügel der Callisten mit Fruchtbäumen besezt<lb />ne Pyra<lb />und daß Spize ein Dianentempel Pausan. l. 8.c. 35.<lb />Zoega<lb />In Puerto Deñedo in Mayallanischen Meerenge (Hist. gener.<lb />p. 381<lb />des Voy. T. 10. p 340) Grabhügel der Patagonier, kleine aus<lb />rothgefärbten Steinen aufgeführte Pyramiden. Skandinavier<lb />begruben seit alle ihren Habseligkeiten Zoega p 336.<lb />12. Gemelli Sündfluth. Meru ist Olynp ein Cylinderberg<lb />auf dem Vishnu sezt, nicht Ararat. Manu Nahusha<lb />Nor, schwim̅t im Wasser in der Sündfluth p 48. 13 14</p>
+                <p>Ctesius</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="17v (Italy 1805)" facs="H0019155_17v.jpg" />
+            <div type="diaryEntry">
+                <p>ab 7. c 3.</p>
+                <p>zen wurde</p>
+            </div>
+            <pb n="27v (Italy 1805)" facs="H0019155_27v.jpg" />
+            <div type="diaryEntry">
+                <p>Tempér. moyenne par Reggio<lb />à demi fondée sur des observ.<lb />lat.<lb />Ephem. Mediol. 1798 p 81.</p>
+                <p>20° 22°,30 R<lb />5 22. 12.<lb />10. 21. 58.<lb />15. 20. 78.<lb />20. 19. 66.<lb />25. 18,2.<lb />30° — 16,72<lb />35. 14,94.<lb />40. 13,09<lb />45. 11.15.<lb />50. — 9,21.<lb />55 — 7.26.<lb />60–51,57<lb />65–3,92<lb />60° – 2,5<lb />75 — 1,34<lb />80. 0,65<lb />85 — 0,6<lb />60° – 0,0<lb />Lündisch Pol gerade 0° zu<lb />sezen und Stockholm</p>
+                <p>Diodo<lb />u. man der Her-<lb />copér. er hält aber<lb />bloß aus Gebrei<lb />viele Angaben<lb />Höhen Schn.<lb />15. T 2.</p>
+                <p>Mailand<lb />+ 10°,4 R. Reggio<lb />Padua 1724–1797<lb />au niv. de la mer car<lb />10,79. ce qui est<lb />Padoue n’a que 9</p>
+                <p>schon 2 ½. also<lb />über 55 od. 60°<lb />falsch!</p>
+                <p>eine ähnliche Mayer<lb />méd. Vol. 1. p. 8 — a<lb />Aequ. 24°</p>
+                <p>al<lb />Bergmessen — Dicacarchus wie in jene<lb />ex quibus altissimum. prodidit Pelion 125.<lb />passionem ratione perpendiculi (Plin. II. 65)<lb />Fluß Tanais u Atal entsteht</p>
+                <p>Ecl. phys. p 272.<lb />500 t.<lb />Atl. Sprache</p>
+                <p>Cypsis. Theophanis Chronographia 1727<lb />236. Nestor nennt Wolga, Etyl<lb />Ad Analen Th 3. p 110. Die Ungarn<lb />Schlägers Inseln<lb />daher schon die Ungarn Ethale nennen la p 61.<lb />Hungaror. p 49. Attila<lb />Atelch od. Atl heißt Fluß<lb />Kugels Ungarische Gesch I p 34. 6. Daher tanzt Atelcusu<lb />Das Flußland zwischen Don, Dnieper u Dniefer-<lb />le. I 281. 349. Cornides Vindic. 1802 p. 341.<lb />l. c. p 361.<lb />Mittel</p>
+                <p>auf Tarta-<lb />Magolisch<lb />der Sprache<lb />der Gemeinlib.<lb />sen u Tschou-<lb />waschen welches<lb />Finnen<lb />Reisen b 2. p 904.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="37v (Italy 1805)" facs="H0019155_37v.jpg" />
+            <div type="diaryEntry">
+                <p>Lyon le 28 Vent.<lb />☉ non renv. p. le tems.<lb />8° 50′ 40″ — 10h 31′ 49″<lb />56′ 50″ — 32′ 31″<lb />49. 3. 55. — 33. 12.<lb />limbe 30′ 25″<lb />14′ 0″ — 33° 58′<lb />exc. 34′ 30″<lb />19. 30. — 34. 42.</p>
+                <p>27. 20. — 35. 33.<lb />l’occult. d’Antares manquée par des nuages le 29 V.</p>
+                <p>Notre Dame de Fourvière près de Lyon.<lb />Bar. à la porte de l’Eglise 26po. li<lb />à la Place de Bellecour<lb />20 pi plus haut que les<lb />eaux de la Saône — 27po 1li,8.<lb />Th. 17° R.</p>
+                <p>le 28 Vent.</p>
+                <p>à Lyon le 30 Vent.<lb />A) Osc. horiz.<lb />Grande Aig.</p>
+                <p>60 osc. en 4′ 57″<lb />40. — 7. 0.</p>
+                <p>la nouvelle Ai</p>
+                <p>Incl. 66° 12′ bon̅e 50″ — 4′ 7″</p>
+                <p>L’anc. Aiguille.<lb />65° 30′ H</p>
+                <p>Moyenne<lb />60 osc. en 4′ 33″<lb />60 — — 4′ 33″,3</p>
+                <p>Petite<lb />60 osc. en 3′ 29″,3.<lb />6h — 3′ 29″,2.</p>
+                <p>B) Oscill. de l’Aig. d’Inclin.<lb />dans le plan perpend. au Mérid. magnét.<lb />20 osc. en 31″,5.</p>
+                <p>30′ — 48″,0<lb />30 — — 48″,2.<lb />dans le plan du Mérid. magnét<lb />30 oscill. en 46″,2<lb />46″,0<lb />— 46,1.</p>
+                <p>déduisez en<lb />l’Inclinaison.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="47v (Italy 1805)" facs="H0019155_47v.jpg" />
+            <div type="diaryEntry">
+                <p>parti de Paris le 11 Mars 1805.<lb />pris avec Gay 500 (qu’il faut lui rendre)<lb />moi ang. compt. 2660<lb />en lettre sur Milan 2550<lb />dans le livre rouge à Lyon le 20 Mars — 1500.<lb />j’ai donné à Charles Montufar un compte de 2245 piés.<lb />tres qu’il me doit le 11 Mars 1805<lb />J’ai prêté à Mr. Roccafuerte 800.<lb />j’ai fait le contrat de l’étuviro de Milan à Rome pour<lb />26 Louis de France<lb />à Milan le 15 Avril sur les 2550# de Fuld reçu de<lb />Formiggini affectif 20 t de France = 494 27 et<lb />Oriani vint mon Chron. qu’il m’enva par Vasalli<lb />en lettres sur<lb />sont au Cardin. Dagnani à Rome soit à l’Abbé Testa.<lb />près le 24 Mai à Rome les 2055 # 73 mais donné seulement<lb />360 Sardi dont donné à Gay 70 Scudi, le 3 Mai<lb />de 100 à<lb />encore 20 Jeudi à Gay le 10 Juin<lb />Mr. Oetzel … prêté à Mr Oetzel à Naples 50 p.<lb />Neapel schon 8 P.<lb />à Mende Buch baar<lb />den Lohnbed. in C. Carl täglich.)<lb />Ducati<lb />Barb. 2 P.<lb />von Politi J 22 Jul. 150. Duc (auf Credit von 450 piaster mein<lb />u 1000 p. recommand.)<lb />nachher — 3′ 47″<lb />370<lb />1) 13 Aug. — 300<lb />100. Duc.<lb />genommen bis 17 Aug von<lb />Politi 450 p.<lb />Wagen gekauft für 370 Duc.<lb />1095. p. worauf Auf-<lb />tung.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="46v (Index 1805)" facs="H0020388_46v.jpg" />
+            <div type="diaryEntry">
+                <note hand="#author" place="left">
+                    <p>Tigre I 68. 71. V. 389. 393. XI 34 n 17.</p>
+                </note>
+                <p>Teneriffe II 124. Schreibtafel. Erskant.<lb />mon Voy de la Corunna à Cumaná. Courant<lb />Buenos ayres IV 243<lb />vent XIII 28. n 8.<lb />(Pic. Chahorra. Teapa. A.)</p>
+                <p>Calme An 30.<lb />Mon Discours préliminaire déjà fait A.<lb />Isla de Lobos B.<lb />Instrumens mitgenom̅en B.<lb />Documens d’Urquijo C.<lb />Arbres XII p. 61. Dikke</p>
+                <note hand="#author" place="left">
+                    <p>Tortues I 71. 105.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>Température v. Chaleur Eau de mer Intérieur du Glo-<lb />be. Météorologie.</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>Truxillo 27 II. 57.</p>
+                </note>
+                <p />
+            </div>
+            <pb n="9r (Siberia 1829)" facs="H0005449_9r.jpg" />
+            <div type="diaryEntry">
+                <p>Table générale (Interbell’s magnet p 67)<lb />pour guider en cas de mort Mrs<lb />Oltmanns, Rose et Buch pour<lb />la publication de mes obs. astr.<lb />magn. géognost. et physiques<lb />Suite chronol. du voyage. Königsberg p.</p>
+                <p>Sandkrug p 5. 11<lb />De Pet. à Moscou 113–27. (Waldi II 59)<lb />Pétersbourg 27. 66<lb />Nischn. Norog. 113. 114.<lb />Navig. du Wolga 114. 115.<lb />Casan 116. (Bolgari 116) 45. 115.<lb />de Casan à Kungur et Bijarskaya<lb />p 66.</p>
+                <p>Pente oc. de l’Ural 118.<lb />116–117.<lb />Catherinb. 121. 118. 119. 105. 50–57. 69<lb />Beresow et Trac, Schert. 99. 118. 119. 121<lb />122.29.<lb />Goumeschofski Polefski 99. 100. 68. 58<lb />Cather. (Schabron)</p>
+                <p>Ki) 121. (Werchoturski)<lb />d’or.<lb />Nischoye Tagilsk. Belaya Gora 100–103.<lb />Neviansk<lb />40° 54′ 55″ — 57′<lb />te II 123</p>
+                <p>Kuschwa 103. 104. 45<lb />Nischné Turinsk. 104. 45–<lb />Laturski Bogeslawski 104. 105. 106. 107.<lb />47. 48. 49. 61. Ein 47. 48.<lb />Bogeslawsk. 106. 44. 49</p>
+                <p>Werchoturie Alapaewski Redjewskoi<lb />lat. en général 41° 54′<lb />Mursinsk 105. 52<lb />17. 57. 58. 56. Clar. 54.<lb />plat. I 17 Alluvions à<lb />avec or<lb />Vos de Cath. qui Tiumon à Tobolsk 69–75.<lb />II 98. 110<lb />de Tobolsk par Kainsk à Barnoul</p>
+                <p>Barnaul 77° 81. 82. 87. lg. discuté I 78 II<lb />Lac de Kolivan 8,5<lb />Schlangenberg 82–86. 88–90.<lb />Winde I 302</p>
+                <p>Kokan Riderski 90. 91.<lb />gesandte<lb />Ust Kamenag. 92. 112. 31<lb />Bachtorma 92. 93. 107.<lb />Sirianofski 93. 94. 95. 28. 107. 16.</p>
+                <p>Baty 95° 28′. Vergl. Cumaná<lb />Krasnoyar Vorpost<lb />Semipalatna 32. 33. 60<lb />Pinsk 62° 14′,60. Petropabl. 61° 14′,40</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="19r (Siberia 1829)" facs="H0005449_19r.jpg" />
+            <div type="diaryEntry">
+                <p>Catharinb. 13 Juin 7½h m<lb />33<lb />376.7 19,2 C<lb />3486 — 11″<lb />Werchoturinski 376,3 377,1 17°,2 C.<lb />43.1.<lb />1° R.<lb />70,3 70,2 beau<lb />4 Juin Neviansk 378,3 un peu couv.<lb />10h — 17°,5 R<lb />20h 7′ 22″,3<lb />am 4ten Theil<lb />16,5 R</p>
+                <p>glim. Thonsch<lb />☉ Grenz hor 10,4. erst in<lb />gegen Süden bloß Granit der Arm im<lb />fallsch giebt! Eine Stollen bloß in<lb />Sehr einer in Granit 3 Schiffe<lb />plat.<lb />4 sol jezt</p>
+                <p>Gang<lb />für lezte 5 r. der Pfl<lb />Suchoi Wilui 24 W. G.</p>
+                <p>Schmalinsk: St 1,5. 180 Or<lb />auf Kalk. 2 F<lb />22–14 Zoll Quellen? Markt 9,5 R<lb />65 Sag x 65 Sag = 12 Pud ☉<lb />Neiva in Fluß selbst 2 Sol noch 4, ist</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="29r (Siberia 1829)" facs="H0005449_29r.jpg" />
+            <div type="diaryEntry">
+                <p>(Soukhoi Log. v. Baromètres)<lb />Martian le Pupkof; Rublowski<lb />Barom.) et la Soukhoi<lb />Wissim. Dans le dernier seul<lb />affin considérablement mêlé au<lb />platine. Les alluv. de Demid.<lb />donnent 85–90 pud plat. par an<lb />pourroient donner 100 p. Tout<lb />de l’Oural à peine 110 p. donc les Demid<lb />que seuls possesseurs dans l’air<lb />hiver.<lb />Lavages (plus de plus<lb />Schwarzow)</p>
+                <note hand="#author" place="left">
+                    <p>p 57</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>aussi</p>
+                </note>
+                <p>Ural proviant fast ganz aus dem<lb />Kornkammer bei<lb />Kirgisensteppe über Troitzk. A Cathar.<lb />coute le pud<lb />Bernstein</p>
+                <note hand="#author" place="left">
+                    <p>mittel</p>
+                </note>
+                <p>mit Braunkohle 19 W. von Kamenski<lb />Zavod am östl. Abhange von Ural<lb />So einflößig Pomerische Natur<lb />Wahre Steinkohle (Holm)<lb />Osten wird von Kislowski südöstl von<lb />Eisenhütte dort zu Frische Eisenverlust 3½<lb />Geldgräber bei Neviansk leider<lb />jezt nicht zu befahren aber aus Helden-<lb />und Stollen deutlich: Ein Gang<lb />Granit. Im Granit Gang 1 Sag<lb />hor 10,7<lb />Granit sind Richtung des Stollens<lb />Süd. 4 Schächte<lb />Granit zeigt daß eine Granitmasse<lb />senkrecht auf Gang u Gangkluft mit ausgefüllt<lb />hat. Granitarm erinnert an Beresow</p>
+                <note hand="#author" place="left">
+                    <p>(der ab-<lb />selnd</p>
+                </note>
+                <p>Tiefste 12 Sag. Wasser. Erze 4 Sol.<lb />Ein zweiter Stollen in Thonschiefer Im Gang<lb />wo er thonschiefer durchsiezt, oft überall<lb />wirk Granit<lb />mehrere</p>
+                <note hand="#author" place="left">
+                    <p>1. 2. 3<lb />4 Schiffe<lb />Stollen<lb />in Sch.<lb />Stollen<lb />Granitgang</p>
+                </note>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="39r (Siberia 1829)" facs="H0005449_39r.jpg" />
+            <div type="diaryEntry">
+                <p>Tobolsk maison de Mr Albert<lb />12 Juillet 1829 jour du départ<lb />365.0 24 25.2 C. bleu<lb />10′ 5″ — 50° 50′<lb />Batak berühmt durch Heiligen<lb />Kloster Getisch gefunden 391,8</p>
+                <p>Bild<lb />28,2 C. 10 ½ mat 363,6<lb />755.4<lb />21. 6 ½ rechten Irtischhüfer<lb />tysch<lb />L’Irtisch entre Abalak<lb />à Tobolsk<lb />air 22° R.</p>
+                <p>et Bakschewa 18°,5 R<lb />Eau<lb />(eau du Tobol 11°,7 p 70.<lb />kein Eis m. nennen Tiefe 2 t<lb />12 Juill Source du village<lb />13 Juill. Dorf Tschistkorskoy 228 Werst</p>
+                <p>Tobolsk Brunnen 3 t (ohne Eis)<lb />2°,1 R. air 19°,3 R.<lb />10h mat même village 365.0<lb />28 C. 755,8</p>
+                <p>village Ribina mit sehr schönem<lb />14 Juill. 2 ½ mat. 2<lb />22 R.<lb />ohne Ein-</p>
+                <p>Occult.<lb />Brunnen 20° ½ Luft 22°,2 R<lb />26 Juill. 753,4<lb />15 Arschine</p>
+                <p>14 Juill v. st. 4h Ab Riv. Ayow près village<lb />Tschoukina 19°,5 air très sûr 25°<lb />15 Jul 8h mat. Village Seimenowa.<lb />dans un même plateau que la ville<lb />voisine de Tara 363.7 21,4 R<lb />755.2<lb />bleu</p>
+                <p>15 Juill. Passage de l’Ira<lb />village Totmuzkaya 2½ Ab<lb />391.8 15 pies au dessus du niveau<lb />36,47 des eaux 33,2 C.<lb />Hauve 756,5 la débache des<lb />air 22,5 glace fin d’Avril vieux st<lb />Int. vient du sud, Wolga du nord p 114.<lb />différ des saisons.<lb />16 Juillet 7h mat village Wosnasankoya<lb />21 R.<lb />25 pies au dessus des eaux<lb />Omsk<lb />53</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="49r (Siberia 1829)" facs="H0005449_49r.jpg" />
+            <div type="diaryEntry">
+                <p>Bochthorma 3 Août<lb />village de<lb />dans la faites même. Ramsden 19<lb />fin qui renverse. Pour le Cong<lb />Earnsh 9h 53′ 25″ — 84° 50′ 30″<lb />55′ 22″ — 27′ 0″</p>
+                <p>58′ 9″ — 83° 32′ 50″<lb />seulement les<lb />premières 3<lb />59′ 48″ — 5′ 40″<lb />haut astr<lb />des nuages 10h 1′ 55″ — 82° 30′ 5″ b<lb />40′ 20″ — 81° 55′ 5″ b<lb />sans verre 5′ 48″ 25′ 50″ b<lb />colore<lb />2.25.6.<lb />à 14 W. à l’or<lb />Calle. compacte 8′ 13″ — 80° 44′ 35″ b<lb />Mines de Sirianofsk le 4 Août<lb />plav. Géologie<lb />rose. pour la long. haut de ☉ renversé<lb />38′ — 89° 26′ 20″<lb />56′ 38″<lb />Ramsden<lb />très bonnes 55′ 42″<lb />42′ 5″<lb />ex. 28′ 10″ 57′ 20″ 90° 20′ 27″<lb />50<lb />l. 35′ 18″<lb />5h 15′ 3″<lb />2′ 21″ — 91° 33′ 50″</p>
+                <p>pour la lat id<lb />Earnsh. 59° 15′ — 108° 41′ 6″ 7′ 13′ 22″ 108° 51′ 42″<lb />56′ 44″ — 108° 44′ 22″ 7′ 13″ — 108° 15′ 26″ 50′ 0″<lb />46′ 8″ 17′ 45″ 48′ 25″<lb />2′ 37″ 46′ 54″ 19′ 22″ 46′ 54″<lb />21′ 37″ 44′ 22″<lb />23′ 51″ 41′ 6″<lb />8<lb />nudi or. 7h 11′ 37″<lb />biswei 6′ 42″<lb />8′ 12″<lb />10′ 17″ — 51° 38′ 6″<lb />nächtig,<lb />100.</p>
+                <p>16′ 39″ — 52° 8′<lb />Kager Miné hor 6,7 fällt Sept.<lb />je Thon 4–500 pud silber jährlich Gehalt 4–6<lb />sol. in 1 pud (20 Sag bis Stollen<lb />sehr blei<lb />über. 30 Sag unter Stollen.) Wasser des<lb />tiefsten von 10 Lr über Stollen<lb />also in Pumpen erwärmt 6°,2 R<lb />Größter Reichthum war 2–10 Sag<lb />unter Stollen für tiefsten zwar bis<lb />uns aber vielen sehr reiche Nester im Ganzen<lb />2 ½ Sag Sol. Gediegen ☉ war am<lb />meisten unter Rasen. Schwer Arbeiterzahl<lb />bestimmen so ungleich u versch. Monathe<lb />600 Arb unter Tage zu gebrauchen aber<lb />in Mittel täglich nicht 250 Bergleute</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+            <pb n="58r (Siberia 1829)" facs="H0005449_58r.jpg" />
+            <div type="diaryEntry">
+                <p>Humboldt<lb />11 Mai Ville<lb />Torjok th b. 16 C<lb />389. 1 air 11° R.<lb />8h ¼ mat<lb />C 1.<lb />11 Mai Twer 1h ½ m<lb />près audessus de<lb />la Tiverz<lb />389.5 th bar 10° C<lb />6h 32′ 3″ — 36° 32′ air<lb />752.7 Ab 7h<lb />10 Mai Lac et<lb />südl Abfall der<lb />Waldai<lb />Gomsina 12 Mai<lb />th b. 18° C<lb />air 12° R.<lb />384.1<lb />41.3<lb />Moscou auberge<lb />Tentoria 22 piés<lb />745.7.<lb />26161,2 R<lb />air 9° R.<lb />id. 13 Mai 2h<lb />Kl. 15,2 C.<lb />air 13,3 R.<lb />comparé mon bar<lb />de Bunten au<lb />Fortin. differ = 0°<lb />connu à Pétersb.<lb />Bar. de Mr<lb />Perevostchitof<lb />mir 0mm 2 pi<lb />Le Tov. de Bunten est<lb />de 2°,2 Cent trop<lb />haut dit Mr Bassal<lb />mais</p>
+                <p>Baromètre<lb />Mai v. st. 9h mat.<lb />Pétersbourg<lb />air 13 R. 766,4<lb />Nowgorod 9 Mai<lb />lat.<lb />air 15 R. 759.<lb />auberge 2 p.<lb />Niveau du Wolcho<lb />22 C. 16 R<lb />Waldai nördl<lb />6h Ab.<lb />Abfall 2 th bar<lb />3,4 air 8,2 R<lb />Waldai (jetzä Häser<lb />Regen Ab<lb />Th bar 13° C.<lb />air 7°,3 R.<lb />748.8<lb />7h mat lac<lb />Mai<lb />Waldai Ybar 8,5 C<lb />air 4,7 R.<lb />serein<lb />74,52<lb />10 Mai Popowa Gorà<lb />höchste Kuppe des Wol<lb />dai midi vent<lb />385,2 th bar.<lb />742,3 St 5,4 mit<lb />Kloster Iverski<lb />Kloster gegen Osten<lb />letten<lb />Wischnei Wolot<lb />4 bar 20 C<lb />schok 9h ½ mat.<lb />p 50.7.</p>
+                <p>56′ 45″<lb />66<lb />de<lb />40° 40′</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

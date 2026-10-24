@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 47v (Italy 1805)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 47v (Italy 1805) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="47v (Italy 1805)" facs="H0019155_47v.jpg" />
+            <div type="diaryEntry">
+                <p>parti de Paris le 11 Mars 1805.<lb />pris avec Gay 500 (qu’il faut lui rendre)<lb />moi ang. compt. 2660<lb />en lettre sur Milan 2550<lb />dans le livre rouge à Lyon le 20 Mars — 1500.<lb />j’ai donné à Charles Montufar un compte de 2245 piés.<lb />tres qu’il me doit le 11 Mars 1805<lb />J’ai prêté à Mr. Roccafuerte 800.<lb />j’ai fait le contrat de l’étuviro de Milan à Rome pour<lb />26 Louis de France<lb />à Milan le 15 Avril sur les 2550# de Fuld reçu de<lb />Formiggini affectif 20 t de France = 494 27 et<lb />Oriani vint mon Chron. qu’il m’enva par Vasalli<lb />en lettres sur<lb />sont au Cardin. Dagnani à Rome soit à l’Abbé Testa.<lb />près le 24 Mai à Rome les 2055 # 73 mais donné seulement<lb />360 Sardi dont donné à Gay 70 Scudi, le 3 Mai<lb />de 100 à<lb />encore 20 Jeudi à Gay le 10 Juin<lb />Mr. Oetzel … prêté à Mr Oetzel à Naples 50 p.<lb />Neapel schon 8 P.<lb />à Mende Buch baar<lb />den Lohnbed. in C. Carl täglich.)<lb />Ducati<lb />Barb. 2 P.<lb />von Politi J 22 Jul. 150. Duc (auf Credit von 450 piaster mein<lb />u 1000 p. recommand.)<lb />nachher — 3′ 47″<lb />370<lb />1) 13 Aug. — 300<lb />100. Duc.<lb />genommen bis 17 Aug von<lb />Politi 450 p.<lb />Wagen gekauft für 370 Duc.<lb />1095. p. worauf Auf-<lb />tung.</p>
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

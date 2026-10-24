@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 146v (Cuba 1804)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 146v (Cuba 1804) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="146v (Cuba 1804)" facs="H0002922_146v.jpg" />
+            <div type="diaryEntry">
+                <p>n 37. Le fond de la baye de la Havane au Sud (f) toute<lb />la partie occidentale e, et la Septentrionale b et a un soit<lb />situe la Castille de la Punta et (a) les Collines du Morro<lb />et de la Cabaña sont la formation du Jura (p 1. n 5)<lb />Mais à l’occ. en = cd tout est Serpentine. Ces Collines de<lb />María Milena, Regla, Guanavacoa voit est à l’ouest<lb />Près de Mania Milena paroit au jour de la Sycuite<lb />sur elle de la Serpentine, puis encore une fois de la Syenite<lb />et prises de la Serpentine: Les Syenites a et e<lb />sont identiques, mais vrayes Syenites avec beaucoup de hornblen-<lb />de un peu décomposition, tres peu de quarz et du feld<lb />spaths rarement cristallisés. Peutêtre sous ce alterne la Syenite<lb />de nouveau avec sa Serpentine. Voilà donc à l’Isle de<lb />Cuba repete le phenomene de Valenciana d’allumer<lb />la Syenite avec de Serpentine. V. Résultats p 72.<lb />La Couche b qui est dans la Syenite à 3 t. de large<lb />La Syenite parait incl. au Nordouest. La Serpentine forme<lb />de Colline de 30–40 t. de haut. Elle est confisiment<lb />Stratifie près de Regla et la Loma del Yndio h. 4<lb />avec 50° au Mer. près Guanavacoa St. 6–7. avec 50°<lb />an Nord. Serpentin klüftig — außerhalb bläulich weiß mit<lb />schönen Braunstein“ den̅driten, (oliven oft lauchgrün,<lb />schön umschlächt, mit etwas Asbest durchtränert, etwas<lb />polarisirend. Ueberall mit Schillerspath ganz dem von<lb />keinen Schil-<lb />berspath gesehen. Erst nahe bei Guanavacoa fängt Col-<lb />Härze ähnlich.<lb />cedon an. Gänge<lb />Quarz u getropftem Kalkedon. Kalkedon so schön als<lb />Island, Stükke von 14–15 Zoll. Bloß Salzidian nirgends<lb />Mulbersches Glas wie ich hoffe (Zateubers) In Serpentinstein<lb />Gänge mit etwas Kupferlis man sagt silberhaltig. Deshalb viel<lb />Quellen etwas hyalogen, Salphurax auch in Serpentinstein<lb />Petroleum, Scharfe Quellen und deshalb östl. in Guanavacoa<lb />hüpsche Thäler mit Cocos Palmen, mit Palma fol. digitatis<lb />Welche im Winde rauscht, Euphorbia Calceolus (Jacquin) Jucca,<lb />Porterian, Ricinus, Cassia, Indigofera, Bonistria, Convolvulus<lb />Liegenia, … Auf Hügel zwischen Guaravacoa und Xigüla herrliche<lb />Aussicht auf Festung Stadt und Meerhorizont hinter Stadt<lb />hervorragend, umher kultivirtes Feld, Palma Reil. Aber<lb />und war 1 Uhr Mittags Th. in Sonne 95° R. ich seit 7 h<lb />p Fuß erndtet und kein Baum im Wege gepflanzt!</p>
+                <p>18<lb />Serpentine<lb />d.<lb />F 2.<lb />Syenite<lb />Serpentine<lb />Syenite à</p>
+                <p>Serpentinstein oft<lb />schlich und fett.<lb />Pechstein ähnlich sieht<lb />aber wahre Serpentin.<lb />stem, vortreflich zum<lb />Schleifen u weniger<lb />Klüftig als die von<lb />Zöplitz</p>
+                <p>Schöne Bäder aber<lb />ohne alle Cultur<lb />Alt und bloß reines<lb />Wasser</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

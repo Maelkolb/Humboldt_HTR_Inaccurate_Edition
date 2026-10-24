@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 1r (Soemmerring 1795-06-07)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 1r (Soemmerring 1795-06-07) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r (Soemmerring 1795-06-07)" facs="H0002729_1r.jpg" />
+            <div type="diaryEntry">
+                <p>Verehrungswäther Freund,</p>
+                <p>Ich will Ihnen einen Buch dediciren, ich ein<lb />physiologisches; es soll bald gedrukt werden u<lb />Sie haben es noch nicht erlaubt … Das ist eine<lb />sonderbare Dreistigkeit. Aber als Ueberreichung wage<lb />ich es nicht u die Erlaubniß müssen Sie mir<lb />um schon geben. Kannte ich Sie doch nördlich<lb />darum bitten. Aber ein böser Damen hat<lb />uns getrennt gehalten. Ich war den Sommer 94<lb />meist bei der Armen, beim Feldmarschall und Har-<lb />denberg. Ich war einige Mal auf einige Stunden<lb />in Münz suchen Sie in Ihrem Hause<lb />aber ohne Sie zu finden. Als Sie<lb />aus England zurükkamen, da wurde uns nur wird</p>
+            </div>
+        </body>
+    </text>
+</TEI>

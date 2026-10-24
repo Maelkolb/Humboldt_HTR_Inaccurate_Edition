@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 2r (Karsten 1805-09-10)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 2r (Karsten 1805-09-10) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="2r (Karsten 1805-09-10)" facs="H0020386_2r.jpg" />
+            <div type="diaryEntry">
+                <p>Rom, d 10. Sept. 1805.<lb />Exp. d. 30</p>
+                <p>2</p>
+                <p>Ich eile, mein theurer Freund, Ihren liebevollen Brief vom 17 Aug. der<lb />gestern hier eingetroffen ist, sogleich zu beantworten und Ihnen für<lb />die Herzlichkeit u Güte zu danken, welche aus jeder Zeile desselben<lb />hervorblüht. Da ich in etwa 6–7 Tagen meine Rükreise nach dem<lb />Vaterlande, zu Ihnen, antrete u ich über das Empakken so vieler Atta-<lb />nuscripte u Zeichnungen etwas unruhig bin, so schreibe ich Ihnen nicht<lb />so ausführlich als ich es sollte. Aber von Ihrer Gewogenheit darf ich Nach-<lb />sicht erwarten. Ich bin ganz beschämt darüber daß ein Paar Colibrifedern<lb />u Andes-Gesteine so große Bewegungen veranlaßt haben. Ich müßte<lb />bei ernsthafterem Nachdenken aber auch sehr undankbar sein, wenn ich<lb />nicht ehrfurchtsvoll geehrt sein sollte, über die mannichfaltigen Bewei-<lb />se des Interesses welches das Kön. Maj. für meine Erhaltung u für mei-<lb />ne Arbeiten ununterbrochen seit einem Jahr bezeigt hat. Beweise die<lb />für einen Abwesenden, der sich eher für vergessen halten sollte, doppelt<lb />schmerzhaft sind. Wenn Sie meine geognostischen Karten u Messungen<lb />die gezeichneten Physionomien der Berge u die Beschreibungen selbst<lb />sehen werden, so darf ich hoffen, daß Ihnen die übersandten Seiten<lb />vielfacher wichtig scheinen werden. Dazu hat wenigstens kein Kabinett<lb />etwas ähnliches aufzuweisen. Daß ich nicht mehr mitgebracht, wie oft<lb />gefragt wird, davon, theurer Freund, sehen Sie die Gründe leicht ein.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

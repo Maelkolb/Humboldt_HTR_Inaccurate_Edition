@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 1v (Soemmerring 1795-06-07)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 1v (Soemmerring 1795-06-07) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1v (Soemmerring 1795-06-07)" facs="H0002729_1v.jpg" />
+            <div type="diaryEntry">
+                <p>der nicht besser.<lb />Ich war fleißig in dieser Zwischenzeit,<lb />nicht fließig, lebte meist im Gebirge<lb />hier od. in Jena, wo Wilhelm lebt<lb />u praktisch Anatomie mit kannibalischer<lb />Muth treibt. Auch ich war indeß meist<lb />mit Sciren von Chorren, mit Versuchen über<lb />Gifte u Metallreiz beschäftigt. Ich habe<lb />Ihre Schriften u die große Physiologie<lb />v. Haller fleißig studirt u glauben<lb />manches neue entdekt zu haben. Was<lb />ich liefern darf ich gründlich nennen,<lb />den ich experimentirte mit großer<lb />Anstrengung seit 2 Jahren u ich ver-<lb />de Thatsachen mit wenigen bescheidenen<lb />Zweifeln aufstellen. Ich habe die Gal-<lb />vam. Versuche wie ich glaube aus einem<lb />neuen Gesichtspunkte betrachtet u den<lb />ke schlechterdings nur neue Versuche<lb />zu beschreiben. Um Ihm einiges zur<lb />Probe zu zeigen, lege ich ein Abschrift<lb />von einem Briefe an Blumenbach bei<lb />Sie ist schändlich stylisirt, aber ich habe<lb />so manche öffentliche Dienstgeschäfte, bin<lb />so ewig auf Reisen, daß ich auf den Styl</p>
+            </div>
+        </body>
+    </text>
+</TEI>

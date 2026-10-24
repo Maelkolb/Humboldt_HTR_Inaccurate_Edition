@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 9r (America III 1799/1800)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 9r (America III 1799/1800) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="9r (America III 1799/1800)" facs="H1242132_9r.jpg" />
+            <div type="diaryEntry">
+                <note hand="#author" place="right">
+                    <p>15.<lb />Mineralogie<lb />Das uranfängliche Gebir<lb />ge um S. Felipe<lb />in der Prov. Caraccas<lb />hat Kupfererz (Aroa)<lb />u Goldwäschen um<lb />Río de Santa Cruz<lb />Man findet Goldstükke<lb />Körner zu 4–5 Piaster<lb />u einzelne Indianer<lb />haben in 1 Jahr an<lb />100 Piaster Gewinn von<lb />der Wäsche gehabt. Die<lb />ses Gold erregt wie<lb />überall (Guadarama<lb />Fichtelgebirge, Reifen<lb />gebirge …) Die Begier<lb />und die ursprüngliche<lb />Lagerstätte zu finden<lb />da hier wie in Euro<lb />pa die Natur leider!<lb />auch viel Schwefelkies<lb />hervorgebracht hat, so<lb />schürft man überall<lb />wo man etwas gelbes<lb />blizen sieht. So hat<lb />man von großer bei<lb />dem Städtchen Bar-<lb />quecimento in der<lb />Savanna de la Miel<lb />geschürft. Die Stükke<lb />die man nie zur Un-<lb />tersuchung gebracht sei<lb />gen daß dort der Glim̅er<lb />od. Thonschiefer in<lb />Alaunschiefer übergeht<lb />u daß dieser Lager von<lb />derbem u xlisirtem<lb />Schwefelkies Quarz<lb />u einem weißen<lb />milden, nicht mit<lb />Säuren aufbrausenden<lb />blättrigen in schmalen<lb />Fossil von Perlen mit<lb />terglanz (weiß blei<lb />zu erz. ) vorkommen. In</p>
+                </note>
+                <p>höhere Capo finden, als das Cabo Quadera od. Codera,<lb />so tritt doch kein anderes Cap in solcher Mächtig-<lb />keit u Gebirgsstärke gleich weit in das<lb />Meer hervor. Diese Gebirgsstärke giebt ihm<lb />einen überaus großen u ernsten Charakter. Es ist<lb />der Kern eines großen Gebirgsstoks der seit Jahr-<lb />tausenden den Wellen trägt, (während bei<lb />der Bildung des Mexikan. Meerbusens?) an 3 Seiten<lb />gegen Norden, Ost u West die Gesteinschichten.<lb />senkrecht abfielen. Das Cabo Codera selbst ist<lb />ein Theil der uranfänglichen Gebirgskette welche<lb />(vielleicht am Cab Unare?) den Continent ver-<lb />läßt u sich an der Pta Araja bei Maniqua-<lb />rez u der Laguna de Campoma noch einmal aus<lb />dem Meeresgrunde erhebt. Das Cabo Codera<lb />besteht aus dikkflosrigem Gneis, der Knoten<lb />von röthlich weißem Feldspath enthält. Die Ge-<lb />steinschichten streichen an ihm wie an der weiter<lb />westl. gelegenen Montana de Avila St 4 u<lb />fallen wie es scheint fast ganz seiger. Gegen<lb />Norden senkt sich das Cabo Codera in Form<lb />eines großen Kugelsegments ins Meer, auch<lb />treten dort zwei flachere Spizen, als Verland,<lb />die Punta del Tutumo u noch weiter nord-<lb />lich die Pta S. Francesco (beide zum C. Co-<lb />dera gehörig) vor. Der Wellenschlag den dieses<lb />Cab auf 2 leguas weit im Meer erregt ist<lb />ungeheuer groß, u an der ganzen Südamer.<lb />rikan. Küste ist kein Cap schwieriger zu<lb />doubliren als dieses. Die Einsamkeit welche das Meer<lb />zwischen el Hyguerote u dem Cabo Codera bildet ist<lb />dicht mit Wald umgeben. Das Meer wirft dort einen<lb />glimerreichen Sand aus, in dem wir in la<lb />Guayra MagnetEisensand gemengt ist, ein Zeichen daß<lb />das Gebirge hier wie im Thal von Caraccas mit klein<lb />Lagern von Magnet Eisenstein durchzogen ist. Hygne-<lb />rotte (so nennt man ein Paar Häuser am Strande)<lb />ist wie die ganze Küste von Coro bis Barcellona und<lb />S. Fé hin ein ungesunder Aufenthalt, parace<lb />calenturioso. Der Strand ist so feucht, daß das flach-</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 57r (Austria 1797/98)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 57r (Austria 1797/98) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="57r (Austria 1797/98)" facs="H0019734_57r.jpg" />
+            <div type="diaryEntry">
+                <head>zu im reflex eines Hauses.</head>
+                <p>am 19ten Aug. 97. zu Wien Nachmittags um 4 Uhr Therm. im Schatten<lb />28° R. so bald Windstoß kam 29° in die Sonne bei Windstoß) ohne<lb />Wind 30° R. gegen 5 Uhr fürchterlicher Sturm bei heiterem Himel.<lb />fene Gewitterwolken mit fernen Blizen u um 8 ½ Uhr nur 16° R. den 20ten<lb />Aug. Morgens um 6 Uhr (nach Regen u Gewitter) nur 14 ½° R.<lb />am 20sten Aug. Morgens von 10–12 ½ Uhr immer Hygrometer 42°,8 Deluc od. 79° Sauss.<lb />bei 18 ¾° R. um 2 Uhr. 41,4 Deluc u 77,4 Sauss. bei 18 ¾° R. um 3 Uhr 76 Sauss.<lb />40 ¾ Deluc. Therm. 19° R.<lb />Landriani hat gefunden daß höchste Wärme in Italien im Schatten<lb />30 ½° R. war. reflex einer weißen Wand wirke bis auf 150 Fuß Ent-<lb />fernung u in Wien sei bisweilen in einem Tage Unterschied der<lb />Temperatur 18–19°. Berliner blau in oxygen. Salzsäure frisch aufge-<lb />leset, färbe sie gelb u diese Solution schlägt bloß Eisen u<lb />kein anderes Metall, selbst Kabelt u Braunstein nicht minder. Mit der<lb />zeit wird oxyg. Salz. zur gemeinen u dann wird sie blau.<lb />in 20 Aug. Luft meines Zimmers geprüft. Antraconete A. hielt bis Zeichnen<lb />Theile verschwanden 11/18 Theile. Correction wegen Druck Betrug 3 Theile also<lb />Kahlenauer. Anthrac. B. hält 184 Theile. blieben 177. correction 1,5 also<lb />042<lb />0,03 Kohlesäure. — aber um 3 Uhr bei 19° R eingesezt u nach 18 St. bei<lb />17 ¾ R. ausgenommen. Wohl nicht genau gemessen!<lb />am 21sten Abends bei 18° ½ R. A mit Zeichen wieder geprüft u correction genau<lb />3 Theile gefunden. Ein Zeichen daß der Verschluß luftdicht ist: wenn man 4 Theile<lb />Wassersäule nicht gesunken. Die Luft hat ihre durch den Druk empfange-<lb />ne Elasticität erhalten. Wäre Ventil nicht luftdicht, sondern durchbohrt<lb />so würde allerdings der Wasserspiegel aufs neue sinken.<lb />die Correction in A betrug in 20 Versuchen, das Ventil vorsichtig mit Finger<lb />(ohne Schraube) gehalten immer 3 bis 3 ½ Theile im Durchschnitt auf-<lb />ter 3. Da nun das Volumen 187 Theile so irrt man aufs höchste durch<lb />Anhängen des Wassers man 0,0023. d. i. noch nur den 4ten Theil von<lb />100.<lb />Fontana hat behauptet daß atmosphär. Kohlensäure nicht frei vorhanden wäre.<lb />Ich sagte am 21sten Abends Theile in jeder Röhre mit Kalkwasser ein<lb />Nach 12 St. waren 0,017. absorbiert. Es ging nämlich 0,5 von 29 vor<lb />laren. Bei 18 ½° R. eingesetzt u ausgenom̅en Bar. war gefallen. Röhre war<lb />2 Lin. Dikke. Daher mindere Berührung u wohl observation. An der Beobach<lb />tung des Thons. Längt Ursach auch nicht, denn nach Versuch stieg Wasser bei 16¾°<lb />erst von 32 ¼ bis 32 ¾. also machte 1 ¼° Unterschied erst im antracometer ein<lb />Steigen von 0,008. u um 1¾° R. irrt man nicht!</p>
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

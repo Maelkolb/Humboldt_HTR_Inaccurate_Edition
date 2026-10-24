@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 2v (Willdenow 1799-04-20)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 2v (Willdenow 1799-04-20) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="2v (Willdenow 1799-04-20)" facs="H0001200_2v.jpg" />
+            <div type="diaryEntry">
+                <p>Ministerialveranderung allhier u das Emporsteigen des neuen Günstlings<lb />Chevalier Urquijo habe ich so glüklich zu benuzen gesucht, daß ich dem<lb />König u besonders der Königin aufs dringendste empfohlen ward. Beide<lb />Monarchen haben mich so oft ich am Hofe erschien aufs wunderbarste<lb />ausgezeichnet u ich habe (was Spanier selbst für unmöglich hielten,<lb />nicht nur kön. Erlaubniß gebracht mit allen meinen Instrumenten<lb />in die Span. Colonien einzudringen, sondern ich bin auch mit Kön.<lb />Empfehlungen an alle Vicelänge u Gouverneurs ausgerüstet. Ich<lb />gehe nun zuerst nach Cuba dann nach Mexico, Californien, Para-<lb />na, Peru … Der franz. Botanist Bonpland begleitet mich<lb />u dem Herbarium soll nicht vergessen werden, ob gleich<lb />es sehr schwer ist Pflanzen sicher nach Europa zu</p>
+                <p>während des Krieges<lb />senden.<lb />Ich beschwöre dich mir von denen prächtigen Specien<lb />die wir nur bis Pentandria (2 Theile haben) durch<lb />Cavanilles nachzuschikken, durch die Gesandtschaft z. B.<lb />Ich habe nicht Zeit den Catalogus der sie durch gesammelten<lb />Pflanzen abzuschreiben. Er folgt also in brutto.<lb />Schreber, denn Phytographie von der er nur den 1sten fascikl hat, u<lb />Host flora austriaca.</p>
+                <p>Corunna d 5 Jun. 99.<lb />Mönige Stunden vor meiner Abreise mit der Fregatte Pizarro<lb />muß ich noch einmal, mein guter, mein Andenken in die zurüken<lb />sen. In 5 Tagen sind wir in den Canarien, dann<lb />an der Küste von Caracas wo der Cap. Briefe abgiebt.<lb />u dann in la Trinidad auf Cuba. Unwenn denen liebe<lb />Gattin, dein kleines, Hermes u größe Zöllner, Bade,<lb />u wer meine gedenkt. Ich hoffe wir sehen uns gesund<lb />wieder. Alle mein Instrumente sind schon an<lb />Bord. — Den Andenken begleitet mich der<lb />Mensch muß das Graßen u Güte wollen. Das übrige<lb />hängt vom Schiksal ab. Schreibe mir ja alle Jahre<lb />Mit leidlicher Liebe:<lb />und gab Kunthen den Brief.<lb />Humboldt</p>
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

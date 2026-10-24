@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 29r (Siberia 1829)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 29r (Siberia 1829) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="29r (Siberia 1829)" facs="H0005449_29r.jpg" />
+            <div type="diaryEntry">
+                <p>(Soukhoi Log. v. Baromètres)<lb />Martian le Pupkof; Rublowski<lb />Barom.) et la Soukhoi<lb />Wissim. Dans le dernier seul<lb />affin considérablement mêlé au<lb />platine. Les alluv. de Demid.<lb />donnent 85–90 pud plat. par an<lb />pourroient donner 100 p. Tout<lb />de l’Oural à peine 110 p. donc les Demid<lb />que seuls possesseurs dans l’air<lb />hiver.<lb />Lavages (plus de plus<lb />Schwarzow)</p>
+                <note hand="#author" place="left">
+                    <p>p 57</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>aussi</p>
+                </note>
+                <p>Ural proviant fast ganz aus dem<lb />Kornkammer bei<lb />Kirgisensteppe über Troitzk. A Cathar.<lb />coute le pud<lb />Bernstein</p>
+                <note hand="#author" place="left">
+                    <p>mittel</p>
+                </note>
+                <p>mit Braunkohle 19 W. von Kamenski<lb />Zavod am östl. Abhange von Ural<lb />So einflößig Pomerische Natur<lb />Wahre Steinkohle (Holm)<lb />Osten wird von Kislowski südöstl von<lb />Eisenhütte dort zu Frische Eisenverlust 3½<lb />Geldgräber bei Neviansk leider<lb />jezt nicht zu befahren aber aus Helden-<lb />und Stollen deutlich: Ein Gang<lb />Granit. Im Granit Gang 1 Sag<lb />hor 10,7<lb />Granit sind Richtung des Stollens<lb />Süd. 4 Schächte<lb />Granit zeigt daß eine Granitmasse<lb />senkrecht auf Gang u Gangkluft mit ausgefüllt<lb />hat. Granitarm erinnert an Beresow</p>
+                <note hand="#author" place="left">
+                    <p>(der ab-<lb />selnd</p>
+                </note>
+                <p>Tiefste 12 Sag. Wasser. Erze 4 Sol.<lb />Ein zweiter Stollen in Thonschiefer Im Gang<lb />wo er thonschiefer durchsiezt, oft überall<lb />wirk Granit<lb />mehrere</p>
+                <note hand="#author" place="left">
+                    <p>1. 2. 3<lb />4 Schiffe<lb />Stollen<lb />in Sch.<lb />Stollen<lb />Granitgang</p>
+                </note>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

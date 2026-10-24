@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 26v (America I 1799)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 26v (America I 1799) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="26v (America I 1799)" facs="H0016412_26v.jpg" />
+            <div type="diaryEntry">
+                <p>54</p>
+                <p>verschieden. Ich glaube vielmehr der Nordostwind<lb />dern die Sommerwärme der nördlichen u<lb />temperirten Zone erregt, ist Ursach dieser Re-<lb />genzeit. Dieser Wind erkalte die Luft so<lb />daß Thermometer ja ewig 18–19° steht u da<lb />diese Luft ungeheuer viel Wasser wegen Licht<lb />u Wärme aufgelöst enthält, so präci-<lb />pitirt dieser Wind das Wasser aus der Luft.<lb />Auch treibt er kalte Dunstschichten, nördliche<lb />Wolken in die heiße Zone. Diese lassen<lb />ihr eigenes Wasser fahren u erregen, we-<lb />gen ihrer Kälte u da in ihnen der Per-<lb />in der südlichen Luft durch die sie zie-<lb />hen. Daher erschöpfen sich diese Wolken nicht,<lb />sie kamen sich sogar vergrößern)<lb />daher hört es meist auf zu regnen wenn<lb />ist ganz nur dann, wenn in den<lb />die Wolken<lb />troknen Monathen weniger Nordostwind<lb />herrscht quod nescio. Aber auch Licht ist Ur-<lb />sach warum Luft in heißen Zone so<lb />viel Wasser auflöst und so vollkom̅en auf-<lb />last. Nachts ist Hygr. 60–63° Deluc wenn bei<lb />Tage 50–55° Nachts läßt in der heißen<lb />Zone die Luft so sichtlich Wasser fallen,<lb />daß alle Kleider benezt sind. Temperatur (S.<lb />Tabelle) ist aber dieselbe Nachts u tages. Warum<lb />laßt also Luft Wasser fahren. Sollte nicht Licht<lb />diese Auflösung befördern? Schon die Alten (Pi-<lb />eines reden von Verdünstung durch Mondlicht<lb />bei Carthago. Auf Bergen wo Licht stärker ist,<lb />ist Luft trokner fürs Hygr. das heißt lezt<lb />Wasser minder fahren. Aber am meisten spricht<lb />dafür der Umstand den bei uns alle Ak-<lb />persleute u hier alle Seeleute wissen, daß<lb />der aufgehende Mond die Wolken verscheucht<lb />auflöst, daß der Mond im Zunehmen die-</p>
+                <note hand="#author" place="left">
+                    <p>glaube ich,</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>allerdings, in troknen<lb />Monathen brize<lb />Ost u bisweilen<lb />Südwinde</p>
+                </note>
+                <note hand="#author" place="left">
+                    <p>meine mühsamen<lb />Beobachtungen über<lb />Mondlicht in Cuma-<lb />na 1800 haben<lb />indeß gelehrt, daß<lb />wenn Mond Ver-<lb />dünstung befördert<lb />es in uns unbe-<lb />merkbarer Menge<lb />ist.</p>
+                </note>
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

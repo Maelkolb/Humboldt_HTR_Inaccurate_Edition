@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 9r (Siberia 1829)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 9r (Siberia 1829) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="9r (Siberia 1829)" facs="H0005449_9r.jpg" />
+            <div type="diaryEntry">
+                <p>Table générale (Interbell’s magnet p 67)<lb />pour guider en cas de mort Mrs<lb />Oltmanns, Rose et Buch pour<lb />la publication de mes obs. astr.<lb />magn. géognost. et physiques<lb />Suite chronol. du voyage. Königsberg p.</p>
+                <p>Sandkrug p 5. 11<lb />De Pet. à Moscou 113–27. (Waldi II 59)<lb />Pétersbourg 27. 66<lb />Nischn. Norog. 113. 114.<lb />Navig. du Wolga 114. 115.<lb />Casan 116. (Bolgari 116) 45. 115.<lb />de Casan à Kungur et Bijarskaya<lb />p 66.</p>
+                <p>Pente oc. de l’Ural 118.<lb />116–117.<lb />Catherinb. 121. 118. 119. 105. 50–57. 69<lb />Beresow et Trac, Schert. 99. 118. 119. 121<lb />122.29.<lb />Goumeschofski Polefski 99. 100. 68. 58<lb />Cather. (Schabron)</p>
+                <p>Ki) 121. (Werchoturski)<lb />d’or.<lb />Nischoye Tagilsk. Belaya Gora 100–103.<lb />Neviansk<lb />40° 54′ 55″ — 57′<lb />te II 123</p>
+                <p>Kuschwa 103. 104. 45<lb />Nischné Turinsk. 104. 45–<lb />Laturski Bogeslawski 104. 105. 106. 107.<lb />47. 48. 49. 61. Ein 47. 48.<lb />Bogeslawsk. 106. 44. 49</p>
+                <p>Werchoturie Alapaewski Redjewskoi<lb />lat. en général 41° 54′<lb />Mursinsk 105. 52<lb />17. 57. 58. 56. Clar. 54.<lb />plat. I 17 Alluvions à<lb />avec or<lb />Vos de Cath. qui Tiumon à Tobolsk 69–75.<lb />II 98. 110<lb />de Tobolsk par Kainsk à Barnoul</p>
+                <p>Barnaul 77° 81. 82. 87. lg. discuté I 78 II<lb />Lac de Kolivan 8,5<lb />Schlangenberg 82–86. 88–90.<lb />Winde I 302</p>
+                <p>Kokan Riderski 90. 91.<lb />gesandte<lb />Ust Kamenag. 92. 112. 31<lb />Bachtorma 92. 93. 107.<lb />Sirianofski 93. 94. 95. 28. 107. 16.</p>
+                <p>Baty 95° 28′. Vergl. Cumaná<lb />Krasnoyar Vorpost<lb />Semipalatna 32. 33. 60<lb />Pinsk 62° 14′,60. Petropabl. 61° 14′,40</p>
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

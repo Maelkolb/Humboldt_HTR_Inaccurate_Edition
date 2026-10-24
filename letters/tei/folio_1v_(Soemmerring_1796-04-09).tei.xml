@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 1v (Soemmerring 1796-04-09)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 1v (Soemmerring 1796-04-09) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1v (Soemmerring 1796-04-09)" facs="H0002727_1v.jpg" />
+            <div type="diaryEntry">
+                <p>dersamen Phänomene, wo man einen Schenkel bloß<lb />dadurch zukken läßt, daß die Spize des nermus<lb />cunalis in d. tart. getaucht wird, die Zul-<lb />kug vom Zeh anfängt u so in den gastro<lb />cneumino übergeht. Glauben Sie gar nicht daß die<lb />alcalini in so fern reizen als sie Wasser an-<lb />ziehen. Das reine Wasser bringt ja gar<lb />kein Phänomen hervor, was nur damit im Ver-<lb />gleich stünde. Selbst das löser gebundene oxygen<lb />endlich schwächer, als das ol. tartari. H. Creves<lb />Ideen scheinen mir unendlich einseitig. Soll<lb />der Galvan. durch Wasserzersetzung erklärt werden, so<lb />ist dabei wohl auf oxygen im Wasser gerechnet, das al-<lb />lediges eine große Rolle in d. Maschine spielt.<lb />Aber Stoffe die kein oxygen halten, sondern azote<lb />wirken unendlich heftiger als depflz. Kochsalz. Red<lb />doch, Girt. Therien sind darum falsch, weil<lb />sie alles auf 1 Stof reduciren, da doch Leben<lb />des Resultat mehrere Kräfte, mehrere Stoffe ist.<lb />Entzündlichkeit und Irritabilität sind verwandt u<lb />der Lebensprozeß ist ein zusamengesezter entzünd-<lb />licher Proceß. Denken Sie wohl daran, daß die eitel<lb />sten Fruchtigkeit des Körpers Gehirn und Saamen, beson<lb />des Saamen nach Vauquelin so viel freies Mi-<lb />Blut resorbt u dadurch glaub ich der reizen-<lb />den alkalischen Stoff ins ganze System verbreitet<lb />Ich habe endlich einen Versuch entdekt der zuerst<lb />ganz widerlegt, daß das Galvan. fluidum nicht Electr.<lb />oxide de mercure mit flüssigem Geruch alcali destillirt<lb />giebt regul. Urksilber und Salpetersäure.</p>
+                <note hand="#author" place="left">
+                    <p>wie alcalin,</p>
+                </note>
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 3v (Polier 1829-09-14)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 3v (Polier 1829-09-14) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="3v (Polier 1829-09-14)" facs="H0019136_3v.jpg" />
+            <div type="diaryEntry">
+                <p>ne peuvent en Sibérie qu’être exploité que<lb />par la Couronne. Les tapages, corridans qu’<lb />on trouveroit dans les alluvions<lb />ne feroient certainement pas perdre la<lb />propriété des alluvions se brûle du désir<lb />de voir annoncer Votre découverte dans<lb />les Journaux, lorsque Vous aurez présenté<lb />le produit d’Adolphski a S. M l’Empe<lb />reur Faites aussi insérer une petite note<lb />dans les Journaux francais Hélas! cette<lb />excellente amie, Mad de Duras, que ne peut<lb />elle jouir de cette nouvelle gloire que<lb />s’attachera à Votre nom. Mr Schmidt<lb />nous a confié le trésor que nous Vous<lb />rapportons. L’idée que, pour se rendre<lb />agréable au nouveau maitre, ou se soit<lb />mis trois fois en fraix pour le pro-<lb />curer le produit, ne peut le<lb />présenter: elle est absurde parce que<lb />dans ce cas l’Intendant auroit annoncé<lb />la chose lui même et b seroit fait<lb />le mérite de la découverte. Faites venir<lb />bien des Schlich et examinez avec la<lb />loupe, si l’on ne trouve pas de la pe-<lb />tete graine! Rose et Ehrenberg nie char-<lb />gent de mille hommages affectueux. Votre<lb />bonheur fait le notre: nous ne parlons<lb />que de Votre découverte entre nous trois<lb />Il a découvert hier de la mine d’étain<lb />Zinnstein qu’on prenoit pour des cristaux<lb />de rutile. On n’en connoissoit pas jusqu’à</p>
+            </div>
+        </body>
+    </text>
+</TEI>

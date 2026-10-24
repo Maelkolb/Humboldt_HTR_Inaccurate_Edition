@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humboldt – Folio 2v (Karsten 1805-09-10)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Humboldt – The Inaccurate Edition (generated)</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Automated transcription of Humboldt – Folio 2v (Karsten 1805-09-10) by Alexander von Humboldt, produced by the Humboldt – The Inaccurate Edition pipeline.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>2026-10-24</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="2v (Karsten 1805-09-10)" facs="H0020386_2v.jpg" />
+            <div type="diaryEntry">
+                <p>Ich bin nie von irgend einem Fürsten unterstüzt worden.<lb />Man klagt in Deutschland wenn man gezwungen ist mit<lb />3 Kaffen zu reisen, ich hatte da Pflanzen so volumi-<lb />nis sind Papier, Speisevorrath, oft Kohlen und Wasser<lb />mitgeschleppt werden mußte auf Strekken von 7–800<lb />Meilen 35 bis 40 Kisten bei mir! Von dem Gesamm-<lb />leten büßt man meist ⅓ od. mehr ein und ob ich gleich<lb />gewisse Küsten ununterbrochen 4 Jahr lang mit mir gehabt<lb />so wird man doch am Ende noch gezwungen der Kosten wegen<lb />einen Großen Theil des längst gesammelten wegzuwerfen.<lb />So habe ich wegen des theuren Transports von Mexiko<lb />nach Veracruz sehr viel Mineralien bei Del Río in der-<lb />tigen Bergseminario gelassen. Eine andere Hälfte alles<lb />gebracht hat natürlich Herr Bonpland erhalten, so<lb />daß nach allen diesen Umständen und unter der Voraussezung<lb />daß Sammeln von Naturprodukten gar nicht Zwek meiner<lb />Expedition sein konnte, man sich nicht wundern darf, daß<lb />ich so wenig besize. Ich habe gern und gewissenhaft gegen<lb />ben alles was ich besaß, ich habe sogar alle Anfechtungen<lb />widerstanden, Fremden wie Blumenbach, Werner, Faujas<lb />irgend etwas zu geben. Daß mein Vaterland nicht mehr<lb />von mir besizt, liegt nicht an mir, sondern an meiner<lb />wenig glänzenden äußeren Lage. Meine Pflanzen werden<lb />um auch bald aus Paris ankommen und diese sind unseren<lb />edlen Willdanow als Geschenk bestim̅t, damit ich ohne</p>
+                <p />
+                <p />
+            </div>
+        </body>
+    </text>
+</TEI>
