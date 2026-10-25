@@ -17,13 +17,16 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date>2026-10-24</date>
+                <date>2026-10-25</date>
             </creation>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <pb n="136v (Cuba 1804)" facs="H0002922_136v.jpg" />
+            <div type="diaryEntry">
+                <p>1799.<lb />1799.<lb />1) 1797. 2) 1798. 3) 1799. 4) 1800. 5) 1801. 6) 1802. 7) 1803. 8) 1804. 9) 1805. 10) 1806. 11) 1<lb />1) 1797. 2) 1798. 3) 1799. 4) 1800. 5) 1801. 6) 1802. 7) 1803. 8) 1804. 9) 1805. 10) 1806. 11) 1<lb />1797.<lb />1) 1797.</p>
+            </div>
         </body>
     </text>
 </TEI>

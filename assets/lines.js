@@ -8,11 +8,23 @@
   }
   buttons.forEach(function(b){ b.addEventListener('click', toggleLines); });
 
+  var colourChips = document.querySelectorAll('.chip--colour');
+  function syncColour(){
+    var on = Array.from(colourChips).some(function(c){ return !c.classList.contains('is-off'); });
+    document.body.classList.toggle('ln-layout', on);
+    if(on && !document.body.classList.contains('show-lines')) toggleLines();
+  }
+  colourChips.forEach(function(c){ c.addEventListener('click', syncColour); });
+
   document.addEventListener('keydown', function(e){
     var tag = (e.target && e.target.tagName) || '';
     if(tag === 'SELECT' || tag === 'INPUT' || tag === 'TEXTAREA') return;
     if(e.metaKey || e.ctrlKey || e.altKey) return;
     if(e.key === 'l' || e.key === 'L') toggleLines();
+    if(e.key === 'c' || e.key === 'C'){
+      colourChips.forEach(function(c){ c.classList.toggle('is-off'); });
+      syncColour();
+    }
   });
 
   function visibleLine(page, id){

@@ -17,7 +17,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date>2026-10-24</date>
+                <date>2026-10-25</date>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -26,8 +26,9 @@
             <pb n="1v (Kunth 1817-11-11)" facs="H0014746_1v.jpg" />
             <div type="diaryEntry">
                 <p>à Monsieur</p>
-                <p>Professeur de Botanique<lb />23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23. 23.<lb />a</p>
-                <p>Paris<lb />Quai de l’<lb />École n 26.</p>
+                <p>Quai de l’<lb />Ecole n 26.</p>
+                <p>France</p>
+                <p />
             </div>
         </body>
     </text>

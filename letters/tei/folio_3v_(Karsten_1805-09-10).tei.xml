@@ -17,7 +17,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date>2026-10-24</date>
+                <date>2026-10-25</date>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -25,7 +25,6 @@
         <body>
             <pb n="3v (Karsten 1805-09-10)" facs="H0020386_3v.jpg" />
             <div type="diaryEntry">
-                <p>C.</p>
                 <p>Ein Professor Karsten in Berlin</p>
             </div>
         </body>

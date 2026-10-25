@@ -17,7 +17,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date>2026-10-24</date>
+                <date>2026-10-25</date>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -25,24 +25,20 @@
         <body>
             <pb n="55v (Austria 1797/98)" facs="H0019734_55v.jpg" />
             <div type="diaryEntry">
-                <p>2 — 8.<lb />obs. 48′ 50″ 14″<lb />Paris Breite 48° 50′ 11″<lb />kohler gab Br. v. Dresden 1769 u<lb />ec. mil 48 51. 5.<lb />Mechan. Le Noir<lb />1778 – 51° 5′ dann 1780 nur 51° 2′ 54″<lb />Opticus-Carrochez.<lb />an. Niebuhr fand sie 51° 3′ 30″.<lb />Bureau des longitudes: La Grange,<lb />la Placa. la Lande Michain. detambre<lb />Demanna, Außer der KartenSamml. auf d. Nat. Bibl. verkauft d’Anvilleschen Karten<lb />Berthoud macht Chronom.<lb />Didymi taurinensis litteraturae copticae rudi<lb />mentum. Parmae 1783.<lb />Buches Barometer steht um 35 14/16 Lin. höher als mein Stokbarometer.</p>
-                <p>am 22 Jun. gef.<lb />wahrer Mer. 12 h 2′<lb />12 h. 19′ 40″ 64° 38′ giebt 48° 50′ 50″<lb />mein Weiß<lb />21′ 15″ 64° 35′ — 48° 51′ 37″<lb />24.<lb />am 25 Jun<lb />wahrer M. 12 h 3′<lb />12 h. 60′ 45″ 64° 49′ giebt 48° 51′ 36″</p>
-                <p>err. indic des Trought. Sept. ist an — 4°<lb />mein Thermometer v. Renard ist ganz = dem Lavois. dans les Caves de l’<lb />Observat. (Mein Haarhygrom. war 77° als das mit 8 Haaren v. Richer<lb />im Observ. 79° war.) Das Therm. v. Megnie pour la Souche ist = dem des Caves. Das von<lb />Klindworth im Del. Hygrom. aber um 2° höher, das von Megnié im Kasten 0,6 höher.</p>
-                <p>Berichtigung des Throdoleth 22 messidor.<lb />1. Excentricität der Fäden 45″ bis 50″ wenn libella unten werden Winkel um<lb />22″ bis 25″ zu klein</p>
-                <p>2. Fehler der libelle od. der unteren Scheibe 1′ welche (wenn Schraube dem<lb />Ocular gegenüber) zugerechnet wird<lb />u 3. Fehler des ☉ Punkts nach 15 Winkeln 1′ demnach müßen 30<lb />wenn Schraube d. Ocular gegenüber zugerechnet werden.<lb />4. Breite des Fadens ist 30″ also 15″ abzuziehen.<lb />wenn Sonnenrand an der unteren Grenze des Rades stößt<lb />demnach müßten 1′ 35″ zugerechnet werden.<lb />1. Excentricität des Erdreichs fast 1″ wenn libella unten wird W. um 30″ zu klein<lb />Berichtigung 14 Jul.<lb />2. Fehler der libelle od. unteren Scheibe 1′ welche (wenn Scheibe d. Ocular ge-<lb />3. Breite des Fadens 25″ also wenn Sonnenund an unteren<lb />genüber) zuzurechnen.<lb />12″ zuzurechnen. (0 Zunkt hat keinen Fehler. 15 W. gaben in Rückobservat.<lb />Unterschied von 1′ der aber von n 2 allein herrührt.)<lb />also wie gewöhnlich<lb />zuzurechnen 1′ 18″ od. wenn ☉ auf Mitte des Fadens<lb />gar 1′ 30″</p>
+                <p>2 — 8.<lb />obs. 48° 50′ 14″<lb />Paris Breite 48° 50′ 11″<lb />kohler gab Br. v. Dresden 1769 u<lb />ec. mil 48 51. 5.<lb />Mechan. Le Noir<lb />1779 — 51° 5′ dann 1780 nur 51° 2′ 54″<lb />Opticus-Carrochez.<lb />an. Niebuhr fand sie 51° 3′ 30″.<lb />Bureau des longitudes: La Grange,<lb />la Place. La Lande Méchain. Delambre<lb />Messier. Borda. Claret. Fleuriu. Raache. Carrochez. le Francais. Bouvard.<lb />Demanna, Aufs der Kartensamml. auf d. Nat. Bibl. verkauft S Anvillesche Karten<lb />Berthoud macht Chronom.<lb />Didymi taurinensis litteraturae copticae rudi<lb />mentum. Parmae 1783.<lb />Buches Barometer steht um 35 14/16 Lin. höher als mein Stokbarometer.</p>
+                <p>am 22 Jun. gef.<lb />wahrer Mer. 12h 2′<lb />12 h. 19′ 40″ 64° 38′ giebt 48° 50′ 50″<lb />mein Weiß<lb />21′ 15″ 64° 35′ — 48° 51′ 37″<lb />24.<lb />am 25 Jun<lb />wahrer M. 12 h 3′<lb />12 h. 60′ 45″ 64° 49′ giebt 48° 51′ 36″</p>
+                <p>err. indic des Trought. Sext. ist an — 4<lb />mein Thermometer v. Renard ist ganz = dem Lavois. Dans les Caves de l’<lb />Observat. (Mein Haarhygrom. war 77° als das mit 8 Haaren v. Richer<lb />den Observ. 79° war.) Das Therm. v. Megnie pour la Sonde ist = dem des Caves. Das von<lb />Klindworth im Del. Hygrom. aber um 2° höher, das von Megnié im Kasten 0,6 höher.</p>
+                <p>Berichtigung des Chronolith 22 messidor.<lb />1. Excentricität der Fäden 45″ bis 50″ wenn libella unten werden Winkel um<lb />22″ bis 25″ zu klein</p>
+                <p>2. Fehler der libelle od. der unteren Scheibe 1′ welche (wenn Schraube dem<lb />Ocular gegenüber) zugerechnet wird<lb />3. Fehler des ☉ Punkts nach 15 Winkeln 1′ demnach müßten 30<lb />wenn Schraube d. Ocular gegenüber zugerechnet werden.<lb />4. Breite des Fadens ist 30″ also 15″ abzuziehen.<lb />wenn Sonnenrand an der unteren Grenze des Rades stößt<lb />demnach müßten 1′ 35″ zugerechnet werden.<lb />1. Excentricität des Erdens fast 1″ wenn libelle unten wird SW. um 30″ zu klein<lb />Berichtigung 14 Jul.<lb />2. Fehler der libelle od. unteren Scheibe 1′ welche (wenn Scheibe d. Ocular ge-<lb />3. Breite des Fadens 25″ also wenn Sonnenwind an unteren<lb />genüber) zuzurechnen.<lb />12″ zuzurechnen. (0 Punkt hat keinen Fehler. 15 W. gabem im Rükobservat.<lb />Unterschied von 1′ der aber von n 2 allein herrührt.)<lb />also wie gewöhnlich<lb />zuzurechnen 1′ 18″ od. wenn ☉ auf Mitte des Fadens<lb />gar 1′ 30″</p>
                 <note hand="#author" place="left">
-                    <p>am 23 brum.<lb />unten Winkel</p>
+                    <p>am 23 brum.<lb />1788. wenn Libelle<lb />unten Winkel</p>
                 </note>
                 <note hand="#author" place="left">
                     <p>3′ zu groß<lb />0 Punkt wenn Schrei-<lb />dem Oc. gegenüber<lb />also beim objectiv<lb />um 2′ 30″ zu<lb />also auf Mitte des Fa-<lb />dens alle L um 30″ zu<lb />groß.</p>
                 </note>
                 <note hand="#author" place="left">
-                    <p>Die kleinsten Ab-<lb />bedeuten 10″ also<lb />wenn gegen ☉ ansteigt<lb />wird (zu klein.)</p>
+                    <p>Die kleinsten Ab-<lb />theil meines niveaus<lb />bedeuten 10″ also<lb />6 esp.<lb />wenn gegen ☉ ansteigt<lb />wird zu klein.</p>
                 </note>
-                <p />
-                <p />
-                <p />
-                <p />
                 <p />
                 <p />
             </div>

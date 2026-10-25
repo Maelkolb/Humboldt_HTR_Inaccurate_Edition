@@ -17,7 +17,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date>2026-10-24</date>
+                <date>2026-10-25</date>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -25,9 +25,11 @@
         <body>
             <pb n="3r" facs="H0017682_3r.jpg" />
             <div type="diaryEntry">
-                <p>machte die Schiffarth im Kanale<lb />lebhaft, das Contoir der Hause<lb />in London brachte diese Stadt<lb />empor, die engl. Wolle ging<lb />nun von da aus, die unauf-<lb />hörlichen Zwistigkeiten mit Frank-<lb />reich machten eine Flotte und<lb />also auch einen Hafen im<lb />Kanale nothwendig, die Barbarei<lb />in welcher Irland so spät<lb />noch lag, ließ das natürliche<lb />Handelsverkehr zwischen Eng-<lb />land und Vorland nicht auf-<lb />blühen …</p>
-                <p>Dipsacus sylvestris, D. fullonum.<lb />und wenn ich recht gesehen auch<lb />D. lacinialus wachsen in Som-<lb />Linnen hielt gewiß mit Un-<lb />richt D. fullonum, der für d.<lb />Buchmanufakt. so wichtig ist, für</p>
-                <p />
+                <p>machte die Schiffarth im Kanale<lb />lebhaft, das Contoir der Hause<lb />in London brachte diese Stadt<lb />empor, die engl. Wolle ging<lb />nun von da aus, die unauf-<lb />hörlichen Zwistigkeiten mit Frank<lb />reich machten eine Flotte und<lb />also auch einen Hafen im<lb />Kanale nothwendig, die Barbarei<lb />in welcher Irland so spät<lb />noch lag, ließ das natürliche<lb />Handelsverkehr zwischen Eng-<lb />land und Vorland nicht auf-</p>
+            </div>
+            <div type="diaryEntry">
+                <head>Sommersetskiel</head>
+                <p>Dipsacus sylvestris, D. fullonum.<lb />und wenn ich recht gesehen auch<lb />D. laciniatus welches in Som-<lb />merselsh und Gloucestersh. wild.<lb />Linnen hielt gewiß mit Un-<lb />reicht D. sullonium, der für D.<lb />Tuchmanufakt. so wichtig ist, für</p>
                 <p />
                 <p />
             </div>

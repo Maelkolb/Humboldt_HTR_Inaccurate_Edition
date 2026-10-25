@@ -8,6 +8,11 @@ body.show-lines .line-overlay{display:block}
 .ln-g polyline{fill:none;stroke:var(--ln);stroke-width:3;vector-effect:non-scaling-stroke}
 .ln-g.ln--low polygon{fill-opacity:.04;stroke-dasharray:4 3}
 .ln-g.is-hot polygon{fill-opacity:.38;stroke-width:2.6}
+.ln-g line.ln-join{stroke:var(--ln);stroke-width:2.2;stroke-dasharray:6 4;stroke-linecap:round;vector-effect:non-scaling-stroke}
+body.ln-layout .ln-g{--ln:var(--lc)}
+body.ln-layout .ln-g polygon{fill-opacity:.3}
+body.ln-layout .ln-g.ln--low polygon{fill-opacity:.1}
+.chip-swatch--multi{background:conic-gradient(#d1495b 0 33%,#00798c 0 66%,#d08c1f 0)}
 body.hide-ln-matched .ln-g.ln--matched,
 body.hide-ln-extra .ln-g.ln--extra,
 body.hide-ln-low .ln-g.ln--low{display:none}

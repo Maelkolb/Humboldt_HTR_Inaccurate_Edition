@@ -17,7 +17,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date>2026-10-24</date>
+                <date>2026-10-25</date>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -25,7 +25,7 @@
         <body>
             <pb n="20r" facs="H0017682_20r.jpg" />
             <div type="diaryEntry">
-                <p>Derbyshire<lb />Pilckington II p 57 klagt sehr<lb />über die nahen Sitten der<lb />Einwohner des Peaks. Aus dem Ge-<lb />sezen kann man auf ihn alten<lb />Zustand schließen. Unter Edward I<lb />wurde ein Gesez gemacht, nach<lb />dem jeder darin eine kleine be-<lb />stöhle mit einer Hand an einem<lb />tisch genagelt werden und<lb />entweder verhungern od. sich mit<lb />der anderen Hand die angemengelte<lb />abschneiden soll</p>
+                <p>Derbyshire<lb />Pilckington II p 57 klagt sehr<lb />über die nahen Sitten der<lb />Einwohner des Peaks. Aus dem Ge-<lb />sezen kann man auf ihn alten<lb />Zustand schließen. Unter Edward I<lb />wurde ein Gesez gemacht, nach<lb />dem jeder darin eine kleine be-<lb />stöhle mit einer Hand an einem<lb />lich genagelt werden und<lb />entweder verhängern od. sich mit<lb />der anderen Hand die angemengelte<lb />abschneiden soll</p>
                 <note hand="#author" place="right">
                     <p>als das einzige<lb />Rettungsmittel,</p>
                 </note>

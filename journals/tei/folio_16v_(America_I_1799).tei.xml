@@ -17,7 +17,7 @@
         </fileDesc>
         <profileDesc>
             <creation>
-                <date>2026-10-24</date>
+                <date>2026-10-25</date>
             </creation>
         </profileDesc>
     </teiHeader>
@@ -25,20 +25,21 @@
         <body>
             <pb n="16v (America I 1799)" facs="H0016412_16v.jpg" />
             <div type="diaryEntry">
-                <p>Schiff aus Mogador in Santa Cruz anlangte<lb />sahen unsere Matrosen den irlandischen<lb />Feldkaplan sogleich wieder an Bord rudern, um<lb />auch da Nachrichten einzusammeln. Könnte er wie<lb />Beckmann in der Tasche schreiben, so wäre<lb />er zum Statistiker. Eine thätigere Neu<lb />gierde sah ich nie. Nachdem er en la Camera schon<lb />das Blut vieler tausend Franzosen genossen, machte<lb />er sich noch an den Chirurgus, den Contramaestro …<lb />keine historische Quelle war ihm unsäuber. Um<lb />mich zu zerstreuen, stellte ich die entscheidende<lb />Beobachtung über meinen Berthouschen Chronome-<lb />ter an. Am 19 Jun. od. 1 Messidor. Morgens Sonnen-<lb />höhen mit dem Ramsdenschen</p>
+                <p>Schiff aus Mogador in Santa Cruz anlangte<lb />sahen unsere Matrosen den irlandischen<lb />Feldkaplan sogleich wieder an Bord rudern, um<lb />auch da Nachrichten einzusammeln. Könnte er wie<lb />Beckmann in der Tasche schreiben, so wäre<lb />er zum Statistiker. Eine thätigere Neu<lb />gierde sah ich nie. Nachdem er en la Camera schon<lb />das Blut vieler tausend Franzosen genossen, machte<lb />er sich noch an den Chirurgus, den Contramaestro …<lb />keine historische Quelle war ihm unsäuber. Um<lb />mich zu zerstreuen, stellte ich die entscheidende<lb />Beobachtung über meinen Berthousschen Chronome-<lb />ter an. Am 19 Jun. od. 1 Messidor. Morgens Sonnen-<lb />höhen mit dem Ramsdenschen</p>
                 <p>34.</p>
                 <note hand="#author" place="left">
                     <p>geboren.</p>
                 </note>
                 <p>nommen:<lb />36° 15′ 0″ — 8h 45′ 58″<lb />23′ 3″ — 46′ 34″<lb />giebt mit großer Genauigkeit berechnet folgende Ab-<lb />33.<lb />stande in Zeit vom Pariser Meridian<lb />1 h. 14′ 14″<lb />12″</p>
-                <p>Mittelzahl 1h 14′ 10″ für Ort des Schifs. Nun lag der<lb />Pizarro (ich habe die Schazungen mehrere erfahrene<lb />Personen mit einander verglichen) zwischen 190 u 230<lb />toisen östlich vom mole von St. Croix also<lb />(die bei 28° Breite 1° genau 52.9 milles à 95° t<lb />hat u 3600″ = 50255 t) also giebt der Ber-<lb />Thonsche Chronometer dem moll von St.<lb />long. 1h 14′ 25″ od. 18° 36′ 15″<lb />Borda fand 1h 14′ 24″ eine gewiß bewundernswürdige<lb />Uebereinstimung. Zu bemerken ist hierbei daß in diesem</p>
                 <note hand="#author" place="left">
-                    <p>d’après Quenot<lb />Voy. au Pondichery<lb />Zach Oct. 1805<lb />p 328<lb />S. Croix mola<lb />lat 28° 29′ 46″<lb />long. 18° 33′ 36″<lb />par deux Chro<lb />nomètres.<lb />Reise deutsch</p>
+                    <p>Coll. 4 v.</p>
                 </note>
-                <p>4′ 13″ ret. 5 Juin<lb />24′ 8″ long Made<lb />29′ 23 ret. sur<lb />Paris</p>
-                <p>Calcul:<lb />36. 25 40.<lb />66. 32.<lb />59° 56′ = 3h 59′ 44″<lb />28. 28. 30 ½ angl. hor. 29. 5.<lb />131. 27. 1.<lb />12. 0. 51.<lb />65 43. 30<lb />29° 17′ 50″ 8′ 45′ 58″<lb />9. 15. 21.<lb />15′ 21″. 1 h 14′ 14″ long.<lb />a. die Länge von Madrid zu 24′ 8″ u b. der gleichförmige<lb />Gang des Chron zu 4″.4 wie auf dem festen Lande vorausge-<lb />sezt ist. Eigentlich lehrt der Chron. da er Madrider Zeit<lb />hält daß der Unterschied von St. Croix u Madrid<lb />in Zeit 50′ 17″ ist. Sollte demnach Herr Chaix finden,</p>
-                <p />
-                <p />
+                <p>Mittelzahl 1h 14′ 10″ für Ort des Schifs. Nun lag der<lb />Pizarro (ich habe die Schazungen mehrere erfahrener<lb />Personen mit einander verglichen) zwischen 190 u 230<lb />toisen östlich vom mole von St. Croix also<lb />(de bei 28° Breite 1° genau 52.9 milles à 950 t)<lb />hat u 3600″ = 50255 t) also giebt der Ber-<lb />Thonsche Chronometer den mold von St.<lb />long. 1h 14′ 25″ od. 18° 36′ 15″<lb />Borda fand 1h 14′ 24″ eine gewiß bewundernswürdige<lb />Uebereinstimung. Zu bemerken ist hierbei daß in diesem</p>
+                <note hand="#author" place="left">
+                    <p>d’après Quenot<lb />Voy. au Pondichery<lb />Zach Oct. 1805<lb />p 328<lb />S. Croix mola<lb />lat 28° 29′ 46″<lb />long. 18° 33′ 36″<lb />Pic lg. 18° 54′<lb />par deux Chro<lb />nomitrea.<lb />u Cooks<lb />Reise deutsch</p>
+                </note>
+                <p>4′ 13″ ret. 5 Juin<lb />24″ 8″ long Made<lb />29′ 23 ret. sur<lb />Paris</p>
+                <p>Calcul:<lb />36. 25 40.<lb />66. 32.<lb />59° 56′ = 3h 59′ 44″<lb />28. 28. 30 ½ angl. hor. 29. 5.<lb />131. 27. 1.<lb />65 43. 30<lb />29° 17′ 50″ 8′ 45′ 58″<lb />9. 15. 21.<lb />15′ 21″ 1 h 14′ 14″ long.<lb />a. die Länge von Madrid zu 24′ 8″ u b. der gleichförmige<lb />Gang des Chron zu 4″.4 wie auf dem festen Lande vorausge-<lb />sezt ist. Eigentlich lehrt der Chron. da er Madrider Zeit<lb />hält daß der Unterschied von St. Croix u Madrid<lb />in Zeit 50′ 17″ ist. Sollte demnach H. Chaix finden,</p>
                 <p />
                 <p />
                 <p />
